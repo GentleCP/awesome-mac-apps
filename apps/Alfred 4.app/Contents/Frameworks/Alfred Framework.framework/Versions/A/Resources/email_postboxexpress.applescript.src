@@ -1,9 +1,0 @@
--- Copyright 2014 Running with Crayons. All rights reserved.
-
--- Send an email with an attachment
-on send_email_with_attachment(ename, eemail, esubject, ebody, eattachment)
-	tell application "PostboxExpress"
-		send message subject esubject body ebody recipient eemail attachments eattachment with args
-		activate
-	end tell
-end send_email_with_attachment
