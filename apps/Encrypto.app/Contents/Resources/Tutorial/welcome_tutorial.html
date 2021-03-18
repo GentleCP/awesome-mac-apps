@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<!-- TODO: show correct link on site -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="jquery-1.11.2.min.js"></script>
+    <script src="frontend.js"></script>
+    <script src=""></script>
+</head>
+<body>
+	<div class="wrapper">
+		<div data-slide="1" class="slide slide-1 active active_anim" id="slide-1">
+			<div class="stars_block">
+				<div class="stars_back_1"></div>
+				<div class="stars_back_2"></div>
+				<div class="stars_front_1"></div>
+				<div class="stars_front_2"></div>
+                <div class="stars_front_3"></div>
+                <div class="stars_front_4"></div>
+			</div>
+			<div class="ico">
+                <span class="aes_icon"></span>
+			</div>
+			<div class="slide-title">Welcome to Encrypto!</div>
+			<div class="slide-text">
+                Encrypto password protects files with AES-256 encryption to make it completely risk-free to send them at work or home.
+			</div>
+		</div>
+		<div data-slide="2" class="slide slide-2" id="slide-2">
+			<div class="ico">
+                <div class="password" id="password">
+                    <div>••••••••</div>
+                </div>
+                <div class="hint" id="hint">
+                    <div><nobr>Where did we eat dinner last night?</nobr></div>
+                </div>
+			</div>
+			<div class="slide-title">Embedded Password Hints</div>
+			<div class="slide-text">
+                What better to relay a password than including an embedded hint to something only the recipient would know?
+			</div>
+            <div class="slide-note">NOTE: Make sure you don’t forget or lose your password! It isn’t recoverable!</div>
+		</div>
+		<div data-slide="3" class="slide slide-3" id="slide-3">
+			<div class="ico">
+				<div class="share_file_btn"></div>
+                <div class="share_pop_up"></div>
+                <span class="cursor"></span>
+			</div>
+			<div class="slide-title">Share Securely in a Few Clicks</div>
+			<div class="slide-text">
+                Safely send your newly encrypted file using the built-in sharing features of OS X. Or save the file to disk for safe keeping.
+			</div>
+		</div>
+		<div data-slide="4" class="slide slide-4" id="slide-4">
+			<div class="ico">
+                <div class="hide_btn"></div>
+                <span class="cursor"></span>
+                <span class="hide_original"></span>
+                <span class="hide_original_close"></span>
+			</div>
+			<div class="slide-title">Keep the Original Out of Sight</div>
+			<div class="slide-text">
+                Quickly encrypt and hide the original copies of the files you send thanks to seamless integration with Hider 2.
+			</div>
+		</div>
+        <div data-slide="5" class="slide slide-5" id="slide-5">
+            <div class="ico">
+                <div class="crypto_file_icon"></div>
+            </div>
+            <div class="slide-title">Access Files from Windows or Mac</div>
+            <div class="slide-text">
+                You won’t have to worry about your recipient not being able to decrypt files you send. Encrypto is available for Windows, too!
+            </div>
+        </div>
+		<div data-slide="6" class="slide slide-6" id="slide-6">
+			<div class="ico">
+				<div class="letter"></div>
+				<div class="letter_bottom"></div>
+			</div>
+			<div class="slide-title">Let's Stay in Touch!</div>
+			<div class="slide-text">
+                Sign up for our newsletter to stay informed about our new product releases, major updates, and great offers!
+			</div>
+			<div class="slide-email-subscribe">
+				<div class="email-field-wrapper" id="email-progress">
+					<input type="text" placeholder="Enter your email" class="email-subscribre push_on"/>
+					<span class="loader"></span>
+				</div>
+				<div class="thank-you-message ok">
+					Thank you! You have been subscribed to MacPaw Newsletters.
+				</div>
+				<div class="thank-you-message error">
+					Connection error. You will be subscribed when connection appears.
+				</div>
+			</div>
+		</div>
+		<div class="control-bar">
+			<div class="pagination">
+				<span data-to-page class="to-page active"></span>
+				<span data-to-page class="to-page"></span>
+				<span data-to-page class="to-page"></span>
+				<span data-to-page class="to-page"></span>
+				<span data-to-page class="to-page"></span>
+				<span data-to-page class="to-page"></span>
+				<input type="submit" data-to-next class="button-go-next" value="Next">
+				<div class="skip-subscribe">Skip</div>
+			</div>
+		</div>
+
+	</div>
+	<div id="label-next" style="display: none;">Next</div>
+	<div id="label-launch" style="display: none;">Subscribe</div>
+</body>
+</html>

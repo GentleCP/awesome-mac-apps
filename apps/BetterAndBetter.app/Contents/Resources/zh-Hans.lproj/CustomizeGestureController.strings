@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Draw a track anywhere on the screen as a gesture"; ObjectID = "99y-L5-81c"; */
+"99y-L5-81c.title" = "在屏幕上的任何位置绘制轨迹作为手势";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Gxe-MI-oFk"; */
+"Gxe-MI-oFk.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Hdt-AI-EhJ"; */
+"Hdt-AI-EhJ.title" = "取消";

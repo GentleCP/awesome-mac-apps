@@ -1,0 +1,260 @@
+{
+    "ranks": [
+              {
+              "identifier": "rank beginner",
+              "title": "Novice",
+              },
+              {
+              "identifier": "rank newbie",
+              "title": "Apprentice",
+              },
+              {
+              "identifier": "rank active",
+              "title": "Adept",
+              },
+              {
+              "identifier": "rank expert",
+              "title": "Master",
+              },
+              {
+              "identifier": "rank hero",
+              "title": "The Chosen One",
+              }
+              ],
+    "groups": [
+               {
+               "identifier": "group found size",
+               "title": "Anti-Duplicate Warrior",
+               "achievements": [
+                                {
+                                "identifier": "found 5gb",
+                                "title": "Trooper",
+                                "locked_details": "Duplicates taking over your Mac.\nFind 5 GB of duplicates\nand get rid of them.",
+                                "unlocked_details": "5 GB of duplicates found.\nUse the force of Gemini to find some more."
+                                },
+                                {
+                                "identifier": "found 25gb",
+                                "title": "Captain",
+                                "locked_details": "Duplicates taking over your Mac.\nFind 25 GB of duplicates\nand get rid of them.",
+                                "unlocked_details": "25 GB of duplicates found.\nUse the force of Gemini to find some more."
+                                },
+                                {
+                                "identifier": "found 150gb",
+                                "title": "Commander",
+                                "locked_details": "Duplicates taking over your Mac.\nFind 150 GB of duplicates\nand get rid of them.",
+                                "unlocked_details": "150 GB of duplicates found.\nUse the force of Gemini to find some more."
+                                }
+                                ]
+               },
+               {
+               "identifier": "group usage",
+               "title": "Gemini Veteran",
+               "achievements": [
+                                {
+                                "identifier": "scanned once",
+                                "title": "First-Timer",
+                                "locked_details": "Welcome to Gemini.\nScan your storages for the first time.",
+                                "unlocked_details": "You've scanned your storages once.\nGood start, keep it up.",
+                                },
+                                {
+                                "identifier": "opened twice",
+                                "title": "Newbie Scanner",
+                                "locked_details": "Be sure to open Gemini again.",
+                                "unlocked_details": "Gemini's been waiting for you.\nYou meet again, at last. ",
+                                },
+                                {
+                                "identifier": "scanned twice",
+                                "title": "Habitual Scanner",
+                                "locked_details": "Make scanning a habit.\nScan your storages twice.",
+                                "unlocked_details": "You've scanned your storages twice.\nWe see a pattern here.",
+                                },
+                                {
+                                "identifier": "scanned five times",
+                                "title": "Expert Scanner",
+                                "locked_details": "You're a few scans away from becoming an expert.\nScan your storages 5 times.",
+                                "unlocked_details": "You've scanned your storages 5 times.\nKeep running Gemini at full blast.",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group loyal user",
+               "title": "MacPaw Knight",
+               "achievements": [
+                                {
+                                "identifier": "feedback provided",
+                                "title": "Savvy Commentator",
+                                "locked_details": "Anything to say about Gemini?\nSend your comments via Feedback.",
+                                "unlocked_details": "You've had your say. MacPaw has heard you.\nThanks for the feedback.",
+                                },
+                                {
+                                "identifier": "subscribed",
+                                "title": "News Follower",
+                                "locked_details": "Information is power.\nJoin our newsletter to stay in the know.",
+                                "unlocked_details": "You've joined the MacPaw side.\nThanks for following our news.",
+                                },
+                                {
+                                "identifier": "cmm used",
+                                "title": "Space Liberator",
+                                "locked_details": "Junk files are space wasters, too.\nGet CleanMyMac to liberate your disk space.",
+                                "unlocked_details": "Live long and prosper, space liberator!\nYou've got CleanMyMac to free up your disk space.",
+                                },
+                                {
+                                "identifier": "hider used",
+                                "title": "Data Protector",
+                                "locked_details": "Privacy is a rule.\nGet Hider 2 to secure private data.",
+                                "unlocked_details": "Live long and prosper, data protector!\nYou've got Hider 2 to secure your data.",
+                                },
+                                {
+                                "identifier": "cmd used",
+                                "title": "Drive Guardian",
+                                "locked_details": "Protect external drives from invisible junk.\nGet CleanMyDrive 2 to clean them up.",
+                                "unlocked_details": "Live long and prosper, drive guardian!\nYou've got CleanMyDrive 2 to protect your drives.",
+                                },
+                                {
+                                "identifier": "encrypto used",
+                                "title": "File Encoder",
+                                "locked_details": "Make your files impossible to decipher.\nGet Encrypto to encode your X-files.",
+                                "unlocked_details": "Live long and prosper, file encoder!\nYou’ve got Encrypto to encode your files.",
+                                },
+                                {
+                                "identifier": "all macpaw products used",
+                                "title": "Mac App Lord",
+                                "locked_details": "Embrace the MacPaw force!\nGet all MacPaw apps.",
+                                "unlocked_details": "You've got all MacPaw apps!\nMay they serve you well.",
+                                },
+                                {
+                                "identifier": "activated",
+                                "title": "Duplicate Destroyer",
+                                "locked_details": "You're gonna need a Gemini license\nto destroy those duplicates.",
+                                "unlocked_details": "Congratulations! You have a license\nto destroy duplicates.",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group scan locations",
+               "title": "Space Explorer",
+               "achievements": [
+                                {
+                                "identifier": "scanned iTunes",
+                                "title": "Music Explorer",
+                                "locked_details": "Duplicate tunes invade your music space.\nScan iTunes to spot them.",
+                                "unlocked_details": "You've scanned your iTunes library.\nTime to destroy those duplicate tunes.",
+                                },
+                                {
+                                "identifier": "scanned Photos",
+                                "title": "Photos Explorer",
+                                "locked_details": "Duplicate pics invade your photo space\nScan Photos to spot them.",
+                                "unlocked_details": "You've scanned your Photos library.\nTime to destroy those duplicate pics.",
+                                },
+                                {
+                                "identifier": "scanned external drives",
+                                "title": "Outer Space Explorer",
+                                "locked_details": "Duplicate files invade your external drive.\nScan it to spot them.",
+                                "unlocked_details": "You've scanned your external drive.\nTime to destroy those duplicate files.",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group sharing results",
+               "title": "Captain Speaking",
+               "achievements": [
+                                {
+                                "identifier": "results shared once",
+                                "title": "Beginner Speaking",
+                                "locked_details": "Tell the world you've destroyed some duplicates:\nshare your cleanup results.",
+                                "unlocked_details": "First contact has been established.\nYou've shared your cleanup results once.",
+                                },
+                                {
+                                "identifier": "results shared twice",
+                                "title": "Veteran Speaking",
+                                "locked_details": "Tell the world you've destroyed more duplicates:\nshare your cleanup results twice.",
+                                "unlocked_details": "The word's getting out.\nYou've shared your cleanup results twice.",
+                                },
+                                {
+                                "identifier": "results shared 3 times",
+                                "title": "Master Speaking",
+                                "locked_details": "Tell the world you've destroyed even more duplicates:\nshare your cleanup results 3 times.",
+                                "unlocked_details": "Sharing like a master!\nYou've shared your cleanup results 3 times.",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group sharing achievements",
+               "title": "Stellar Communicator",
+               "achievements": [
+                                {
+                                "identifier": "achievement shared once",
+                                "title": "Novice Communicator",
+                                "locked_details": "New rank or reward?\nShare it to spread the word.",
+                                "unlocked_details": "You've spread the word about your new achievement.\nGreat job. But don't get cocky.",
+                                },
+                                {
+                                "identifier": "achievement shared twice",
+                                "title": "Ace Communicator",
+                                "locked_details": "Got 2 achievements already?\nShare them to spread the word.",
+                                "unlocked_details": "You've spread the word about 2 achievements.\nGreat job. But don't get cocky.",
+                                },
+                                {
+                                "identifier": "achievement shared 5 times",
+                                "title": "Pro Communicator",
+                                "locked_details": "Got 5 achievements already?\nShare them to spread the word.",
+                                "unlocked_details": "You've spread the word about 5 achievements.\nGreat job. But don't get cocky.",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group tell a friend",
+               "title": "Comrade-in-Arms",
+               "achievements": [
+                                {
+                                "identifier": "tell 1 friend",
+                                "title": "Buddy",
+                                "locked_details": "Know someone who likes stellar apps?\nInvite a friend to try Gemini.",
+                                "unlocked_details": "You've told a friend about Gemini.\nBecause that's what true comrades-in-arms do.",
+                                },
+                                {
+                                "identifier": "tell 2 friends",
+                                "title": "True Pal",
+                                "locked_details": "Know someone who likes stellar apps?\nInvite 2 friends to try Gemini.",
+                                "unlocked_details": "You've told 2 friends about Gemini.\nBecause that's what true comrades-in-arms do.",
+                                },
+                                {
+                                "identifier": "tell 5 friends",
+                                "title": "Real Friend",
+                                "locked_details": "Know someone who likes stellar apps?\nInvite 5 friends to try Gemini.",
+                                "unlocked_details": "You've told 5 friends about Gemini.\nBecause that's what true comrades-in-arms do.",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group app discovery",
+               "title": "Gemini Scout",
+               "achievements": [
+                                {
+                                "identifier": "viewed all screens",
+                                "title": "Interface Traveler",
+                                "locked_details": "Explore Gemini:\ngo through the workflow to see what it's got.",
+                                "unlocked_details": "You've seen most of Gemini now,\nbut there's more to discover.",
+                                },
+                                {
+                                "identifier": "algorithm tought",
+                                "title": "Gemi Master",
+                                "locked_details": "Gemini can learn.\nTell it to remember your selection, and it will.",
+                                "unlocked_details": "Congratulations, Master!\nGemini's algorithm you have trained.",
+                                },
+                                {
+                                "identifier": "logo clicked 5 times",
+                                "title": "Far Corners Voyager",
+                                "locked_details": "Always exploring the far corners of apps?\nTry clicking on the logo.",
+                                "unlocked_details": "Wow, you boldly go where\nno man has gone before.",
+                                },
+                                {
+                                "identifier": "easter egg found",
+                                "title": "Hidden Gem Finder",
+                                "locked_details": "You'll find Gemini is full of surprises.\nCan you spot the Easter Egg?",
+                                "unlocked_details": "You do know where\nto look for hidden gems.",
+                                }
+                                ]
+               }
+               ]
+}

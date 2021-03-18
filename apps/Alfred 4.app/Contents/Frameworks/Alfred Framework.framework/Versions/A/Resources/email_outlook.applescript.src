@@ -1,0 +1,29 @@
+-- Copyright 2014 Running with Crayons. All rights reserved.
+
+-- Send an email with an attachment
+on send_email_with_attachment(ename, eemail, esubject, ebody, eattachment)
+	tell application "Microsoft Outlook"
+		
+		activate
+		
+		# Create the new outgoing message with the predefined subject field
+		set theMessage to make new outgoing message with properties {subject:esubject}
+		
+		# Create the new attachment for the messsage
+		repeat with aattachment in eattachment
+			make new attachment of theMessage with properties {file:(POSIX file aattachment)}
+		end repeat
+		
+		# Set the recipient properties
+		if length of eemail > 0 then
+			if length of ename = 0 then
+				make new to recipient at theMessage with properties {email address:{address:eemail}}
+			else
+				make new to recipient at theMessage with properties {email address:{name:ename, address:eemail}}
+			end if
+		end if
+		
+		# Create and open the new message
+		open theMessage
+	end tell
+end send_email_with_attachment

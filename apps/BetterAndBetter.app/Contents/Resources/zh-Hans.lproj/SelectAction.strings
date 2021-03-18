@@ -1,0 +1,81 @@
+
+/* Class = "NSTabViewItem"; label = "Shortcut Keys"; ObjectID = "6Ox-ZG-ajQ"; */
+"6Ox-ZG-ajQ.label" = "快捷键";
+
+/* Class = "NSTextFieldCell"; title = "Do you know the shortcut keys on Mac?"; ObjectID = "Awe-v4-ygM"; */
+"Awe-v4-ygM.title" = "Mac上的快捷键，你了解吗?";
+
+/* Class = "NSTabViewItem"; label = "AppleScript"; ObjectID = "DPP-Lu-kQd"; */
+"DPP-Lu-kQd.label" = "脚本";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "DzQ-TL-UZU"; */
+"DzQ-TL-UZU.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "E3T-Ff-6Ze"; */
+"E3T-Ff-6Ze.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "FQe-7s-0nm"; */
+"FQe-7s-0nm.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "FvO-6Z-LP7"; */
+"FvO-6Z-LP7.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "GsT-BH-QIO"; */
+"GsT-BH-QIO.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Description"; ObjectID = "K9l-tc-r2h"; */
+"K9l-tc-r2h.headerCell.title" = "描述";
+
+/* Class = "NSTextFieldCell"; title = "Here is a secret that keeps you in touch"; ObjectID = "KC6-9T-Jp7"; */
+"KC6-9T-Jp7.title" = "这里有一份键指如飞的秘籍";
+
+/* Class = "NSTextFieldCell"; title = "Do you want to learn?"; ObjectID = "Lt1-qv-AfQ"; */
+"Lt1-qv-AfQ.title" = "你可想要学习?";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "LyJ-Fa-VAu"; */
+"LyJ-Fa-VAu.title" = "Table View Cell";
+
+/* Class = "NSTabViewItem"; label = "Preset"; ObjectID = "OSG-kk-5hd"; */
+"OSG-kk-5hd.label" = "预设";
+
+/* Class = "NSButtonCell"; title = "Shortcut keys cannot be entered, click here to view >>"; ObjectID = "Ob9-i6-CU3"; */
+"Ob9-i6-CU3.title" = "快捷键无法输入，点此查看 >>";
+
+/* Class = "NSTableColumn"; headerCell.title = "Functional category"; ObjectID = "Up8-Aa-4Vi"; */
+"Up8-Aa-4Vi.headerCell.title" = "";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VQz-nx-b0D"; */
+"VQz-nx-b0D.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Vql-b9-Jd7"; */
+"Vql-b9-Jd7.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "aPc-ZU-xg8"; */
+"aPc-ZU-xg8.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "cAR-6h-M6E"; */
+"cAR-6h-M6E.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "AppleScript Name"; ObjectID = "cfa-ez-wU6"; */
+"cfa-ez-wU6.headerCell.title" = "脚本名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Preset Name"; ObjectID = "d7H-Bm-dpP"; */
+"d7H-Bm-dpP.headerCell.title" = "预设名称";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "lcC-lO-kQo"; */
+"lcC-lO-kQo.title" = "Box";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "lmv-SC-2S7"; */
+"lmv-SC-2S7.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "m3A-iS-xm8"; */
+"m3A-iS-xm8.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Learn"; ObjectID = "pz8-H9-7Kn"; */
+"pz8-H9-7Kn.title" = "学习";
+
+/* Class = "NSTextFieldCell"; title = "Enter shortcut keys:"; ObjectID = "qTg-HS-IsT"; */
+"qTg-HS-IsT.title" = "输入快捷键:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "wNg-0k-UMC"; */
+"wNg-0k-UMC.title" = "取消";

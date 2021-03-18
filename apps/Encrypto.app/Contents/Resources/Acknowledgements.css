@@ -1,0 +1,20 @@
+html, body {
+    padding: 5px;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+h2 {
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 2px 0 0;
+}
+
+p {
+    font-size: 11px;
+    color: #ddd;
+    font-weight: normal;
+    margin: 0 4px 8px 0;
+}

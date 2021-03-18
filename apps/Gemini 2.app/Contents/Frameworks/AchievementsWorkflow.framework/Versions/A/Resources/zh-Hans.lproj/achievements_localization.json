@@ -1,0 +1,260 @@
+{
+    "ranks": [
+              {
+              "identifier": "rank beginner",
+              "title": "菜鸟",
+              },
+              {
+              "identifier": "rank newbie",
+              "title": "学徒",
+              },
+              {
+              "identifier": "rank active",
+              "title": "大咖",
+              },
+              {
+              "identifier": "rank expert",
+              "title": "大师",
+              },
+              {
+              "identifier": "rank hero",
+              "title": "天才",
+              }
+              ],
+    "groups": [
+               {
+               "identifier": "group found size",
+               "title": "防重复战士",
+               "achievements": [
+                                {
+                                "identifier": "found 5gb",
+                                "title": "骑兵",
+                                "locked_details": "重复项占据了您的 Mac。\n找到 5 GB 重复项\n将它们删除。",
+                                "unlocked_details": "找到 5 GB 重复项。\n借助 Gemini 查找更多重复项。"
+                                },
+                                {
+                                "identifier": "found 25gb",
+                                "title": "上尉",
+                                "locked_details": "重复项占据了您的 Mac。\n找到 25 GB 重复项\n将它们删除。",
+                                "unlocked_details": "找到 25 GB 重复项。\n借助 Gemini 查找更多重复项。"
+                                },
+                                {
+                                "identifier": "found 150gb",
+                                "title": "司令",
+                                "locked_details": "重复项占据了您的 Mac。\n找到 150 GB 重复项\n将它们删除。",
+                                "unlocked_details": "找到 150 GB 重复项。\n借助 Gemini 查找更多重复项。"
+                                }
+                                ]
+               },
+               {
+               "identifier": "group usage",
+               "title": "Gemini 专家",
+               "achievements": [
+                                {
+                                "identifier": "scanned once",
+                                "title": "初次使用者",
+                                "locked_details": "欢迎使用 Gemini。 首次扫描存储设备。",
+                                "unlocked_details": "您已经扫描了一次存储设备。 顺利开始，继续下去哟。",
+                                },
+                                {
+                                "identifier": "opened twice",
+                                "title": "新手扫描者",
+                                "locked_details": "确保再次打开 Gemini。",
+                                "unlocked_details": "Gemini 一直在等您哟。 终于再见面了。 ",
+                                },
+                                {
+                                "identifier": "scanned twice",
+                                "title": "习惯扫描者",
+                                "locked_details": "让扫描变成一种习惯。 扫描存储设备两次。",
+                                "unlocked_details": "您已经扫描了两次存储设备。 我们在此看见榜样了。",
+                                },
+                                {
+                                "identifier": "scanned five times",
+                                "title": "专家扫描者",
+                                "locked_details": "再扫描几次，您就成专家了。 扫描存储设备 5 次。",
+                                "unlocked_details": "您已经扫描了 5 次存储设备。 保持 Gemini 全速运行。",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group loyal user",
+               "title": "MacPaw 骑士",
+               "achievements": [
+                                {
+                                "identifier": "feedback provided",
+                                "title": "聪明的评论员 ",
+                                "locked_details": "关于 Gemini 想说些什么吗？ 通过反馈发送您的想法。",
+                                "unlocked_details": "您有发言权。 MacPaw 听到了您的想法。 谢谢您的反馈。",
+                                },
+                                {
+                                "identifier": "subscribed",
+                                "title": "新闻关注者",
+                                "locked_details": "信息就是力量。 加入我们的新闻通讯，掌握最新动态。",
+                                "unlocked_details": "您加入了 MacPaw 订阅。 感谢您关注我们的新闻。",
+                                },
+                                {
+                                "identifier": "cmm used",
+                                "title": "空间解放者 ",
+                                "locked_details": "垃圾文件也浪费了大量空间。 获取 CleanMyMac 3，释放您的磁盘空间。",
+                                "unlocked_details": "空间解放者，长盛不衰！ 您已经拥有 CleanMyMac 3，可以释放您的磁盘空间。",
+                                },
+                                {
+                                "identifier": "hider used",
+                                "title": "数据保护器",
+                                "locked_details": "隐私是一种规则。 获取 Hider 2，保护私人数据。",
+                                "unlocked_details": "数据保护器，长盛不衰！ 您已经拥有 Hider 2，可以保护您的数据。",
+                                },
+                                {
+                                "identifier": "cmd used",
+                                "title": "驱动器卫士",
+                                "locked_details": "保护外部驱动器，防止出现看不见的垃圾。 获取 CleanMyDrive 2，将它们清理干净。",
+                                "unlocked_details": "驱动器卫士，长盛不衰！ 您已经拥有 CleanMyDrive 2，可以保护您的驱动器。",
+                                },
+                                {
+                                "identifier": "encrypto used",
+                                "title": "文件编码器",
+                                "locked_details": "让您的文件不可能被破译。 获取 Encrypto，对您的 X 文件进行编码。",
+                                "unlocked_details": "文件加密器，长盛不衰！ 您已经拥有 Encrypto，可以对您的文件进行编码。",
+                                },
+                                {
+                                "identifier": "all macpaw products used",
+                                "title": "Mac App 套餐",
+                                "locked_details": "感受 MacPaw 的实力！ 获取所有 MacPaw 应用。",
+                                "unlocked_details": "您已经拥有所有 MacPaw 应用 — 希望它们为您带来愉快的体验。",
+                                },
+                                {
+                                "identifier": "activated",
+                                "title": "重复项毁灭者",
+                                "locked_details": "您需要 Gemini 许可证才能删除那些重复。",
+                                "unlocked_details": "祝贺您！ 您拥有许可证可以删除重复项。",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group scan locations",
+               "title": "空间探索者",
+               "achievements": [
+                                {
+                                "identifier": "scanned iTunes",
+                                "title": "音乐探索者",
+                                "locked_details": "重复的曲目侵占了音乐空间。 扫描 iTunes 将它们找出来。",
+                                "unlocked_details": "您已经扫描了 iTunes 库。 是时候删除那些重复的曲目了。",
+                                },
+                                {
+                                "identifier": "scanned Photos",
+                                "title": "照片探索者",
+                                "locked_details": "重复的照片侵占了照片空间。 扫描照片将它们找出来。",
+                                "unlocked_details": "您已经扫描了照片图库。 是时候删除那些重复的照片了。",
+                                },
+                                {
+                                "identifier": "scanned external drives",
+                                "title": "外部空间探索者",
+                                "locked_details": "重复的文件侵占了外部驱动器。 扫描它将它们找出来。",
+                                "unlocked_details": "您已经扫描了外部驱动器。 是时候删除那些重复的文件了。",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group sharing results",
+               "title": "星际传播者",
+               "achievements": [
+                                {
+                                "identifier": "results shared once",
+                                "title": "新手传播者",
+                                "locked_details": "告诉全世界您删除了一些重复项：分享您的清理结果。",
+                                "unlocked_details": "建立了第一次联系。 您已经分享了一次清理结果。",
+                                },
+                                {
+                                "identifier": "results shared twice",
+                                "title": "杰出传播者",
+                                "locked_details": "告诉全世界您删除了更多重复项：分享了 2 次您的清理结果。",
+                                "unlocked_details": "全球广为人知。 您已经分享了两次清理结果。",
+                                },
+                                {
+                                "identifier": "results shared 3 times",
+                                "title": "专业传播者",
+                                "locked_details": "告诉全世界您删除了更多重复项：分享了 3 次您的清理结果。",
+                                "unlocked_details": "像大师一样分享！ 您已经分享了 3 次清理结果。",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group sharing achievements",
+               "title": "上尉讲话！",
+               "achievements": [
+                                {
+                                "identifier": "achievement shared once",
+                                "title": "入门者讲话",
+                                "locked_details": "新等级或奖励？ 口耳相传。",
+                                "unlocked_details": "您已经传播了关于新成就的消息。 做得不错。 但是不要过于自信。",
+                                },
+                                {
+                                "identifier": "achievement shared twice",
+                                "title": "专家讲话",
+                                "locked_details": "获得了 2 个成就？ 口耳相传。",
+                                "unlocked_details": "您已经传播了关于 2 个成就的消息。 做得不错。 但是不要过于自信。",
+                                },
+                                {
+                                "identifier": "achievement shared 5 times",
+                                "title": "大师讲话",
+                                "locked_details": "获得了 5 个成就？ 口耳相传。",
+                                "unlocked_details": "您已经传遍了了关于 5 个成就的消息。 做得不错。 但是不要过于自信。",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group tell a friend",
+               "title": "战友",
+               "achievements": [
+                                {
+                                "identifier": "tell 1 friend",
+                                "title": "密友",
+                                "locked_details": "知道有人喜欢明星应用？ 邀请朋友试用 Gemini。",
+                                "unlocked_details": "您已经将 Gemini 告诉了 1 个朋友。 因为真正的战友才会那样做。",
+                                },
+                                {
+                                "identifier": "tell 2 friends",
+                                "title": "真正朋友 ",
+                                "locked_details": "知道有人喜欢明星应用？ 邀请 2 个朋友试用 Gemini。",
+                                "unlocked_details": "您已经将 Gemini 告诉了 2 个朋友。 因为真正的战友才会那样做。",
+                                },
+                                {
+                                "identifier": "tell 5 friends",
+                                "title": "真正朋友",
+                                "locked_details": "知道有人喜欢明星应用？ 邀请 5 个朋友试用 Gemini。",
+                                "unlocked_details": "您已经将 Gemini 告诉了 5 个朋友。 因为真正的战友才会那样做。",
+                                }
+                                ]
+               },
+               {
+               "identifier": "group app discovery",
+               "title": "Gemini 侦察员",
+               "achievements": [
+                                {
+                                "identifier": "viewed all screens",
+                                "title": "界面穿行者",
+                                "locked_details": "探索 Gemini：浏览工作流程，查看详细内容。",
+                                "unlocked_details": "现在您已经看了 Gemini 的绝大部分，但是仍有许多功能等您发现。",
+                                },
+                                {
+                                "identifier": "algorithm tought",
+                                "title": "Gemi 大师",
+                                "locked_details": "Gemini 可以学习。 告诉它记住您的选择，它会记住。",
+                                "unlocked_details": "祝贺您，大师！ 您已经掌握了 Gemini 的算法。",
+                                },
+                                {
+                                "identifier": "logo clicked 5 times",
+                                "title": "最远角落旅行者",
+                                "locked_details": "总是探索应用的最远角落？ 尝试点击徽标。",
+                                "unlocked_details": "哇，您勇敢地闯入无人区。",
+                                },
+                                {
+                                "identifier": "easter egg found",
+                                "title": "隐藏的宝石查找器 ",
+                                "locked_details": "您会发现 Gemini 充满了惊喜。 您能认出复活节彩蛋吗？",
+                                "unlocked_details": "您的确知道从哪里寻找隐藏的宝石。",
+                                }
+                                ]
+               }
+               ]
+}

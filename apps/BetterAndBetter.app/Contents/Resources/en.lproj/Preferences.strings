@@ -1,0 +1,2526 @@
+
+/* Class = "NSMenuItem"; title = "6Key Click"; ObjectID = "02J-rA-Wwl"; */
+"02J-rA-Wwl.title" = "6Key Click";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "0Js-c0-SOO"; */
+"0Js-c0-SOO.title" = "Letter";
+
+/* Class = "NSTextFieldCell"; title = "iCloud has backed up"; ObjectID = "0Ne-7w-gUL"; */
+"0Ne-7w-gUL.title" = "iCloud has backed up";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0RU-9j-sUK"; */
+"0RU-9j-sUK.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "0dg-eF-1ux"; */
+"0dg-eF-1ux.title" = "1";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "0ej-fA-XXn"; */
+"0ej-fA-XXn.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "3Finger_LeftFinger_SwipeLeft"; ObjectID = "0hL-l9-mIp"; */
+"0hL-l9-mIp.title" = "3Finger_LeftFinger_SwipeLeft";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "0rz-go-C1i"; */
+"0rz-go-C1i.title" = "Text";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "15H-mu-OBZ"; */
+"15H-mu-OBZ.headerCell.title" = "Action";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "15b-Zl-ajr"; */
+"15b-Zl-ajr.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "19k-XA-jfR"; */
+"19k-XA-jfR.title" = "Align Right";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "1HO-Qy-Pb4"; */
+"1HO-Qy-Pb4.title" = "RightMouse Click";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "1NG-Sk-IyD"; */
+"1NG-Sk-IyD.headerCell.title" = "Action";
+
+/* Class = "NSMenuItem"; title = "Left Top Side"; ObjectID = "1Of-dj-Ksy"; */
+"1Of-dj-Ksy.title" = "Left Top Side";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1SR-ZW-CQv"; */
+"1SR-ZW-CQv.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "1fX-TV-PND"; */
+"1fX-TV-PND.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "1iO-ul-f3D"; */
+"1iO-ul-f3D.title" = "Page Setup…";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "1tI-pO-cEy"; */
+"1tI-pO-cEy.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Center"; ObjectID = "1yY-xH-P3Q"; */
+"1yY-xH-P3Q.title" = "Center";
+
+/* Class = "NSMenuItem"; title = "One Stroke"; ObjectID = "2AX-Tc-2Ef"; */
+"2AX-Tc-2Ef.title" = "One Stroke";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "2Lv-2B-oAJ"; */
+"2Lv-2B-oAJ.title" = "Transformations";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2Pi-uv-nPY"; */
+"2Pi-uv-nPY.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application Name"; ObjectID = "2VA-bO-JFi"; */
+"2VA-bO-JFi.headerCell.title" = "Application Name";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2dx-yW-PrT"; */
+"2dx-yW-PrT.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "5Finger_Tap"; ObjectID = "2e2-aI-Z3D"; */
+"2e2-aI-Z3D.title" = "5Finger_Tap";
+
+/* Class = "NSButtonCell"; title = "Right-key blacklist apps"; ObjectID = "2j6-P2-MWR"; */
+"2j6-P2-MWR.title" = "Right-key blacklist apps";
+
+/* Class = "NSMenuItem"; title = "3Finger_DoubleTap"; ObjectID = "2m8-Dc-ZDn"; */
+"2m8-Dc-ZDn.title" = "3Finger_DoubleTap";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "2yI-d6-DFU"; */
+"2yI-d6-DFU.title" = "Scroll Up";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "30x-Q0-db0"; */
+"30x-Q0-db0.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Trigger action text prompt:"; ObjectID = "32d-6Q-1Qp"; */
+"32d-6Q-1Qp.title" = "Trigger action text prompt:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "33q-5T-A2o"; */
+"33q-5T-A2o.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "3AX-zI-sDv"; */
+"3AX-zI-sDv.title" = "Scroll Down";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "3MI-Ed-oPr"; */
+"3MI-Ed-oPr.title" = "Zoom";
+
+/* Class = "NSTextFieldCell"; title = "BetterAndBetter"; ObjectID = "3Ti-hx-nVE"; */
+"3Ti-hx-nVE.title" = "BetterAndBetter";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "3Y4-Mp-YGO"; */
+"3Y4-Mp-YGO.title" = "Preferences…";
+
+/* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "3aH-g3-f26"; */
+"3aH-g3-f26.title" = "Slow";
+
+/* Class = "NSButtonCell"; title = "Holding three fingers simulate middlemouse"; ObjectID = "3aY-8I-01g"; */
+"3aY-8I-01g.title" = "Holding three fingers simulate middlemouse";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "3bw-vs-iAl"; */
+"3bw-vs-iAl.title" = "\tDefault";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "3jB-h7-qRm"; */
+"3jB-h7-qRm.title" = "Paste";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "3kc-Fj-h9G"; */
+"3kc-Fj-h9G.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "3nh-0R-QzE"; */
+"3nh-0R-QzE.title" = "Scroll Down";
+
+/* Class = "NSTextFieldCell"; title = "Upload time：2020-04-05-20-40"; ObjectID = "3uD-Ec-nLW"; */
+"3uD-Ec-nLW.title" = "Upload time：2020-04-05-20-40";
+
+/* Class = "NSMenuItem"; title = "Top Right Corner"; ObjectID = "3yj-Go-1Lu"; */
+"3yj-Go-1Lu.title" = "Top Right Corner";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "4Cc-oN-bv7"; */
+"4Cc-oN-bv7.title" = "Table View Cell";
+
+/* Class = "NSMenu"; title = "Bottom Middle Side"; ObjectID = "4EY-OS-0Q9"; */
+"4EY-OS-0Q9.title" = "Bottom Middle Side";
+
+/* Class = "NSMenu"; title = "One Stroke"; ObjectID = "4FG-74-I7y"; */
+"4FG-74-I7y.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "Two Fingers"; ObjectID = "4Gk-vT-x2q"; */
+"4Gk-vT-x2q.title" = "Two Fingers";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "4NB-5E-q0i"; */
+"4NB-5E-q0i.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "4NT-84-gPG"; */
+"4NT-84-gPG.title" = "Scroll Up";
+
+/* Class = "NSTabViewItem"; label = "AppleScript Library"; ObjectID = "4RT-Pc-Yae"; */
+"4RT-Pc-Yae.label" = "AppleScript Library";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "4SZ-QL-ITw"; */
+"4SZ-QL-ITw.title" = "Substitutions";
+
+/* Class = "NSTableColumn"; headerCell.title = "Icon"; ObjectID = "53s-PI-iTI"; */
+"53s-PI-iTI.headerCell.title" = "Icon";
+
+/* Class = "NSMenuItem"; title = "Holding one second"; ObjectID = "5H5-SZ-9YU"; */
+"5H5-SZ-9YU.title" = "Holding one second";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "5MT-t9-Yu5"; */
+"5MT-t9-Yu5.title" = "Scroll Down";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "5P2-KA-Fte"; */
+"5P2-KA-Fte.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "4Finger_Swipe_Up"; ObjectID = "5UB-r7-V4L"; */
+"5UB-r7-V4L.title" = "4Finger_Swipe_Up";
+
+/* Class = "NSMenuItem"; title = "Drawing"; ObjectID = "5hM-xG-sdF"; */
+"5hM-xG-sdF.title" = "Drawing";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "5iu-Q9-D7O"; */
+"5iu-Q9-D7O.title" = "Clear Menu";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "5q8-Bn-rOp"; */
+"5q8-Bn-rOp.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "5sD-bz-c8w"; */
+"5sD-bz-c8w.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "5vc-Mg-XfW"; */
+"5vc-Mg-XfW.title" = "Scroll Down";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5z9-Ns-R6M"; */
+"5z9-Ns-R6M.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "621-Eq-nEm"; */
+"621-Eq-nEm.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "64a-Nu-wVE"; */
+"64a-Nu-wVE.title" = "Bold";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "64y-hK-wFg"; */
+"64y-hK-wFg.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "One Stroke"; ObjectID = "66r-gV-gch"; */
+"66r-gV-gch.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "6HP-Np-6ZL"; */
+"6HP-Np-6ZL.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "6JV-Wj-mCy"; */
+"6JV-Wj-mCy.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "6MS-ea-KuY"; */
+"6MS-ea-KuY.title" = "MiddleMouse Click";
+
+/* Class = "NSTabViewItem"; label = "Gesture Settings"; ObjectID = "6QT-Dv-N9n"; */
+"6QT-Dv-N9n.label" = "Gesture Settings";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "6Sp-Ml-hiA"; */
+"6Sp-Ml-hiA.title" = "Show Spelling and Grammar";
+
+/* Class = "NSButtonCell"; title = "General Settings"; ObjectID = "6Tw-6m-Ubm"; */
+"6Tw-6m-Ubm.title" = "General Settings";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "6UJ-1b-G4T"; */
+"6UJ-1b-G4T.headerCell.title" = "Note";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "6Vr-Y5-bah"; */
+"6Vr-Y5-bah.title" = "Button";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "6lh-ek-SHb"; */
+"6lh-ek-SHb.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "6mV-kq-dE1"; */
+"6mV-kq-dE1.title" = "Letter";
+
+/* Class = "NSMenuItem"; title = "8Key Click"; ObjectID = "6ro-wB-mTj"; */
+"6ro-wB-mTj.title" = "8Key Click";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "6uD-uQ-PJR"; */
+"6uD-uQ-PJR.title" = "Scroll Down";
+
+/* Class = "NSMenu"; title = "Holding MiddleMouse"; ObjectID = "6ug-es-hdd"; */
+"6ug-es-hdd.title" = "Holding MiddleMouse";
+
+/* Class = "NSMenu"; title = "BetterAndBetter"; ObjectID = "6xr-4e-Ykq"; */
+"6xr-4e-Ykq.title" = "BetterAndBetter";
+
+/* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "6zX-uo-0s0"; */
+"6zX-uo-0s0.title" = "Show Fonts";
+
+/* Class = "NSMenuItem"; title = "3Finger_Pinch_In"; ObjectID = "786-ci-LLC"; */
+"786-ci-LLC.title" = "3Finger_Pinch_In";
+
+/* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "7IC-L1-D29"; */
+"7IC-L1-D29.title" = "Paragraph";
+
+/* Class = "NSTableColumn"; headerCell.title = "Enable"; ObjectID = "7Nk-Ni-tYZ"; */
+"7Nk-Ni-tYZ.headerCell.title" = "Enable";
+
+/* Class = "NSTextFieldCell"; title = "Wechat"; ObjectID = "7S4-CS-c7O"; */
+"7S4-CS-c7O.title" = "Wechat";
+
+/* Class = "NSMenuItem"; title = "⇧"; ObjectID = "7Ym-PY-h2a"; */
+"7Ym-PY-h2a.title" = "⇧";
+
+/* Class = "NSMenuItem"; title = "Holding 4Key"; ObjectID = "7bN-sb-QNz"; */
+"7bN-sb-QNz.title" = "Holding 4Key";
+
+/* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "7cE-rL-hZC"; */
+"7cE-rL-hZC.title" = "Paste Style";
+
+/* Class = "NSMenuItem"; title = "Holding one second"; ObjectID = "7cY-kB-Irh"; */
+"7cY-kB-Irh.title" = "Holding one second";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "7gw-6e-WyE"; */
+"7gw-6e-WyE.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "7hs-an-PCm"; */
+"7hs-an-PCm.title" = "Scroll Down";
+
+/* Class = "NSMenuItem"; title = "BetterAndBetter"; ObjectID = "7oK-ok-NK1"; */
+"7oK-ok-NK1.title" = "BetterAndBetter";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "83Q-kp-sDK"; */
+"83Q-kp-sDK.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "848-Ay-A7g"; */
+"848-Ay-A7g.title" = "Start Speaking";
+
+/* Class = "NSWindow"; title = "BetterAndBetter"; ObjectID = "877-C1-6mU"; */
+"877-C1-6mU.title" = "BetterAndBetter";
+
+/* Class = "NSMenuItem"; title = "One Stroke"; ObjectID = "8Ac-gN-cyT"; */
+"8Ac-gN-cyT.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "8Af-6g-1Hu"; */
+"8Af-6g-1Hu.title" = "Letter";
+
+/* Class = "NSButtonCell"; title = "Click to login iCloud"; ObjectID = "8Bd-Jq-9E3"; */
+"8Bd-Jq-9E3.title" = "Click to login iCloud";
+
+/* Class = "NSMenuItem"; title = "Key Combination"; ObjectID = "8EQ-61-gLq"; */
+"8EQ-61-gLq.title" = "Key Combination";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8eG-gU-2ra"; */
+"8eG-gU-2ra.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Holding Fn,single finger move"; ObjectID = "8lF-aG-2ut"; */
+"8lF-aG-2ut.title" = "Holding Fn,single finger move";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "8nK-Oe-zmI"; */
+"8nK-Oe-zmI.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Click"; ObjectID = "8xn-E9-Z0t"; */
+"8xn-E9-Z0t.title" = "Click";
+
+/* Class = "NSMenuItem"; title = "Key Combination"; ObjectID = "93C-gx-WLj"; */
+"93C-gx-WLj.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "Holding 5Key"; ObjectID = "95N-pe-LDF"; */
+"95N-pe-LDF.title" = "Holding 5Key";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9BX-Zf-frA"; */
+"9BX-Zf-frA.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Two Fingers"; ObjectID = "9CX-Bo-cJv"; */
+"9CX-Bo-cJv.title" = "Two Fingers";
+
+/* Class = "NSTextFieldCell"; title = "Tencent Lemon Lite"; ObjectID = "9DZ-8L-d2J"; */
+"9DZ-8L-d2J.title" = "Tencent Lemon Lite";
+
+/* Class = "NSMenuItem"; title = "About BetterAndBetter"; ObjectID = "9L9-IP-DPl"; */
+"9L9-IP-DPl.title" = "About BetterAndBetter";
+
+/* Class = "NSTextFieldCell"; title = "Recommended mouse：Elecom M-XGL20DLS"; ObjectID = "9NM-hP-3RO"; */
+"9NM-hP-3RO.title" = "Recommended mouse：Elecom M-XGL20DLS";
+
+/* Class = "NSMenuItem"; title = "5Finger_Swipe_Down"; ObjectID = "9RI-q0-ea7"; */
+"9RI-q0-ea7.title" = "5Finger_Swipe_Down";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9an-gd-97z"; */
+"9an-gd-97z.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "1Finger_Click_Top_Right"; ObjectID = "9iG-r4-c3H"; */
+"9iG-r4-c3H.title" = "1Finger_Click_Top_Right";
+
+/* Class = "NSMenuItem"; title = "2Finger_RightFinger_SwipeLeft"; ObjectID = "9xO-ae-ZqB"; */
+"9xO-ae-ZqB.title" = "2Finger_RightFinger_SwipeLeft";
+
+/* Class = "NSMenuItem"; title = "2Finger_Tap"; ObjectID = "A9T-Sv-qQa"; */
+"A9T-Sv-qQa.title" = "2Finger_Tap";
+
+/* Class = "NSMenu"; title = "Letter"; ObjectID = "AEZ-fS-vuV"; */
+"AEZ-fS-vuV.title" = "Letter";
+
+/* Class = "NSMenuItem"; title = "6"; ObjectID = "AOu-Tb-YDS"; */
+"AOu-Tb-YDS.title" = "6";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "AQh-dc-WrL"; */
+"AQh-dc-WrL.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "2Finger_TipTap_Near_Right"; ObjectID = "Ahz-Dl-J1A"; */
+"Ahz-Dl-J1A.title" = "2Finger_TipTap_Near_Right";
+
+/* Class = "NSMenuItem"; title = "2Finger_LeftFinger_SwipeLeft"; ObjectID = "AiA-A1-wfn"; */
+"AiA-A1-wfn.title" = "2Finger_LeftFinger_SwipeLeft";
+
+/* Class = "NSTextFieldCell"; title = "Others"; ObjectID = "AjM-vZ-VEe"; */
+"AjM-vZ-VEe.title" = "Others";
+
+/* Class = "NSTabViewItem"; label = "Detection and Setting"; ObjectID = "Ap2-Kp-mdu"; */
+"Ap2-Kp-mdu.label" = "Detection and Setting";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "Atl-Yo-Iec"; */
+"Atl-Yo-Iec.title" = "Scroll Up";
+
+/* Class = "NSTextFieldCell"; title = "AutoSwitchInput"; ObjectID = "Awr-05-Zwp"; */
+"Awr-05-Zwp.title" = "AutoSwitchInput";
+
+/* Class = "NSTableColumn"; headerCell.title = "AppleScript Name"; ObjectID = "AyY-2g-J7Y"; */
+"AyY-2g-J7Y.headerCell.title" = "AppleScript Name";
+
+/* Class = "NSMenuItem"; title = "5Key Click"; ObjectID = "Az6-Ml-ETc"; */
+"Az6-Ml-ETc.title" = "5Key Click";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Right_Middle"; ObjectID = "AzD-me-7RC"; */
+"AzD-me-7RC.title" = "1Finger_Tap_Right_Middle";
+
+/* Class = "NSMenuItem"; title = "3Finger_Pinch_In"; ObjectID = "B6e-mD-iih"; */
+"B6e-mD-iih.title" = "3Finger_Pinch_In";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "BGy-1B-j0J"; */
+"BGy-1B-j0J.title" = "RightMouse Click";
+
+/* Class = "NSButtonCell"; title = "Free"; ObjectID = "BIR-gN-ALq"; */
+"BIR-gN-ALq.title" = "Free";
+
+/* Class = "NSMenuItem"; title = "Holding MiddleMouse"; ObjectID = "BLv-gU-8bB"; */
+"BLv-gU-8bB.title" = "Holding MiddleMouse";
+
+/* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "BPT-LL-hXI"; */
+"BPT-LL-hXI.title" = "Smaller";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BfN-Te-PTL"; */
+"BfN-Te-PTL.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Holding MiddleMouse"; ObjectID = "Bgd-7l-BG3"; */
+"Bgd-7l-BG3.title" = "Holding MiddleMouse";
+
+/* Class = "NSMenuItem"; title = "3Finger_LeftFinger_SwipeDown"; ObjectID = "Bln-G4-D6y"; */
+"Bln-G4-D6y.title" = "3Finger_LeftFinger_SwipeDown";
+
+/* Class = "NSMenuItem"; title = "Underline"; ObjectID = "BuY-t7-jYl"; */
+"BuY-t7-jYl.title" = "Underline";
+
+/* Class = "NSTextFieldCell"; title = "Key detection"; ObjectID = "C0b-9p-u4F"; */
+"C0b-9p-u4F.title" = "Key detection";
+
+/* Class = "NSMenu"; title = "Top Right Side"; ObjectID = "C3Z-Bl-MZ8"; */
+"C3Z-Bl-MZ8.title" = "Top Right Side";
+
+/* Class = "NSButtonCell"; title = "More Free Apps"; ObjectID = "CHT-VB-CtO"; */
+"CHT-VB-CtO.title" = "More Free Apps";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Top_Right"; ObjectID = "CPY-l6-csh"; */
+"CPY-l6-csh.title" = "1Finger_Tap_Top_Right";
+
+/* Class = "NSMenuItem"; title = "Right Middle Side"; ObjectID = "CPl-bN-yGR"; */
+"CPl-bN-yGR.title" = "Right Middle Side";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "CXF-mt-YT8"; */
+"CXF-mt-YT8.title" = "Show Substitutions";
+
+/* Class = "NSMenu"; title = "Baseline"; ObjectID = "Ceo-nt-v7f"; */
+"Ceo-nt-v7f.title" = "Baseline";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "Cgf-r6-wPv"; */
+"Cgf-r6-wPv.title" = "MiddleMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ChM-sd-VW3"; */
+"ChM-sd-VW3.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Official Account"; ObjectID = "Chy-pR-1I8"; */
+"Chy-pR-1I8.title" = "Official Account";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "Ciq-DL-Yue"; */
+"Ciq-DL-Yue.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "Cyx-B8-FoR"; */
+"Cyx-B8-FoR.title" = "Scroll Up";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "D0n-E8-RqW"; */
+"D0n-E8-RqW.title" = "Reset";
+
+/* Class = "NSMenu"; title = "Two Stroke"; ObjectID = "D0t-SK-CbA"; */
+"D0t-SK-CbA.title" = "Two Stroke";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "D14-iF-8LP"; */
+"D14-iF-8LP.title" = "LeftMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "D3X-WC-omO"; */
+"D3X-WC-omO.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "D9N-4b-OX5"; */
+"D9N-4b-OX5.title" = "Scroll Up";
+
+/* Class = "NSTableColumn"; headerCell.title = "Modifier"; ObjectID = "DNO-8n-ba2"; */
+"DNO-8n-ba2.headerCell.title" = "Modifier";
+
+/* Class = "NSTextFieldCell"; title = "iCloud Synchronize"; ObjectID = "DWB-V8-pSk"; */
+"DWB-V8-pSk.title" = "iCloud Synchronize";
+
+/* Class = "NSMenuItem"; title = "3Finger_TipTap_Left"; ObjectID = "DWY-bE-kNH"; */
+"DWY-bE-kNH.title" = "3Finger_TipTap_Left";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DWz-lu-o1X"; */
+"DWz-lu-o1X.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Check for update"; ObjectID = "DYH-RW-UlS"; */
+"DYH-RW-UlS.title" = "Check for update";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "DaI-Yy-Mzw"; */
+"DaI-Yy-Mzw.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "DcO-Lh-Cu5"; */
+"DcO-Lh-Cu5.title" = "Delete";
+
+/* Class = "NSMenuItem"; title = "One Finger"; ObjectID = "Df8-pu-axg"; */
+"Df8-pu-axg.title" = "One Finger";
+
+/* Class = "NSButtonCell"; title = "Show / not show"; ObjectID = "Dfy-jJ-FqH"; */
+"Dfy-jJ-FqH.title" = "Show / not show";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dps-H6-Brs"; */
+"Dps-H6-Brs.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "E76-ls-5Uz"; */
+"E76-ls-5Uz.title" = "Scroll Right";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "EA9-X2-0mW"; */
+"EA9-X2-0mW.title" = "Scroll Down";
+
+/* Class = "NSMenu"; title = "One Finger"; ObjectID = "EB0-G2-fRa"; */
+"EB0-G2-fRa.title" = "One Finger";
+
+/* Class = "NSMenuItem"; title = "4Finger_LeftFinger_SwipeLeft"; ObjectID = "EGf-V2-1qx"; */
+"EGf-V2-1qx.title" = "4Finger_LeftFinger_SwipeLeft";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "EIK-ph-Jux"; */
+"EIK-ph-Jux.title" = "-";
+
+/* Class = "NSMenuItem"; title = "Holding 8Key"; ObjectID = "ERQ-Sf-5od"; */
+"ERQ-Sf-5od.title" = "Holding 8Key";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "EZB-HO-Fur"; */
+"EZB-HO-Fur.title" = "Letter";
+
+/* Class = "NSTextFieldCell"; title = "2.5"; ObjectID = "Ebe-ak-r41"; */
+"Ebe-ak-r41.title" = "2.5";
+
+/* Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "Ecd-ir-ecB"; */
+"Ecd-ir-ecB.title" = "Show Colors";
+
+/* Class = "NSTableColumn"; headerCell.title = "Icon"; ObjectID = "Eet-Sh-TxF"; */
+"Eet-Sh-TxF.headerCell.title" = "Icon";
+
+/* Class = "NSMenuItem"; title = "4Key Click"; ObjectID = "Er4-rg-YjN"; */
+"Er4-rg-YjN.title" = "4Key Click";
+
+/* Class = "NSTableColumn"; headerCell.title = "Scroll Speed"; ObjectID = "F3h-Up-K7r"; */
+"F3h-Up-K7r.headerCell.title" = "Scroll Speed";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "F7N-5i-ngq"; */
+"F7N-5i-ngq.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Holding 6Key"; ObjectID = "F9X-fu-6mx"; */
+"F9X-fu-6mx.title" = "Holding 6Key";
+
+/* Class = "NSMenuItem"; title = "2Finger_TipTap_Far_Right"; ObjectID = "F9g-pc-GKP"; */
+"F9g-pc-GKP.title" = "2Finger_TipTap_Far_Right";
+
+/* Class = "NSMenuItem"; title = "7Key Click"; ObjectID = "FAz-NL-ZiC"; */
+"FAz-NL-ZiC.title" = "7Key Click";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "FDd-Mi-oSy"; */
+"FDd-Mi-oSy.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "FOe-P4-nhj"; */
+"FOe-P4-nhj.title" = "Italic";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "FQN-Wy-Ev0"; */
+"FQN-Wy-Ev0.title" = "Letter";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Center"; ObjectID = "FYk-oB-hHc"; */
+"FYk-oB-hHc.title" = "1Finger_Tap_Center";
+
+/* Class = "NSMenuItem"; title = "1Finger_Click_Top_Left"; ObjectID = "Fbi-mB-C9C"; */
+"Fbi-mB-C9C.title" = "1Finger_Click_Top_Left";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FcL-Ap-J8I"; */
+"FcL-Ap-J8I.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Right Top Side"; ObjectID = "Fd4-UM-ZnQ"; */
+"Fd4-UM-ZnQ.title" = "Right Top Side";
+
+/* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "Fpq-k4-3z7"; */
+"Fpq-k4-3z7.title" = "Align Left";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Fv8-l4-V3m"; */
+"Fv8-l4-V3m.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "Fy4-wH-tm0"; */
+"Fy4-wH-tm0.title" = "File";
+
+/* Class = "NSMenu"; title = "Right Middle Side"; ObjectID = "G18-uy-LWd"; */
+"G18-uy-LWd.title" = "Right Middle Side";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "GEk-Qj-jvg"; */
+"GEk-Qj-jvg.title" = "LeftMouse Click";
+
+/* Class = "NSMenu"; title = "Key Combination"; ObjectID = "GEn-a3-unS"; */
+"GEn-a3-unS.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Bottom_Left"; ObjectID = "GGK-FF-LRT"; */
+"GGK-FF-LRT.title" = "1Finger_Tap_Bottom_Left";
+
+/* Class = "NSButtonCell"; title = "Free"; ObjectID = "GJi-hH-dtL"; */
+"GJi-hH-dtL.title" = "Free";
+
+/* Class = "NSMenu"; title = "Font"; ObjectID = "GJn-ua-ZvR"; */
+"GJn-ua-ZvR.title" = "Font";
+
+/* Class = "NSButtonCell"; title = "Disable invalid key drawing function"; ObjectID = "Gcd-Nv-wcv"; */
+"Gcd-Nv-wcv.title" = "Disable invalid key drawing function";
+
+/* Class = "NSMenuItem"; title = "One Stroke"; ObjectID = "Gdz-Pv-3tO"; */
+"Gdz-Pv-3tO.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "One Stroke"; ObjectID = "Geu-Lo-vyu"; */
+"Geu-Lo-vyu.title" = "One Stroke";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Gn7-FD-Vep"; */
+"Gn7-FD-Vep.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "One Stroke"; ObjectID = "Gtk-6x-HMm"; */
+"Gtk-6x-HMm.title" = "One Stroke";
+
+/* Class = "NSButtonCell"; title = "Edit in Script Editor"; ObjectID = "Gwh-1c-gMu"; */
+"Gwh-1c-gMu.title" = "Edit in Script Editor";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "H0C-ZG-uvH"; */
+"H0C-ZG-uvH.title" = "Scroll Up";
+
+/* Class = "NSMenu"; title = "Left Middle Side"; ObjectID = "H1y-db-W7c"; */
+"H1y-db-W7c.title" = "Left Middle Side";
+
+/* Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "H2q-g6-xFw"; */
+"H2q-g6-xFw.title" = "Paste Ruler";
+
+/* Class = "NSMenuItem"; title = "3Finger_Tap"; ObjectID = "H4V-GY-p1g"; */
+"H4V-GY-p1g.title" = "3Finger_Tap";
+
+/* Class = "NSMenuItem"; title = "Right Bottom Side"; ObjectID = "H5V-bH-Ymm"; */
+"H5V-bH-Ymm.title" = "Right Bottom Side";
+
+/* Class = "NSMenuItem"; title = "4Key Click"; ObjectID = "H9U-u7-Si9"; */
+"H9U-u7-Si9.title" = "4Key Click";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application Name"; ObjectID = "HBU-B1-Ab9"; */
+"HBU-B1-Ab9.headerCell.title" = "Application Name";
+
+/* Class = "NSTabViewItem"; label = "KeyboardTabView"; ObjectID = "HBg-jE-ing"; */
+"HBg-jE-ing.label" = "KeyboardTabView";
+
+/* Class = "NSMenuItem"; title = "Two Stroke"; ObjectID = "HEe-zJ-TJN"; */
+"HEe-zJ-TJN.title" = "Two Stroke";
+
+/* Class = "NSButtonCell"; title = "Simulate normal mouse middlemouse drawing"; ObjectID = "HEp-f4-6U4"; */
+"HEp-f4-6U4.title" = "Simulate normal mouse middlemouse drawing";
+
+/* Class = "NSMenu"; title = "Left Top Side"; ObjectID = "HHs-4R-YhU"; */
+"HHs-4R-YhU.title" = "Left Top Side";
+
+/* Class = "NSMenuItem"; title = "2Finger_Click"; ObjectID = "HOA-Hw-ONx"; */
+"HOA-Hw-ONx.title" = "2Finger_Click";
+
+/* Class = "NSButtonCell"; title = "Vertical reversal of the scroll wheel"; ObjectID = "HS8-Zo-YUp"; */
+"HS8-Zo-YUp.title" = "Vertical reversal of the scroll wheel";
+
+/* Class = "NSTextFieldCell"; title = "2.5"; ObjectID = "HdW-N2-360"; */
+"HdW-N2-360.title" = "2.5";
+
+/* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "Hda-Y2-58e"; */
+"Hda-Y2-58e.title" = "Slow";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "HfH-gI-1Ju"; */
+"HfH-gI-1Ju.title" = "Scroll Down";
+
+/* Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "HjQ-K1-FTv"; */
+"HjQ-K1-FTv.title" = "Copy Ruler";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "HmB-ux-qd8"; */
+"HmB-ux-qd8.title" = "+";
+
+/* Class = "NSMenu"; title = "Ligatures"; ObjectID = "Hu2-3k-qDx"; */
+"Hu2-3k-qDx.title" = "Ligatures";
+
+/* Class = "NSButtonCell"; title = "If your mouse button cannot be recognized, we can adapt it separately for you for free, please check this article >>"; ObjectID = "HwG-ak-Lo8"; */
+"HwG-ak-Lo8.title" = "If your mouse button cannot be recognized, we can adapt it separately for you for free, please check this article >>";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "I4b-p8-fhe"; */
+"I4b-p8-fhe.title" = "View";
+
+/* Class = "NSMenu"; title = "Five Fingers"; ObjectID = "IAe-8T-pCh"; */
+"IAe-8T-pCh.title" = "Five Fingers";
+
+/* Class = "NSMenuItem"; title = "Baseline"; ObjectID = "IFe-NH-oCz"; */
+"IFe-NH-oCz.title" = "Baseline";
+
+/* Class = "NSMenuItem"; title = "Two Stroke"; ObjectID = "IIC-zC-tKS"; */
+"IIC-zC-tKS.title" = "Two Stroke";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "IJP-Qd-eJP"; */
+"IJP-Qd-eJP.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "IJf-Dg-hQP"; */
+"IJf-Dg-hQP.title" = "Color:";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "INk-4Y-TdA"; */
+"INk-4Y-TdA.title" = "Width:";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "IQQ-Ia-o7t"; */
+"IQQ-Ia-o7t.title" = "LeftMouse Click";
+
+/* Class = "NSButtonCell"; title = "Learn BetterAndBetter"; ObjectID = "Iaa-jb-zlG"; */
+"Iaa-jb-zlG.title" = "Learn BetterAndBetter";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "IeJ-aq-mrr"; */
+"IeJ-aq-mrr.title" = "Scroll Down";
+
+/* Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "ImX-UQ-Qzg"; */
+"ImX-UQ-Qzg.title" = "Scroll Left";
+
+/* Class = "NSTextFieldCell"; title = "www.better365.club"; ObjectID = "Inn-Ka-IY9"; */
+"Inn-Ka-IY9.title" = "www.better365.club";
+
+/* Class = "NSButtonCell"; title = "Close acceleration"; ObjectID = "Inx-XB-GcR"; */
+"Inx-XB-GcR.title" = "Close acceleration";
+
+/* Class = "NSMenuItem"; title = "3Finger_Swipe_Up"; ObjectID = "IsD-EK-kAP"; */
+"IsD-EK-kAP.title" = "3Finger_Swipe_Up";
+
+/* Class = "NSMenu"; title = "One Finger"; ObjectID = "It6-z1-vg5"; */
+"It6-z1-vg5.title" = "One Finger";
+
+/* Class = "NSMenu"; title = "Key Combination"; ObjectID = "Iyj-lz-ctW"; */
+"Iyj-lz-ctW.title" = "Key Combination";
+
+/* Class = "NSTextFieldCell"; title = "*3 finger dragging of the system will be prohibited"; ObjectID = "Izf-65-XpS"; */
+"Izf-65-XpS.title" = "*3 finger dragging of the system will be prohibited";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "J4u-dL-FXT"; */
+"J4u-dL-FXT.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Enable"; ObjectID = "JHM-an-aQZ"; */
+"JHM-an-aQZ.headerCell.title" = "Enable";
+
+/* Class = "NSMenuItem"; title = "Three Fingers"; ObjectID = "JJR-AR-Hdo"; */
+"JJR-AR-Hdo.title" = "Three Fingers";
+
+/* Class = "NSMenuItem"; title = "3Finger_LeftFinger_SwipeUp"; ObjectID = "JPh-lh-AZn"; */
+"JPh-lh-AZn.title" = "3Finger_LeftFinger_SwipeUp";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "JSC-fy-NcF"; */
+"JSC-fy-NcF.title" = "Print…";
+
+/* Class = "NSButtonCell"; title = "Show / not show"; ObjectID = "JSI-uD-1Dl"; */
+"JSI-uD-1Dl.title" = "Show / not show";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "JTP-mi-w8L"; */
+"JTP-mi-w8L.title" = "+";
+
+/* Class = "NSTextFieldCell"; title = "Monitor the operation of your Mac computer in real time, understand the \noperation of CPU, memory, battery, etc., display the power of peripheral \ndevices such as Bluetooth-connected touchpad, mouse, headphones, etc."; ObjectID = "JTo-eZ-llO"; */
+"JTo-eZ-llO.title" = "Monitor the operation of your Mac computer in real time, understand the \noperation of CPU, memory, battery, etc., display the power of peripheral \ndevices such as Bluetooth-connected touchpad, mouse, headphones, etc.";
+
+/* Class = "NSMenuItem"; title = "Holding one second"; ObjectID = "JUk-Ne-Mzr"; */
+"JUk-Ne-Mzr.title" = "Holding one second";
+
+/* Class = "NSMenuItem"; title = "2Finger_ForceClick"; ObjectID = "Jdv-Yr-Q5t"; */
+"Jdv-Yr-Q5t.title" = "2Finger_ForceClick";
+
+/* Class = "NSTabViewItem"; label = "ContactUsTabView"; ObjectID = "KOo-9q-H4b"; */
+"KOo-9q-H4b.label" = "ContactUsTabView";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Kas-gN-6gN"; */
+"Kas-gN-6gN.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "KcK-Ms-vV7"; */
+"KcK-Ms-vV7.title" = "Scroll Up";
+
+/* Class = "NSTabViewItem"; label = "Smooth Scroll"; ObjectID = "KdZ-Au-NWX"; */
+"KdZ-Au-NWX.label" = "Smooth Scroll";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "Kfc-q8-Yae"; */
+"Kfc-q8-Yae.title" = "-";
+
+/* Class = "NSMenu"; title = "Two Stroke"; ObjectID = "KjI-IN-uvm"; */
+"KjI-IN-uvm.title" = "Two Stroke";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "Kpz-gB-7iy"; */
+"Kpz-gB-7iy.title" = "Scroll Up";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Kwp-gR-qNr"; */
+"Kwp-gR-qNr.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "3Finger_LeftFinger_SwipeLeft"; ObjectID = "KxO-kh-N6y"; */
+"KxO-kh-N6y.title" = "3Finger_LeftFinger_SwipeLeft";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "LAG-hK-5h2"; */
+"LAG-hK-5h2.title" = "MiddleMouse Click";
+
+/* Class = "NSMenu"; title = "Four Fingers"; ObjectID = "LAO-xR-RyZ"; */
+"LAO-xR-RyZ.title" = "Four Fingers";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LBi-MA-rFm"; */
+"LBi-MA-rFm.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Contact us"; ObjectID = "LCP-di-iZN"; */
+"LCP-di-iZN.title" = "Contact us";
+
+/* Class = "NSMenuItem"; title = "4Finger_Tap"; ObjectID = "LFn-Eg-M4X"; */
+"LFn-Eg-M4X.title" = "4Finger_Tap";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application Name"; ObjectID = "LHY-MT-KRY"; */
+"LHY-MT-KRY.headerCell.title" = "Application Name";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LNS-Oz-C0f"; */
+"LNS-Oz-C0f.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LRm-5U-7MN"; */
+"LRm-5U-7MN.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "LWk-wJ-Fxf"; */
+"LWk-wJ-Fxf.title" = "-";
+
+/* Class = "NSMenuItem"; title = "2Finger_Pinch_Out"; ObjectID = "LZk-tS-ymi"; */
+"LZk-tS-ymi.title" = "2Finger_Pinch_Out";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "LgH-hI-fWf"; */
+"LgH-hI-fWf.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "Lhf-wU-xaw"; */
+"Lhf-wU-xaw.title" = "Scroll Left";
+
+/* Class = "NSTextFieldCell"; title = "The super easy-to-use cleanup tool on Mac, Lemon Cleanup brings \nyou excellent functions such as application uninstallation, large file \ncleanup, duplicate file cleanup, and real-time system status display."; ObjectID = "Ljc-w3-Z7i"; */
+"Ljc-w3-Z7i.title" = "The super easy-to-use cleanup tool on Mac, Lemon Cleanup brings \nyou excellent functions such as application uninstallation, large file \ncleanup, duplicate file cleanup, and real-time system status display.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "LlK-cj-da9"; */
+"LlK-cj-da9.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "Llt-dx-PDE"; */
+"Llt-dx-PDE.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "LmK-EJ-LRG"; */
+"LmK-EJ-LRG.title" = "Selection";
+
+/* Class = "NSTextFieldCell"; title = "According to different apps, switch between Chinese and English / input \nmethods to maximize efficiency and the app that understands you best"; ObjectID = "LoJ-wn-dDp"; */
+"LoJ-wn-dDp.title" = "According to different apps, switch between Chinese and English / input \nmethods to maximize efficiency and the app that understands you best";
+
+/* Class = "NSMenuItem"; title = "Key Combination"; ObjectID = "Loc-Fs-Xfm"; */
+"Loc-Fs-Xfm.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "Ltn-Ou-OPa"; */
+"Ltn-Ou-OPa.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "1Finger_ForceClick"; ObjectID = "M1B-iJ-XFZ"; */
+"M1B-iJ-XFZ.title" = "1Finger_ForceClick";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "M4t-0e-CNP"; */
+"M4t-0e-CNP.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "3Finger_TipTap_Middle"; ObjectID = "M8E-5u-UT0"; */
+"M8E-5u-UT0.title" = "3Finger_TipTap_Middle";
+
+/* Class = "NSButtonCell"; title = "Export Highlighted"; ObjectID = "M8k-zd-nxo"; */
+"M8k-zd-nxo.title" = "Export Highlighted";
+
+/* Class = "NSMenu"; title = "Letter"; ObjectID = "MIz-bo-33R"; */
+"MIz-bo-33R.title" = "Letter";
+
+/* Class = "NSMenuItem"; title = "⌥"; ObjectID = "MNU-C9-iLv"; */
+"MNU-C9-iLv.title" = "⌥";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "MUE-jE-mTw"; */
+"MUE-jE-mTw.title" = "Smart Links";
+
+/* Class = "NSTabViewItem"; label = "TrackPadTabView"; ObjectID = "Mfj-Po-J1Z"; */
+"Mfj-Po-J1Z.label" = "TrackPadTabView";
+
+/* Class = "NSMenuItem"; title = "Bottom Right Corner"; ObjectID = "MhS-5K-H1C"; */
+"MhS-5K-H1C.title" = "Bottom Right Corner";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "Mjs-Uz-7MY"; */
+"Mjs-Uz-7MY.title" = "Scroll Down";
+
+/* Class = "NSTabViewItem"; label = "Gesture Settings"; ObjectID = "Mm0-Cn-dd3"; */
+"Mm0-Cn-dd3.label" = "Gesture Settings";
+
+/* Class = "NSMenuItem"; title = "3Finger_TipTap_Right"; ObjectID = "Mmt-Ng-wFJ"; */
+"Mmt-Ng-wFJ.title" = "3Finger_TipTap_Right";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Mo2-N2-xpC"; */
+"Mo2-N2-xpC.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "5Finger_Swipe_Left"; ObjectID = "MpZ-6k-kfF"; */
+"MpZ-6k-kfF.title" = "5Finger_Swipe_Left";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "Mpa-Xr-PmF"; */
+"Mpa-Xr-PmF.title" = "LeftMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Mpa-Ze-NH2"; */
+"Mpa-Ze-NH2.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "Muj-rd-ysX"; */
+"Muj-rd-ysX.title" = "Open Recent";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "N2C-c3-veO"; */
+"N2C-c3-veO.title" = "MiddleMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "User exchange QQ group: 633458666"; ObjectID = "N6l-mG-4qK"; */
+"N6l-mG-4qK.title" = "User exchange QQ group: 633458666";
+
+/* Class = "NSMenuItem"; title = "Scroll Wheel"; ObjectID = "N91-w3-f5n"; */
+"N91-w3-f5n.title" = "Scroll Wheel";
+
+/* Class = "NSMenu"; title = "Flyout"; ObjectID = "NAy-Qy-Npl"; */
+"NAy-Qy-Npl.title" = "Flyout";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "NC5-xi-CwJ"; */
+"NC5-xi-CwJ.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "NNb-A4-RYI"; */
+"NNb-A4-RYI.title" = "Use Default";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "NNg-Wu-YlP"; */
+"NNg-Wu-YlP.title" = "Speech";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "NUq-1N-PZq"; */
+"NUq-1N-PZq.title" = "+";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "NWY-3v-YzT"; */
+"NWY-3v-YzT.title" = "+";
+
+/* Class = "NSMenuItem"; title = "Click"; ObjectID = "NXQ-Mi-cMd"; */
+"NXQ-Mi-cMd.title" = "Click";
+
+/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "NXf-53-TR0"; */
+"NXf-53-TR0.title" = "Copy Style";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "NcP-RT-JMz"; */
+"NcP-RT-JMz.title" = "Smart Dashes";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "NeC-yG-5g4"; */
+"NeC-yG-5g4.title" = "Scroll Up";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Nee-6U-65X"; */
+"Nee-6U-65X.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Bottom Right Side"; ObjectID = "NkT-PQ-oD6"; */
+"NkT-PQ-oD6.title" = "Bottom Right Side";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Bottom_Right"; ObjectID = "Nva-0C-4k3"; */
+"Nva-0C-4k3.title" = "1Finger_Tap_Bottom_Right";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "Nvv-rW-ydL"; */
+"Nvv-rW-ydL.title" = "Format";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "O0m-BK-Lf0"; */
+"O0m-BK-Lf0.title" = "Letter";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "O4x-yd-3bv"; */
+"O4x-yd-3bv.title" = "Services";
+
+/* Class = "NSButtonCell"; title = "Free"; ObjectID = "OAq-SB-VoV"; */
+"OAq-SB-VoV.title" = "Free";
+
+/* Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "OBd-W8-ojx"; */
+"OBd-W8-ojx.title" = "Scroll Right";
+
+/* Class = "NSMenuItem"; title = "Two Stroke"; ObjectID = "OHT-Gd-Gi0"; */
+"OHT-Gd-Gi0.title" = "Two Stroke";
+
+/* Class = "NSMenuItem"; title = "Customize"; ObjectID = "ONQ-WN-RCn"; */
+"ONQ-WN-RCn.title" = "Customize";
+
+/* Class = "NSMenuItem"; title = "Fn"; ObjectID = "OTD-wY-YIA"; */
+"OTD-wY-YIA.title" = "Fn";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "OeM-wr-G0o"; */
+"OeM-wr-G0o.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "Off-zS-vCV"; */
+"Off-zS-vCV.title" = "Scroll Down";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "OlS-DA-g9d"; */
+"OlS-DA-g9d.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "An artifact that allows you to use any Bluetooth devices such as \nAndroid and iPhone to quickly unlock your Mac. It supports \nsleep unlock, screen saver unlock, and lock screen unlock."; ObjectID = "OpV-sS-H06"; */
+"OpV-sS-H06.title" = "An artifact that allows you to use any Bluetooth devices such as \nAndroid and iPhone to quickly unlock your Mac. It supports \nsleep unlock, screen saver unlock, and lock screen unlock.";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "Otc-24-KjX"; */
+"Otc-24-KjX.title" = "Use Selection for Find";
+
+/* Class = "NSMenu"; title = "Three Fingers"; ObjectID = "Ote-yl-JQd"; */
+"Ote-yl-JQd.title" = "Three Fingers";
+
+/* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "Ovj-OA-nML"; */
+"Ovj-OA-nML.title" = "Bigger";
+
+/* Class = "NSButtonCell"; title = "Middle-key blacklist apps"; ObjectID = "P0o-cL-Cuq"; */
+"P0o-cL-Cuq.title" = "Middle-key blacklist apps";
+
+/* Class = "NSMenuItem"; title = "2Finger_LeftFinger_SwipeRight"; ObjectID = "P14-Nv-DOj"; */
+"P14-Nv-DOj.title" = "2Finger_LeftFinger_SwipeRight";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "P1F-2v-hMz"; */
+"P1F-2v-hMz.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "P1f-DO-viu"; */
+"P1f-DO-viu.title" = "-";
+
+/* Class = "NSMenuItem"; title = "2Finger_Swipe_Down_From Top"; ObjectID = "P2s-DU-4ye"; */
+"P2s-DU-4ye.title" = "2Finger_Swipe_Down_From Top";
+
+/* Class = "NSMenu"; title = "Text"; ObjectID = "P7j-kw-34u"; */
+"P7j-kw-34u.title" = "Text";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "P9c-qJ-D9y"; */
+"P9c-qJ-D9y.title" = "Find Previous";
+
+/* Class = "NSMenu"; title = "Bottom Left Side"; ObjectID = "PD4-ac-0JD"; */
+"PD4-ac-0JD.title" = "Bottom Left Side";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "PIb-HF-DTg"; */
+"PIb-HF-DTg.title" = "MiddleMouse Click";
+
+/* Class = "NSMenu"; title = "Holding MiddleMouse"; ObjectID = "PLI-DF-aTV"; */
+"PLI-DF-aTV.title" = "Holding MiddleMouse";
+
+/* Class = "NSButtonCell"; title = "Import Highlighted"; ObjectID = "POq-py-4pQ"; */
+"POq-py-4pQ.title" = "Import Highlighted";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "PhB-rK-7Dz"; */
+"PhB-rK-7Dz.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "PmC-Ih-dgB"; */
+"PmC-Ih-dgB.title" = "Find";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Pmc-ki-j4L"; */
+"Pmc-ki-j4L.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "Poi-VT-su0"; */
+"Poi-VT-su0.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "3Finger_Swipe_Down"; ObjectID = "Pvw-zA-fMO"; */
+"Pvw-zA-fMO.title" = "3Finger_Swipe_Down";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "Q3B-4F-laf"; */
+"Q3B-4F-laf.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "Q9V-i8-U39"; */
+"Q9V-i8-U39.title" = "RightMouse Click";
+
+/* Class = "NSButtonCell"; title = "Free"; ObjectID = "QBt-aQ-PdW"; */
+"QBt-aQ-PdW.title" = "Free";
+
+/* Class = "NSMenuItem"; title = "5Finger_Swipe_Up"; ObjectID = "QEB-ac-NXe"; */
+"QEB-ac-NXe.title" = "5Finger_Swipe_Up";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "QPf-kA-PjY"; */
+"QPf-kA-PjY.title" = "-";
+
+/* Class = "NSMenuItem"; title = "1Finger_Click_Bottom_Left"; ObjectID = "QQf-8N-rIO"; */
+"QQf-8N-rIO.title" = "1Finger_Click_Bottom_Left";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "QUc-zi-VL1"; */
+"QUc-zi-VL1.title" = "Select All";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "QVf-qa-0qV"; */
+"QVf-qa-0qV.title" = "-";
+
+/* Class = "NSMenuItem"; title = "Top Right Side"; ObjectID = "QWc-96-3wt"; */
+"QWc-96-3wt.title" = "Top Right Side";
+
+/* Class = "NSMenuItem"; title = "⌃"; ObjectID = "QXe-cm-IYK"; */
+"QXe-cm-IYK.title" = "⌃";
+
+/* Class = "NSTextFieldCell"; title = "Official website"; ObjectID = "QZc-lW-oTh"; */
+"QZc-lW-oTh.title" = "Official website";
+
+/* Class = "NSMenu"; title = "Key Combination"; ObjectID = "QcY-23-ZKz"; */
+"QcY-23-ZKz.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "QoD-UZ-ve6"; */
+"QoD-UZ-ve6.title" = "Redo";
+
+/* Class = "NSMenuItem"; title = "3Finger_Click"; ObjectID = "QpN-9Y-REU"; */
+"QpN-9Y-REU.title" = "3Finger_Click";
+
+/* Class = "NSMenuItem"; title = "Holding one second"; ObjectID = "QsG-ZK-oKS"; */
+"QsG-ZK-oKS.title" = "Holding one second";
+
+/* Class = "NSMenuItem"; title = "2Finger_Swipe_Right"; ObjectID = "Qz8-xS-xDz"; */
+"Qz8-xS-xDz.title" = "2Finger_Swipe_Right";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "R0v-Gg-Gd0"; */
+"R0v-Gg-Gd0.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "R2a-kK-aeJ"; */
+"R2a-kK-aeJ.title" = "View";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "R9o-gZ-v73"; */
+"R9o-gZ-v73.headerCell.title" = "Note";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "RMI-Pa-3KU"; */
+"RMI-Pa-3KU.title" = "+";
+
+/* Class = "NSMenuItem"; title = "Two Stroke"; ObjectID = "ROe-1J-GdF"; */
+"ROe-1J-GdF.title" = "Two Stroke";
+
+/* Class = "NSTextFieldCell"; title = "iRightMouse"; ObjectID = "RPe-zk-aUp"; */
+"RPe-zk-aUp.title" = "iRightMouse";
+
+/* Class = "NSTextFieldCell"; title = "2.0.00"; ObjectID = "RRz-VF-XFb"; */
+"RRz-VF-XFb.title" = "2.0.00";
+
+/* Class = "NSTextFieldCell"; title = "1.0"; ObjectID = "RSa-AI-Wuc"; */
+"RSa-AI-Wuc.title" = "1.0";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "RYG-SM-Kqt"; */
+"RYG-SM-Kqt.title" = "Make Upper Case";
+
+/* Class = "NSMenuItem"; title = "Key Combination"; ObjectID = "Rax-3K-dva"; */
+"Rax-3K-dva.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "One Stroke"; ObjectID = "RcU-fh-izd"; */
+"RcU-fh-izd.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Rhh-xp-wqu"; */
+"Rhh-xp-wqu.title" = "Stop Speaking";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Ro4-d1-6p8"; */
+"Ro4-d1-6p8.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "S2a-6e-Ugq"; */
+"S2a-6e-Ugq.title" = "Letter";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "S8Y-3z-3Fc"; */
+"S8Y-3z-3Fc.title" = "Text Replacement";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "SCL-ry-Rbq"; */
+"SCL-ry-Rbq.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "3Finger_Click"; ObjectID = "SDC-1P-VUd"; */
+"SDC-1P-VUd.title" = "3Finger_Click";
+
+/* Class = "NSMenu"; title = "Two Fingers"; ObjectID = "SWt-JP-cYj"; */
+"SWt-JP-cYj.title" = "Two Fingers";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "SjU-r3-fmY"; */
+"SjU-r3-fmY.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "2Finger_TipTap_Left"; ObjectID = "Sr9-IL-U5B"; */
+"Sr9-IL-U5B.title" = "2Finger_TipTap_Left";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "SuE-Dr-8X5"; */
+"SuE-Dr-8X5.title" = "Check Spelling While Typing";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "TBG-vV-ocX"; */
+"TBG-vV-ocX.title" = "Show All";
+
+/* Class = "NSMenu"; title = "FlyoutMulitouch"; ObjectID = "TCH-rj-F87"; */
+"TCH-rj-F87.title" = "FlyoutMulitouch";
+
+/* Class = "NSTextFieldCell"; title = "Get more free apps"; ObjectID = "TFi-qv-WBk"; */
+"TFi-qv-WBk.title" = "Get more free apps";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "TRH-MF-m4Z"; */
+"TRH-MF-m4Z.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Top Left Corner"; ObjectID = "TS6-jh-MCX"; */
+"TS6-jh-MCX.title" = "Top Left Corner";
+
+/* Class = "NSMenuItem"; title = "BetterAndBetter Help"; ObjectID = "TV0-Uu-m14"; */
+"TV0-Uu-m14.title" = "BetterAndBetter Help";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "TXg-n7-F0a"; */
+"TXg-n7-F0a.title" = "Format";
+
+/* Class = "NSMenuItem"; title = "4Finger_DoubleTap"; ObjectID = "TZE-NL-clm"; */
+"TZE-NL-clm.title" = "4Finger_DoubleTap";
+
+/* Class = "NSMenu"; title = "Letter"; ObjectID = "TaA-7i-cpd"; */
+"TaA-7i-cpd.title" = "Letter";
+
+/* Class = "NSTableColumn"; headerCell.title = "Enable"; ObjectID = "Tk9-DD-Idw"; */
+"Tk9-DD-Idw.headerCell.title" = "Enable";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "Tmb-Uf-CkA"; */
+"Tmb-Uf-CkA.title" = "Scroll Up";
+
+/* Class = "NSMenu"; title = "One Stroke"; ObjectID = "ToL-hB-6kJ"; */
+"ToL-hB-6kJ.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "4Finger_ForceClick"; ObjectID = "TrD-mG-Fxt"; */
+"TrD-mG-Fxt.title" = "4Finger_ForceClick";
+
+/* Class = "NSMenu"; title = "Scroll Wheel"; ObjectID = "Tsa-A2-yYV"; */
+"Tsa-A2-yYV.title" = "Scroll Wheel";
+
+/* Class = "NSMenuItem"; title = "Left Bottom Side"; ObjectID = "TzH-M2-YjF"; */
+"TzH-M2-YjF.title" = "Left Bottom Side";
+
+/* Class = "NSTextFieldCell"; placeholderString = "1. Enter AppleScript here.\n2. To wrap a line is to hold down option and then press enter.\n3. It is recommended to Edit in Script Editor and press the Finish Editing button after \n    the debugging is correct."; ObjectID = "Tze-vK-dOg"; */
+"Tze-vK-dOg.placeholderString" = "1. Enter AppleScript here.\n2. To wrap a line is to hold down option and then press enter.\n3. It is recommended to Edit in Script Editor and press the Finish Editing button after \n    the debugging is correct.";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "U2d-QZ-wgY"; */
+"U2d-QZ-wgY.title" = "Make Lower Case";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "U42-ZT-jYi"; */
+"U42-ZT-jYi.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "7Key Click"; ObjectID = "U4O-wf-ADg"; */
+"U4O-wf-ADg.title" = "7Key Click";
+
+/* Class = "NSTextFieldCell"; title = "1.0"; ObjectID = "U6u-Q3-ycF"; */
+"U6u-Q3-ycF.title" = "1.0";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "U9q-zl-Uoy"; */
+"U9q-zl-Uoy.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "3Finger_Swipe_Left"; ObjectID = "URj-ns-m4Z"; */
+"URj-ns-m4Z.title" = "3Finger_Swipe_Left";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "UW9-M4-0Dx"; */
+"UW9-M4-0Dx.title" = "Scroll Down";
+
+/* Class = "NSTabViewItem"; label = "Gesture Settings"; ObjectID = "UXq-8Y-6AQ"; */
+"UXq-8Y-6AQ.label" = "Gesture Settings";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "Uc2-Wm-H6r"; */
+"Uc2-Wm-H6r.title" = "Scroll Down";
+
+/* Class = "NSMenu"; title = "actionSelectionMenu"; ObjectID = "UhD-pN-xWc"; */
+"UhD-pN-xWc.title" = "actionSelectionMenu";
+
+/* Class = "NSTableColumn"; headerCell.title = "Enable"; ObjectID = "UhW-38-aXn"; */
+"UhW-38-aXn.headerCell.title" = "Enable";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Uir-hI-4p9"; */
+"Uir-hI-4p9.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "UrN-1r-2Vz"; */
+"UrN-1r-2Vz.title" = "Open Recent";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "V9z-KJ-a62"; */
+"V9z-KJ-a62.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "VAi-2b-tcu"; */
+"VAi-2b-tcu.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "VEU-u3-wb4"; */
+"VEU-u3-wb4.title" = "Scroll Left";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "VJv-1z-d2k"; */
+"VJv-1z-d2k.title" = "Delete";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application Name"; ObjectID = "VPM-Qj-8mn"; */
+"VPM-Qj-8mn.headerCell.title" = "Application Name";
+
+/* Class = "NSMenu"; title = "One Stroke"; ObjectID = "VbI-zO-yVx"; */
+"VbI-zO-yVx.title" = "One Stroke";
+
+/* Class = "NSTableColumn"; headerCell.title = "Rule Name"; ObjectID = "Vhj-XV-ETl"; */
+"Vhj-XV-ETl.headerCell.title" = "Rule Name";
+
+/* Class = "NSMenu"; title = "Bottom Left Corner"; ObjectID = "Vor-ba-ICu"; */
+"Vor-ba-ICu.title" = "Bottom Left Corner";
+
+/* Class = "NSMenuItem"; title = "2Finger_LeftFinger_SwipeLeft"; ObjectID = "Vzn-lc-I70"; */
+"Vzn-lc-I70.title" = "2Finger_LeftFinger_SwipeLeft";
+
+/* Class = "NSMenuItem"; title = "2Finger_Pinch_Out"; ObjectID = "Vzu-Dl-2K6"; */
+"Vzu-Dl-2K6.title" = "2Finger_Pinch_Out";
+
+/* Class = "NSMenuItem"; title = "2Finger_Pinch_In"; ObjectID = "W5q-hU-xn8"; */
+"W5q-hU-xn8.title" = "2Finger_Pinch_In";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "W65-FW-9u4"; */
+"W65-FW-9u4.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "WBW-IH-gfq"; */
+"WBW-IH-gfq.title" = "Transformations";
+
+/* Class = "NSMenuItem"; title = "Holding one second"; ObjectID = "WMv-ig-GKu"; */
+"WMv-ig-GKu.title" = "Holding one second";
+
+/* Class = "NSMenu"; title = "One Stroke"; ObjectID = "WNq-K8-sGP"; */
+"WNq-K8-sGP.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "WOd-jZ-KaE"; */
+"WOd-jZ-KaE.title" = "Capitalize";
+
+/* Class = "NSMenuItem"; title = " -"; ObjectID = "WUr-4z-DNi"; */
+"WUr-4z-DNi.title" = " -";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "WUx-zR-CYO"; */
+"WUx-zR-CYO.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Left_Middle"; ObjectID = "WVp-aN-mR3"; */
+"WVp-aN-mR3.title" = "1Finger_Tap_Left_Middle";
+
+/* Class = "NSTextFieldCell"; title = "Backup status："; ObjectID = "WXc-4k-4Vl"; */
+"WXc-4k-4Vl.title" = "Backup status：";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "Wbd-ih-V87"; */
+"Wbd-ih-V87.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "Quit BetterAndBetter"; ObjectID = "Wc9-69-ROh"; */
+"Wc9-69-ROh.title" = "Quit BetterAndBetter";
+
+/* Class = "NSMenu"; title = "Letter"; ObjectID = "WcH-98-eq7"; */
+"WcH-98-eq7.title" = "Letter";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Middle "; ObjectID = "WfV-BJ-dtl"; */
+"WfV-BJ-dtl.title" = "1Finger_Tap_Middle ";
+
+/* Class = "NSMenuItem"; title = "2Finger_TipTap_Right"; ObjectID = "Wly-fp-QQm"; */
+"Wly-fp-QQm.title" = "2Finger_TipTap_Right";
+
+/* Class = "NSTabViewItem"; label = "NormalMouseTabView"; ObjectID = "WmX-Dm-gl8"; */
+"WmX-Dm-gl8.label" = "NormalMouseTabView";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "WpJ-j3-E5u"; */
+"WpJ-j3-E5u.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Top_Left"; ObjectID = "WqT-2b-Lh1"; */
+"WqT-2b-Lh1.title" = "1Finger_Tap_Top_Left";
+
+/* Class = "NSMenu"; title = "One Stroke"; ObjectID = "Wqd-6k-t7X"; */
+"Wqd-6k-t7X.title" = "One Stroke";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "WtY-Ic-in7"; */
+"WtY-Ic-in7.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "The key you are currently pressed:"; ObjectID = "Wzp-Xn-7co"; */
+"Wzp-Xn-7co.title" = "The key you are currently pressed:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Enable"; ObjectID = "X5w-Zq-GXE"; */
+"X5w-Zq-GXE.headerCell.title" = "Enable";
+
+/* Class = "NSMenuItem"; title = "Loosen"; ObjectID = "XBE-Si-wKd"; */
+"XBE-Si-wKd.title" = "Loosen";
+
+/* Class = "NSMenuItem"; title = "2Finger_Swipe_Left_From Right"; ObjectID = "XFx-YS-ysx"; */
+"XFx-YS-ysx.title" = "2Finger_Swipe_Left_From Right";
+
+/* Class = "NSMenuItem"; title = "3Finger_Swipe_Right"; ObjectID = "XLe-Fp-Ukq"; */
+"XLe-Fp-Ukq.title" = "3Finger_Swipe_Right";
+
+/* Class = "NSMenuItem"; title = "2Finger_LeftFinger_SwipeRight"; ObjectID = "XUE-MR-PxT"; */
+"XUE-MR-PxT.title" = "2Finger_LeftFinger_SwipeRight";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "XVz-sC-JfY"; */
+"XVz-sC-JfY.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "5Finger_ForceClick"; ObjectID = "Xkj-f6-zFh"; */
+"Xkj-f6-zFh.title" = "5Finger_ForceClick";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "Xov-oa-rhG"; */
+"Xov-oa-rhG.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Trackpad bottom edge auxiliary drawing"; ObjectID = "Xqq-J2-iXn"; */
+"Xqq-J2-iXn.title" = "Trackpad bottom edge auxiliary drawing";
+
+/* Class = "NSMenuItem"; title = "Top Middle Side"; ObjectID = "Y53-EK-RNN"; */
+"Y53-EK-RNN.title" = "Top Middle Side";
+
+/* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "YEE-1Y-bTc"; */
+"YEE-1Y-bTc.title" = "\tRight to Left";
+
+/* Class = "NSTextFieldCell"; title = "Drawing trajectory:"; ObjectID = "YEX-Wk-7s0"; */
+"YEX-Wk-7s0.title" = "Drawing trajectory:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Modifier"; ObjectID = "YJN-CH-XC5"; */
+"YJN-CH-XC5.headerCell.title" = "Modifier";
+
+/* Class = "NSTableColumn"; headerCell.title = "Active state"; ObjectID = "YOY-e6-uUR"; */
+"YOY-e6-uUR.headerCell.title" = "Active state";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "YP0-1t-jU7"; */
+"YP0-1t-jU7.title" = "4";
+
+/* Class = "NSButtonCell"; title = "Enable smooth scroll"; ObjectID = "YP3-pt-emE"; */
+"YP3-pt-emE.title" = "Enable smooth scroll";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Bottom_Middle"; ObjectID = "YPQ-wP-yRE"; */
+"YPQ-wP-yRE.title" = "1Finger_Tap_Bottom_Middle";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "YSr-Vg-cLi"; */
+"YSr-Vg-cLi.title" = "LeftMouse Click";
+
+/* Class = "NSTabViewItem"; label = "LearnBetterAndBetterTabView"; ObjectID = "YTW-Xd-i9u"; */
+"YTW-Xd-i9u.label" = "LearnBetterAndBetterTabView";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "YYm-HP-f9M"; */
+"YYm-HP-f9M.title" = "+";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "Yat-xH-m7d"; */
+"Yat-xH-m7d.title" = "\tDefault";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "Yix-vK-67a"; */
+"Yix-vK-67a.title" = "Reset";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "YlE-gU-gZA"; */
+"YlE-gU-gZA.title" = "Letter";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "YoB-Yl-8Bv"; */
+"YoB-Yl-8Bv.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Yvq-0a-jNs"; */
+"Yvq-0a-jNs.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "4Finger_Swipe_Left"; ObjectID = "Yxe-tC-CFA"; */
+"Yxe-tC-CFA.title" = "4Finger_Swipe_Left";
+
+/* Class = "NSMenuItem"; title = "7"; ObjectID = "Z0d-eZ-oYh"; */
+"Z0d-eZ-oYh.title" = "7";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ZC2-Gn-j34"; */
+"ZC2-Gn-j34.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "ZSd-mA-faa"; */
+"ZSd-mA-faa.title" = "Scroll Right";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "ZXc-kE-Jhl"; */
+"ZXc-kE-Jhl.title" = "+";
+
+/* Class = "NSMenuItem"; title = "Lower"; ObjectID = "ZaE-uH-4Re"; */
+"ZaE-uH-4Re.title" = "Lower";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ZgK-z0-X72"; */
+"ZgK-z0-X72.title" = "Box";
+
+/* Class = "NSMenu"; title = "Right Bottom Side"; ObjectID = "Zqs-9N-FmY"; */
+"Zqs-9N-FmY.title" = "Right Bottom Side";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "Zuo-Qr-Xwt"; */
+"Zuo-Qr-Xwt.title" = "Scroll Down";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Zvf-gL-cS9"; */
+"Zvf-gL-cS9.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "ZwZ-VS-bko"; */
+"ZwZ-VS-bko.title" = "RightMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "a4M-ZW-DHl"; */
+"a4M-ZW-DHl.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "a4Z-Y7-QGp"; */
+"a4Z-Y7-QGp.title" = "Scroll Down";
+
+/* Class = "NSMenu"; title = "FlyoutMulitouch"; ObjectID = "a8o-fK-laY"; */
+"a8o-fK-laY.title" = "FlyoutMulitouch";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "aAj-pc-Fjc"; */
+"aAj-pc-Fjc.title" = "Data Detectors";
+
+/* Class = "NSMenuItem"; title = "Font"; ObjectID = "aCc-kr-5SI"; */
+"aCc-kr-5SI.title" = "Font";
+
+/* Class = "NSTabViewItem"; label = "MoreAppsTabView"; ObjectID = "aQ7-hX-fEC"; */
+"aQ7-hX-fEC.label" = "MoreAppsTabView";
+
+/* Class = "NSButtonCell"; title = "Show Icon In Status Bar"; ObjectID = "aTz-or-bSM"; */
+"aTz-or-bSM.title" = "Show Icon In Status Bar";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "aUt-81-UBX"; */
+"aUt-81-UBX.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "aV8-bp-hQK"; */
+"aV8-bp-hQK.title" = "Writing Direction";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "aYJ-g4-Tb7"; */
+"aYJ-g4-Tb7.title" = "Find Next";
+
+/* Class = "NSMenuItem"; title = "Use None"; ObjectID = "aYs-NA-N0p"; */
+"aYs-NA-N0p.title" = "Use None";
+
+/* Class = "NSButtonCell"; title = "Keyboard"; ObjectID = "aZo-Gm-wrd"; */
+"aZo-Gm-wrd.title" = "Keyboard";
+
+/* Class = "NSMenuItem"; title = "5Finger_DoubleTap"; ObjectID = "aZx-w6-0b7"; */
+"aZx-w6-0b7.title" = "5Finger_DoubleTap";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "akQ-Ke-PJz"; */
+"akQ-Ke-PJz.title" = "-";
+
+/* Class = "NSMenu"; title = "Drawing"; ObjectID = "akQ-mE-9DH"; */
+"akQ-mE-9DH.title" = "Drawing";
+
+/* Class = "NSMenu"; title = "Holding MiddleMouse"; ObjectID = "b3r-ou-foi"; */
+"b3r-ou-foi.title" = "Holding MiddleMouse";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "bEg-Uc-KQA"; */
+"bEg-Uc-KQA.title" = "Customize Toolbar…";
+
+/* Class = "NSMenuItem"; title = "2Finger_TipTap_Far_Left"; ObjectID = "bMr-fQ-4kT"; */
+"bMr-fQ-4kT.title" = "2Finger_TipTap_Far_Left";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "beX-X9-4gz"; */
+"beX-X9-4gz.title" = "Scroll Down";
+
+/* Class = "NSMenu"; title = "Writing Direction"; ObjectID = "bgI-jO-Dtl"; */
+"bgI-jO-Dtl.title" = "Writing Direction";
+
+/* Class = "NSMenuItem"; title = "Customize"; ObjectID = "bkZ-Hl-uDM"; */
+"bkZ-Hl-uDM.title" = "Customize";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "blX-Pb-wdJ"; */
+"blX-Pb-wdJ.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "Top Left Side"; ObjectID = "bsc-us-ySE"; */
+"bsc-us-ySE.title" = "Top Left Side";
+
+/* Class = "NSMenuItem"; title = "3Finger_Pinch_Out"; ObjectID = "bxA-CV-4VK"; */
+"bxA-CV-4VK.title" = "3Finger_Pinch_Out";
+
+/* Class = "NSTextFieldCell"; title = "Efficiency artifact that supports functions such as right-clicking \nnew files, transferring files, customizing folders, show / hidden \nfiles, and quickly opening files"; ObjectID = "byU-u9-eke"; */
+"byU-u9-eke.title" = "Efficiency artifact that supports functions such as right-clicking \nnew files, transferring files, customizing folders, show / hidden \nfiles, and quickly opening files";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "bzp-nt-Cmm"; */
+"bzp-nt-Cmm.title" = "Box";
+
+/* Class = "NSTabViewItem"; label = "HotCornersTabView"; ObjectID = "c5c-3N-rEM"; */
+"c5c-3N-rEM.label" = "HotCornersTabView";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "c6p-EI-zvr"; */
+"c6p-EI-zvr.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "4Finger_Pinch_In"; ObjectID = "c7V-Vy-bz2"; */
+"c7V-Vy-bz2.title" = "4Finger_Pinch_In";
+
+/* Class = "NSMenu"; title = "Two Stroke"; ObjectID = "c7d-c2-k7q"; */
+"c7d-c2-k7q.title" = "Two Stroke";
+
+/* Class = "NSMenu"; title = "Key Combination"; ObjectID = "c9F-0h-n3j"; */
+"c9F-0h-n3j.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "cJe-EO-lNp"; */
+"cJe-EO-lNp.title" = "Scroll Down";
+
+/* Class = "NSMenuItem"; title = "⌘"; ObjectID = "cNX-Vh-4zi"; */
+"cNX-Vh-4zi.title" = "⌘";
+
+/* Class = "NSTextFieldCell"; title = "Beta:"; ObjectID = "cVK-DK-ZXy"; */
+"cVK-DK-ZXy.title" = "Beta:";
+
+/* Class = "NSButtonCell"; title = "Hot Corners"; ObjectID = "cW2-Pr-RB6"; */
+"cW2-Pr-RB6.title" = "Hot Corners";
+
+/* Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "cYg-aa-1c9"; */
+"cYg-aa-1c9.title" = "Scroll Right";
+
+/* Class = "NSMenu"; title = "Letter"; ObjectID = "cZX-pT-i4O"; */
+"cZX-pT-i4O.title" = "Letter";
+
+/* Class = "NSTableColumn"; headerCell.title = "Icon"; ObjectID = "cck-eJ-r70"; */
+"cck-eJ-r70.headerCell.title" = "Icon";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cdA-rg-ET7"; */
+"cdA-rg-ET7.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Two Stroke"; ObjectID = "ciQ-ol-osW"; */
+"ciQ-ol-osW.title" = "Two Stroke";
+
+/* Class = "NSTextFieldCell"; title = "*The key drawing can be set independently to not take effect in the specified app"; ObjectID = "cxb-Ke-ENK"; */
+"cxb-Ke-ENK.title" = "*The key drawing can be set independently to not take effect in the specified app";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "czS-GJ-txU"; */
+"czS-GJ-txU.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "8"; ObjectID = "d1N-7t-GY9"; */
+"d1N-7t-GY9.title" = "8";
+
+/* Class = "NSButtonCell"; title = "Bottom out"; ObjectID = "d5B-3F-pB4"; */
+"d5B-3F-pB4.title" = "Bottom out";
+
+/* Class = "NSTableColumn"; headerCell.title = "Gesture"; ObjectID = "d5O-du-y9t"; */
+"d5O-du-y9t.headerCell.title" = "Gesture";
+
+/* Class = "NSTextFieldCell"; title = "Better MenuBar"; ObjectID = "d91-Cj-1aM"; */
+"d91-Cj-1aM.title" = "Better MenuBar";
+
+/* Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "dBD-pH-O81"; */
+"dBD-pH-O81.title" = "Scroll Left";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "dBh-bC-Xdw"; */
+"dBh-bC-Xdw.title" = "Reset";
+
+/* Class = "NSMenuItem"; title = "Click"; ObjectID = "dGu-i3-GUz"; */
+"dGu-i3-GUz.title" = "Click";
+
+/* Class = "NSTableColumn"; headerCell.title = "Icon"; ObjectID = "dJs-in-pFE"; */
+"dJs-in-pFE.headerCell.title" = "Icon";
+
+/* Class = "NSTextFieldCell"; title = "iShot"; ObjectID = "dQU-m1-VXs"; */
+"dQU-m1-VXs.title" = "iShot";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "dRa-tC-Fvy"; */
+"dRa-tC-Fvy.title" = "Revert to Saved";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "dSJ-dn-rBL"; */
+"dSJ-dn-rBL.title" = "Save As…";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "dkL-E0-Xkp"; */
+"dkL-E0-Xkp.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "Justify"; ObjectID = "dlZ-5U-dFw"; */
+"dlZ-5U-dFw.title" = "Justify";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "dmo-RG-5vu"; */
+"dmo-RG-5vu.title" = "Substitutions";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "doJ-s0-s87"; */
+"doJ-s0-s87.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Two Fingers"; ObjectID = "dpR-Z2-NPm"; */
+"dpR-Z2-NPm.title" = "Two Fingers";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "dsU-ry-Fq0"; */
+"dsU-ry-Fq0.title" = "Show Toolbar";
+
+/* Class = "NSMenu"; title = "Key Combination"; ObjectID = "duW-gX-VVM"; */
+"duW-gX-VVM.title" = "Key Combination";
+
+/* Class = "NSTabViewItem"; label = "AppleScriptTabView"; ObjectID = "dza-M5-bcT"; */
+"dza-M5-bcT.label" = "AppleScriptTabView";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "eBZ-61-Nwm"; */
+"eBZ-61-Nwm.title" = "Correct Spelling Automatically";
+
+/* Class = "NSMenuItem"; title = "Click"; ObjectID = "eF0-Rx-8si"; */
+"eF0-Rx-8si.title" = "Click";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eGo-cp-D25"; */
+"eGo-cp-D25.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Key Combination"; ObjectID = "eKK-sg-9aq"; */
+"eKK-sg-9aq.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "Customize"; ObjectID = "eKu-b6-hYe"; */
+"eKu-b6-hYe.title" = "Customize";
+
+/* Class = "NSMenuItem"; title = "Holding one second"; ObjectID = "eRD-6l-dXS"; */
+"eRD-6l-dXS.title" = "Holding one second";
+
+/* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "eSL-Rb-oLv"; */
+"eSL-Rb-oLv.title" = "Superscript";
+
+/* Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "eTC-wQ-nMC"; */
+"eTC-wQ-nMC.title" = "Scroll Left";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "eTX-Ig-5pP"; */
+"eTX-Ig-5pP.title" = "Find…";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "eTX-V7-A6N"; */
+"eTX-V7-A6N.title" = "Scroll Down";
+
+/* Class = "NSTextFieldCell"; title = "*Click the mouse button, the button number you currently click is displayed below"; ObjectID = "eXK-a7-TPE"; */
+"eXK-a7-TPE.title" = "*Click the mouse button, the button number you currently click is displayed below";
+
+/* Class = "NSMenuItem"; title = "3Finger_LeftFinger_SwipeRight"; ObjectID = "eYp-Rq-so9"; */
+"eYp-Rq-so9.title" = "3Finger_LeftFinger_SwipeRight";
+
+/* Class = "NSTextFieldCell"; title = "Default Setting"; ObjectID = "eZ9-je-1te"; */
+"eZ9-je-1te.title" = "Default Setting";
+
+/* Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "eZs-NF-eJQ"; */
+"eZs-NF-eJQ.title" = "Scroll Right";
+
+/* Class = "NSTextFieldCell"; title = "2.If the note are only spaces, this rule will not be prompted"; ObjectID = "ecM-7A-SHR"; */
+"ecM-7A-SHR.title" = "2.If the note are only spaces, this rule will not be prompted";
+
+/* Class = "NSTextFieldCell"; title = "Scroll Speed"; ObjectID = "edR-rP-8qY"; */
+"edR-rP-8qY.title" = "Scroll Speed";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "ef9-3v-Xz9"; */
+"ef9-3v-Xz9.title" = "Paste and Match Style";
+
+/* Class = "NSMenu"; title = "Bottom Right Corner"; ObjectID = "egQ-UV-HaL"; */
+"egQ-UV-HaL.title" = "Bottom Right Corner";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ejo-6z-BaG"; */
+"ejo-6z-BaG.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "ek0-wa-PAn"; */
+"ek0-wa-PAn.title" = "5";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "exc-Ly-xeM"; */
+"exc-Ly-xeM.title" = "Scroll Down";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "fBc-UF-9V6"; */
+"fBc-UF-9V6.headerCell.title" = "Action";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "fEl-dG-npu"; */
+"fEl-dG-npu.title" = "MiddleMouse Click";
+
+/* Class = "NSMenu"; title = "Two Stroke"; ObjectID = "fO0-YN-gxT"; */
+"fO0-YN-gxT.title" = "Two Stroke";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "fSu-Hh-b8I"; */
+"fSu-Hh-b8I.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "fTa-0w-xxj"; */
+"fTa-0w-xxj.title" = "LeftMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "QQ"; ObjectID = "fU2-Vk-x39"; */
+"fU2-Vk-x39.title" = "QQ";
+
+/* Class = "NSMenuItem"; title = "Left Middle Side"; ObjectID = "fUj-Un-L3H"; */
+"fUj-Un-L3H.title" = "Left Middle Side";
+
+/* Class = "NSMenu"; title = "Top Right Corner"; ObjectID = "fX9-ET-s68"; */
+"fX9-ET-s68.title" = "Top Right Corner";
+
+/* Class = "NSMenuItem"; title = "2Finger_Tap"; ObjectID = "fcS-Km-TFU"; */
+"fcS-Km-TFU.title" = "2Finger_Tap";
+
+/* Class = "NSMenuItem"; title = "Key Combination"; ObjectID = "fco-4s-4tz"; */
+"fco-4s-4tz.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "fdi-dw-A97"; */
+"fdi-dw-A97.title" = "LeftMouse Click";
+
+/* Class = "NSMenu"; title = "Letter"; ObjectID = "feu-Yc-YDx"; */
+"feu-Yc-YDx.title" = "Letter";
+
+/* Class = "NSTextFieldCell"; title = "*Only for using rule"; ObjectID = "fl7-ff-otY"; */
+"fl7-ff-otY.title" = "*Only for using rule";
+
+/* Class = "NSTabViewItem"; label = "Gesture Settings"; ObjectID = "fr3-3t-1N2"; */
+"fr3-3t-1N2.label" = "Gesture Settings";
+
+/* Class = "NSButtonCell"; title = "Free"; ObjectID = "fwM-CT-0eJ"; */
+"fwM-CT-0eJ.title" = "Free";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "fyY-BI-xsa"; */
+"fyY-BI-xsa.title" = "-";
+
+/* Class = "NSButtonCell"; title = "Magic Mouse"; ObjectID = "g4U-Rg-qIT"; */
+"g4U-Rg-qIT.title" = "Magic Mouse";
+
+/* Class = "NSTextFieldCell"; title = "www.better365.cn"; ObjectID = "gGW-hf-1lg"; */
+"gGW-hf-1lg.title" = "www.better365.cn";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "gIU-kD-TpI"; */
+"gIU-kD-TpI.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "gLr-Mk-Skf"; */
+"gLr-Mk-Skf.title" = "Use Default";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "gO5-fV-7mT"; */
+"gO5-fV-7mT.title" = "Scroll Down";
+
+/* Class = "NSTableColumn"; headerCell.title = "Icon"; ObjectID = "gV1-iV-5QJ"; */
+"gV1-iV-5QJ.headerCell.title" = "Icon";
+
+/* Class = "NSMenuItem"; title = "Show Ruler"; ObjectID = "gXN-gJ-Moo"; */
+"gXN-gJ-Moo.title" = "Show Ruler";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "ghB-Lq-aLz"; */
+"ghB-Lq-aLz.title" = "Scroll Down";
+
+/* Class = "NSButtonCell"; title = "Prohibit left click when greater than one finger"; ObjectID = "hHn-cp-dCZ"; */
+"hHn-cp-dCZ.title" = "Prohibit left click when greater than one finger";
+
+/* Class = "NSButtonCell"; title = "Normal Mouse"; ObjectID = "hLX-s7-grP"; */
+"hLX-s7-grP.title" = "Normal Mouse";
+
+/* Class = "NSMenuItem"; title = "Bottom Middle Side"; ObjectID = "hN9-7B-d8t"; */
+"hN9-7B-d8t.title" = "Bottom Middle Side";
+
+/* Class = "NSButtonCell"; title = "Temporarily disable smooth scroll"; ObjectID = "hP5-aE-5Sq"; */
+"hP5-aE-5Sq.title" = "Temporarily disable smooth scroll";
+
+/* Class = "NSMenuItem"; title = "Raise"; ObjectID = "hTH-M7-8Yi"; */
+"hTH-M7-8Yi.title" = "Raise";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "hVe-eF-own"; */
+"hVe-eF-own.title" = "RightMouse Click";
+
+/* Class = "NSTabViewItem"; label = "Rules Manager"; ObjectID = "hc0-Ve-PjZ"; */
+"hc0-Ve-PjZ.label" = "Rules Manager";
+
+/* Class = "NSMenuItem"; title = "Holding one second"; ObjectID = "hdi-fa-GyY"; */
+"hdi-fa-GyY.title" = "Holding one second";
+
+/* Class = "NSMenu"; title = "Three Fingers"; ObjectID = "hfN-1H-yfd"; */
+"hfN-1H-yfd.title" = "Three Fingers";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "hih-rB-KtZ"; */
+"hih-rB-KtZ.title" = "+";
+
+/* Class = "NSMenuItem"; title = "Customize"; ObjectID = "hjL-EK-0B5"; */
+"hjL-EK-0B5.title" = "Customize";
+
+/* Class = "NSMenu"; title = "Top Left Side"; ObjectID = "hmb-T5-z28"; */
+"hmb-T5-z28.title" = "Top Left Side";
+
+/* Class = "NSMenu"; title = "One Stroke"; ObjectID = "hmd-1c-EZI"; */
+"hmd-1c-EZI.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "hpU-58-hCJ"; */
+"hpU-58-hCJ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "hrm-Nv-NSp"; */
+"hrm-Nv-NSp.title" = "Edit";
+
+/* Class = "NSButtonCell"; title = "Sync from iCloud"; ObjectID = "hu2-TL-bAU"; */
+"hu2-TL-bAU.title" = "Sync from iCloud";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "hwP-xs-jBC"; */
+"hwP-xs-jBC.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "i2E-LD-wh8"; */
+"i2E-LD-wh8.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "i3v-Vj-eq0"; */
+"i3v-Vj-eq0.title" = "RightMouse Click";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "iI9-0K-lMR"; */
+"iI9-0K-lMR.title" = "Button";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "iPp-EY-oFc"; */
+"iPp-EY-oFc.title" = "Scroll Up";
+
+/* Class = "NSMenu"; title = "Letter"; ObjectID = "iZi-Ng-yET"; */
+"iZi-Ng-yET.title" = "Letter";
+
+/* Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "ij0-Q1-Ux7"; */
+"ij0-Q1-Ux7.title" = "Scroll Right";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "ipn-94-pqb"; */
+"ipn-94-pqb.title" = "-";
+
+/* Class = "NSMenu"; title = "One Stroke"; ObjectID = "ipq-T7-oeH"; */
+"ipq-T7-oeH.title" = "One Stroke";
+
+/* Class = "NSMenuItem"; title = "Right Top Side"; ObjectID = "itK-uW-b3v"; */
+"itK-uW-b3v.title" = "Right Top Side";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "iu8-Jb-ui7"; */
+"iu8-Jb-ui7.title" = "Use Default";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "j2V-35-DHx"; */
+"j2V-35-DHx.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "2Finger_RightFinger_SwipeLeft"; ObjectID = "j3Z-F7-UJp"; */
+"j3Z-F7-UJp.title" = "2Finger_RightFinger_SwipeLeft";
+
+/* Class = "NSMenuItem"; title = "3Finger_Swipe_Down"; ObjectID = "j99-bf-G1M"; */
+"j99-bf-G1M.title" = "3Finger_Swipe_Down";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "jDH-WR-2nf"; */
+"jDH-WR-2nf.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "3Finger_TipTap_Left"; ObjectID = "jDj-eT-vq5"; */
+"jDj-eT-vq5.title" = "3Finger_TipTap_Left";
+
+/* Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "jGd-BO-u1O"; */
+"jGd-BO-u1O.title" = "Show Sidebar";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "jKB-p3-Xcv"; */
+"jKB-p3-Xcv.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "5Finger_Click"; ObjectID = "jTR-Pk-kf5"; */
+"jTR-Pk-kf5.title" = "5Finger_Click";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jTd-mv-J2X"; */
+"jTd-mv-J2X.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Click"; ObjectID = "jXR-C0-zSn"; */
+"jXR-C0-zSn.title" = "Click";
+
+/* Class = "NSButtonCell"; title = "AppleScript Library"; ObjectID = "jZV-ds-lxj"; */
+"jZV-ds-lxj.title" = "AppleScript Library";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "jZd-MA-ttq"; */
+"jZd-MA-ttq.title" = "RightMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "  *Gesture actions can be set \nfor single application. priority\nis higher than all applications"; ObjectID = "jZe-HW-S2D"; */
+"jZe-HW-S2D.title" = "  *Gesture actions can be set \nfor single application. priority\nis higher than all applications";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "jlp-aH-4k9"; */
+"jlp-aH-4k9.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Right"; ObjectID = "kEr-oa-StL"; */
+"kEr-oa-StL.title" = "1Finger_Tap_Right";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "kIY-On-HK3"; */
+"kIY-On-HK3.title" = "MiddleMouse Click";
+
+/* Class = "NSTableColumn"; headerCell.title = "Smooth"; ObjectID = "kLG-Zo-Qky"; */
+"kLG-Zo-Qky.headerCell.title" = "Smooth";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kXA-SY-dzg"; */
+"kXA-SY-dzg.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Use None"; ObjectID = "kb4-Eb-qgU"; */
+"kb4-Eb-qgU.title" = "Use None";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "kcV-xn-dh1"; */
+"kcV-xn-dh1.label" = "General";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "kgc-0R-9hD"; */
+"kgc-0R-9hD.title" = "MiddleMouse Click";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "kgp-wF-3gb"; */
+"kgp-wF-3gb.title" = "+";
+
+/* Class = "NSMenuItem"; title = "Subscript"; ObjectID = "kka-pF-S8r"; */
+"kka-pF-S8r.title" = "Subscript";
+
+/* Class = "NSMenuItem"; title = "4Finger_Pinch_Out"; ObjectID = "kl8-oQ-ll0"; */
+"kl8-oQ-ll0.title" = "4Finger_Pinch_Out";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "klh-AE-vV2"; */
+"klh-AE-vV2.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "Two Stroke"; ObjectID = "kyz-a1-UVT"; */
+"kyz-a1-UVT.title" = "Two Stroke";
+
+/* Class = "NSMenuItem"; title = "3Finger_Swipe_Right"; ObjectID = "lKM-Ot-zFK"; */
+"lKM-Ot-zFK.title" = "3Finger_Swipe_Right";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "lS6-Aq-k2g"; */
+"lS6-Aq-k2g.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "lT7-0K-DV3"; */
+"lT7-0K-DV3.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "3Finger_LeftFinger_SwipeUp"; ObjectID = "lV3-dC-NPZ"; */
+"lV3-dC-NPZ.title" = "3Finger_LeftFinger_SwipeUp";
+
+/* Class = "NSTextFieldCell"; title = "BUG feedback community:"; ObjectID = "lcG-DN-qcn"; */
+"lcG-DN-qcn.title" = "BUG feedback community:";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "lhP-g1-UJ1"; */
+"lhP-g1-UJ1.title" = "Reset";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "lhS-II-ee8"; */
+"lhS-II-ee8.title" = "RightMouse Click";
+
+/* Class = "NSTabViewItem"; label = "GeneralSettingsTabView"; ObjectID = "liq-ct-IMa"; */
+"liq-ct-IMa.label" = "GeneralSettingsTabView";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "lmM-s6-j8P"; */
+"lmM-s6-j8P.title" = "Enter Full Screen";
+
+/* Class = "NSMenu"; title = "Two Stroke"; ObjectID = "lpn-NS-bds"; */
+"lpn-NS-bds.title" = "Two Stroke";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "ltx-8r-A9n"; */
+"ltx-8r-A9n.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "lzi-yj-45Q"; */
+"lzi-yj-45Q.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "6Key Click"; ObjectID = "m1a-6i-sFr"; */
+"m1a-6i-sFr.title" = "6Key Click";
+
+/* Class = "NSMenuItem"; title = "3Finger_Pinch_Out"; ObjectID = "m8a-Pv-Qfb"; */
+"m8a-Pv-Qfb.title" = "3Finger_Pinch_Out";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "mA9-tr-x8z"; */
+"mA9-tr-x8z.headerCell.title" = "Action";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Top_Middle"; ObjectID = "mEB-d5-poA"; */
+"mEB-d5-poA.title" = "1Finger_Tap_Top_Middle";
+
+/* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "mK4-vf-egc"; */
+"mK4-vf-egc.title" = "Fast";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "mNq-ga-fCh"; */
+"mNq-ga-fCh.title" = "Check Document Now";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "mQS-Ig-8SP"; */
+"mQS-Ig-8SP.title" = "-";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mSn-Mv-Up1"; */
+"mSn-Mv-Up1.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "mWW-Ty-To6"; */
+"mWW-Ty-To6.title" = "\tLeft to Right";
+
+/* Class = "NSMenuItem"; title = "One Stroke"; ObjectID = "mXH-7A-PJ9"; */
+"mXH-7A-PJ9.title" = "One Stroke";
+
+/* Class = "NSMenu"; title = "Left Bottom Side"; ObjectID = "mcE-Uc-VLC"; */
+"mcE-Uc-VLC.title" = "Left Bottom Side";
+
+/* Class = "NSMenuItem"; title = "Two Stroke"; ObjectID = "mcq-gf-twZ"; */
+"mcq-gf-twZ.title" = "Two Stroke";
+
+/* Class = "NSButtonCell"; title = "Upload to iCloud"; ObjectID = "mdD-8V-Vtq"; */
+"mdD-8V-Vtq.title" = "Upload to iCloud";
+
+/* Class = "NSButtonCell"; title = "Prohibit scrollwheel when greater than two fingers"; ObjectID = "mdz-bY-7d1"; */
+"mdz-bY-7d1.title" = "Prohibit scrollwheel when greater than two fingers";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "mfr-d1-pww"; */
+"mfr-d1-pww.headerCell.title" = "Action";
+
+/* Class = "NSMenuItem"; title = "Three Fingers"; ObjectID = "mlg-hb-A9c"; */
+"mlg-hb-A9c.title" = "Three Fingers";
+
+/* Class = "NSTextFieldCell"; title = "Drag response pixels:"; ObjectID = "moe-pV-fYj"; */
+"moe-pV-fYj.title" = "Drag response pixels:";
+
+/* Class = "NSTextFieldCell"; title = "  *Gesture actions can be set \nfor single application. priority\nis higher than all applications"; ObjectID = "mqV-IA-fJK"; */
+"mqV-IA-fJK.title" = "  *Gesture actions can be set \nfor single application. priority\nis higher than all applications";
+
+/* Class = "NSTextFieldCell"; title = "*When the Modifier_key is holding\nsmooth scroll is temporarily disabled"; ObjectID = "mqi-9m-Vmt"; */
+"mqi-9m-Vmt.title" = "*When the Modifier_key is holding\nsmooth scroll is temporarily disabled";
+
+/* Class = "NSTextFieldCell"; title = "Individual setting"; ObjectID = "mr6-w2-K8y"; */
+"mr6-w2-K8y.title" = "Individual setting";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "msh-Sf-LHN"; */
+"msh-Sf-LHN.title" = "Scroll Up";
+
+/* Class = "NSMenuItem"; title = "Use All"; ObjectID = "mug-Hx-tsX"; */
+"mug-Hx-tsX.title" = "Use All";
+
+/* Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "mzx-Wk-2DT"; */
+"mzx-Wk-2DT.title" = "Scroll Left";
+
+/* Class = "NSTextFieldCell"; title = "*1.Give priority to prompt note. Prompt to trigger action when there is no note\n "; ObjectID = "n2l-qc-t0S"; */
+"n2l-qc-t0S.title" = "*1.Give priority to prompt note. Prompt to trigger action when there is no note\n ";
+
+/* Class = "NSMenuItem"; title = "Two Stroke"; ObjectID = "n6w-K8-95Z"; */
+"n6w-K8-95Z.title" = "Two Stroke";
+
+/* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "n9S-Vq-hHQ"; */
+"n9S-Vq-hHQ.title" = "\tLeft to Right";
+
+/* Class = "NSMenuItem"; title = "4Finger_TipTap_Left"; ObjectID = "nAu-oz-TYk"; */
+"nAu-oz-TYk.title" = "4Finger_TipTap_Left";
+
+/* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "nLT-2y-ahf"; */
+"nLT-2y-ahf.title" = "Tighten";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "nP5-1P-XBS"; */
+"nP5-1P-XBS.title" = "Spelling";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "nXu-Jb-FUM"; */
+"nXu-Jb-FUM.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "ndI-mm-GjW"; */
+"ndI-mm-GjW.title" = "+";
+
+/* Class = "NSTextFieldCell"; title = "Tracking Speed"; ObjectID = "ngJ-tF-kve"; */
+"ngJ-tF-kve.title" = "Tracking Speed";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "ngM-Df-eOu"; */
+"ngM-Df-eOu.title" = "LeftMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nhO-Vh-boA"; */
+"nhO-Vh-boA.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hot Corners"; ObjectID = "ni8-WJ-NTQ"; */
+"ni8-WJ-NTQ.headerCell.title" = "Hot Corners";
+
+/* Class = "NSButtonCell"; title = "Reset all settings and rules"; ObjectID = "njJ-Pa-3sS"; */
+"njJ-Pa-3sS.title" = "Reset all settings and rules";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "nlP-VX-Lfa"; */
+"nlP-VX-Lfa.title" = "Scroll Down";
+
+/* Class = "NSButtonCell"; title = "More rules official download >>"; ObjectID = "nnj-Gh-uFJ"; */
+"nnj-Gh-uFJ.title" = "More rules official download >>";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "nwx-ij-sS8"; */
+"nwx-ij-sS8.title" = "Scroll Up";
+
+/* Class = "NSTabViewItem"; label = "Detection and Setting"; ObjectID = "o2m-kC-Kk6"; */
+"o2m-kC-Kk6.label" = "Detection and Setting";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "o5k-18-Swi"; */
+"o5k-18-Swi.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Click"; ObjectID = "oEV-Gk-ab4"; */
+"oEV-Gk-ab4.title" = "Click";
+
+/* Class = "NSMenuItem"; title = "5Finger_Swipe_Right"; ObjectID = "oHh-Wh-kJQ"; */
+"oHh-Wh-kJQ.title" = "5Finger_Swipe_Right";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oOb-eh-8i8"; */
+"oOb-eh-8i8.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Top Left Corner"; ObjectID = "oQo-H9-D9Y"; */
+"oQo-H9-D9Y.title" = "Top Left Corner";
+
+/* Class = "NSTabViewItem"; label = "Gesture Settings"; ObjectID = "oR5-sR-z7q"; */
+"oR5-sR-z7q.label" = "Gesture Settings";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "oU2-BA-UiK"; */
+"oU2-BA-UiK.title" = "Smart Quotes";
+
+/* Class = "NSMenu"; title = "Key Combination"; ObjectID = "oV4-UC-4vx"; */
+"oV4-UC-4vx.title" = "Key Combination";
+
+/* Class = "NSMenu"; title = "Holding MiddleMouse"; ObjectID = "oW6-gg-lJH"; */
+"oW6-gg-lJH.title" = "Holding MiddleMouse";
+
+/* Class = "NSMenuItem"; title = "4Finger_Swipe_Down"; ObjectID = "oY3-Tu-219"; */
+"oY3-Tu-219.title" = "4Finger_Swipe_Down";
+
+/* Class = "NSMenuItem"; title = "3Finger_Swipe_Left"; ObjectID = "oZG-ba-FJh"; */
+"oZG-ba-FJh.title" = "3Finger_Swipe_Left";
+
+/* Class = "NSTextFieldCell"; title = "Scan code attention"; ObjectID = "oZh-n3-crM"; */
+"oZh-n3-crM.title" = "Scan code attention";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "oaH-4a-LkM"; */
+"oaH-4a-LkM.title" = "Reset";
+
+/* Class = "NSMenuItem"; title = "8Key Click"; ObjectID = "oeU-1h-lrQ"; */
+"oeU-1h-lrQ.title" = "8Key Click";
+
+/* Class = "NSTableColumn"; headerCell.title = "Shortcut Key"; ObjectID = "ofK-jU-ubV"; */
+"ofK-jU-ubV.headerCell.title" = "Shortcut Key";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "oix-aS-0IP"; */
+"oix-aS-0IP.title" = "Find and Replace…";
+
+/* Class = "NSMenuItem"; title = "Hide BetterAndBetter"; ObjectID = "onz-J4-8yr"; */
+"onz-J4-8yr.title" = "Hide BetterAndBetter";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "oo9-3d-xVk"; */
+"oo9-3d-xVk.title" = "Reset";
+
+/* Class = "NSMenuItem"; title = "2Finger_Pinch_In"; ObjectID = "ook-24-65N"; */
+"ook-24-65N.title" = "2Finger_Pinch_In";
+
+/* Class = "NSMenuItem"; title = "Bottom Left Corner"; ObjectID = "oqP-Iu-Z5H"; */
+"oqP-Iu-Z5H.title" = "Bottom Left Corner";
+
+/* Class = "NSMenu"; title = "Holding MiddleMouse"; ObjectID = "osX-0u-sfG"; */
+"osX-0u-sfG.title" = "Holding MiddleMouse";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "ow1-fR-KR4"; */
+"ow1-fR-KR4.title" = "New";
+
+/* Class = "NSMenu"; title = "Two Stroke"; ObjectID = "ow3-fp-Zxm"; */
+"ow3-fp-Zxm.title" = "Two Stroke";
+
+/* Class = "NSMenuItem"; title = "4Finger_Swipe_Right"; ObjectID = "oya-Ur-wtT"; */
+"oya-Ur-wtT.title" = "4Finger_Swipe_Right";
+
+/* Class = "NSMenuItem"; title = "One Finger"; ObjectID = "oyp-t5-8X3"; */
+"oyp-t5-8X3.title" = "One Finger";
+
+/* Class = "NSMenuItem"; title = "4Finger_Click"; ObjectID = "p4p-Y1-1ut"; */
+"p4p-Y1-1ut.title" = "4Finger_Click";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "pIE-zH-foS"; */
+"pIE-zH-foS.title" = "+";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "pIt-4Y-c4A"; */
+"pIt-4Y-c4A.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "  *Gesture actions can be set \nfor single application. priority\nis higher than all applications"; ObjectID = "pQV-HB-IWE"; */
+"pQV-HB-IWE.title" = "  *Gesture actions can be set \nfor single application. priority\nis higher than all applications";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "pYw-Wp-ucT"; */
+"pYw-Wp-ucT.title" = "Main Menu";
+
+/* Class = "NSMenu"; title = "One Stroke"; ObjectID = "pZ8-cw-hhF"; */
+"pZ8-cw-hhF.title" = "One Stroke";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "pi2-F3-n50"; */
+"pi2-F3-n50.title" = "-";
+
+/* Class = "NSMenuItem"; title = "Five Fingers"; ObjectID = "psX-bB-r0l"; */
+"psX-bB-r0l.title" = "Five Fingers";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "pwu-EO-IsG"; */
+"pwu-EO-IsG.title" = "Jump to Selection";
+
+/* Class = "NSTextFieldCell"; title = "AutoLock"; ObjectID = "qNR-iy-kUC"; */
+"qNR-iy-kUC.title" = "AutoLock";
+
+/* Class = "NSTextFieldCell"; title = "*Rightmouse dragging will trigger the rightmouse drawing function of normal mouse"; ObjectID = "qVv-wk-uNl"; */
+"qVv-wk-uNl.title" = "*Rightmouse dragging will trigger the rightmouse drawing function of normal mouse";
+
+/* Class = "NSTableColumn"; headerCell.title = "Serial"; ObjectID = "qX5-3X-jMk"; */
+"qX5-3X-jMk.headerCell.title" = "Serial";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "qXa-Ub-H7X"; */
+"qXa-Ub-H7X.title" = "Close";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "qXj-yi-qoE"; */
+"qXj-yi-qoE.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "Key Combination"; ObjectID = "qdg-6t-YJY"; */
+"qdg-6t-YJY.title" = "Key Combination";
+
+/* Class = "NSMenuItem"; title = "Customize"; ObjectID = "qiR-AT-5uZ"; */
+"qiR-AT-5uZ.title" = "Customize";
+
+/* Class = "NSMenuItem"; title = "1Finger_Click_Right_Middle"; ObjectID = "qoX-W2-pM9"; */
+"qoX-W2-pM9.title" = "1Finger_Click_Right_Middle";
+
+/* Class = "NSTextFieldCell"; title = "Touchpad gesture detection"; ObjectID = "quy-QW-f0d"; */
+"quy-QW-f0d.title" = "Touchpad gesture detection";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "qw1-dc-xLi"; */
+"qw1-dc-xLi.title" = "Scroll Down";
+
+/* Class = "NSMenuItem"; title = "Scroll Right"; ObjectID = "qzN-zl-2JI"; */
+"qzN-zl-2JI.title" = "Scroll Right";
+
+/* Class = "NSMenuItem"; title = "Customize"; ObjectID = "rCo-h7-1K9"; */
+"rCo-h7-1K9.title" = "Customize";
+
+/* Class = "NSMenuItem"; title = "5Key Click"; ObjectID = "rDL-Ag-M39"; */
+"rDL-Ag-M39.title" = "5Key Click";
+
+/* Class = "NSMenu"; title = "FlyoutMulitouch"; ObjectID = "rFA-vg-ouC"; */
+"rFA-vg-ouC.title" = "FlyoutMulitouch";
+
+/* Class = "NSButtonCell"; title = "Test content of this version"; ObjectID = "rNB-ok-xo9"; */
+"rNB-ok-xo9.title" = "Test content of this version";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "rNr-YL-9hK"; */
+"rNr-YL-9hK.title" = "RightMouse Click";
+
+/* Class = "NSTableColumn"; headerCell.title = "Gesture"; ObjectID = "re4-wt-pSx"; */
+"re4-wt-pSx.headerCell.title" = "Gesture";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "res-TM-kPn"; */
+"res-TM-kPn.title" = "Scroll Down";
+
+/* Class = "NSMenuItem"; title = "3Finger_Tap"; ObjectID = "roI-Km-xhi"; */
+"roI-Km-xhi.title" = "3Finger_Tap";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "rps-tW-SJd"; */
+"rps-tW-SJd.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "rqe-Ag-dHp"; */
+"rqe-Ag-dHp.headerCell.title" = "Note";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sLf-mD-Qgg"; */
+"sLf-mD-Qgg.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "sNZ-p9-I0a"; */
+"sNZ-p9-I0a.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "2Finger_Swipe_Right_From Left"; ObjectID = "sWj-J8-zCZ"; */
+"sWj-J8-zCZ.title" = "2Finger_Swipe_Right_From Left";
+
+/* Class = "NSMenuItem"; title = "1Finger_Click_Top_Middle"; ObjectID = "scu-y9-Sqf"; */
+"scu-y9-Sqf.title" = "1Finger_Click_Top_Middle";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application Name"; ObjectID = "sdi-Dz-owC"; */
+"sdi-Dz-owC.headerCell.title" = "Application Name";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "se9-wr-Vcp"; */
+"se9-wr-Vcp.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "MagicMouse gesture detection"; ObjectID = "siJ-Fo-cZK"; */
+"siJ-Fo-cZK.title" = "MagicMouse gesture detection";
+
+/* Class = "NSMenuItem"; title = "Click"; ObjectID = "siL-zf-21z"; */
+"siL-zf-21z.title" = "Click";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "swi-gr-zZo"; */
+"swi-gr-zZo.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Bottom Left Side"; ObjectID = "t2E-0i-2q7"; */
+"t2E-0i-2q7.title" = "Bottom Left Side";
+
+/* Class = "NSTextFieldCell"; title = "  *Gesture actions can be set \nfor single application. priority\nis higher than all applications"; ObjectID = "tL5-mO-EHN"; */
+"tL5-mO-EHN.title" = "  *Gesture actions can be set \nfor single application. priority\nis higher than all applications";
+
+/* Class = "NSMenuItem"; title = "Customize"; ObjectID = "tPi-dD-p52"; */
+"tPi-dD-p52.title" = "Customize";
+
+/* Class = "NSMenuItem"; title = "1Finger_Click_Left_Middle"; ObjectID = "tPk-3D-9de"; */
+"tPk-3D-9de.title" = "1Finger_Click_Left_Middle";
+
+/* Class = "NSMenuItem"; title = "Ligatures"; ObjectID = "tPq-xq-OhH"; */
+"tPq-xq-OhH.title" = "Ligatures";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "tQM-It-ADc"; */
+"tQM-It-ADc.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Save…"; ObjectID = "tVY-1S-GIO"; */
+"tVY-1S-GIO.title" = "Save…";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "tbv-aB-kXr"; */
+"tbv-aB-kXr.title" = "Copy";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "tew-cV-B5Y"; */
+"tew-cV-B5Y.title" = "Table View Cell";
+
+/* Class = "NSTabViewItem"; label = "Detection and Setting"; ObjectID = "tg6-0u-5QA"; */
+"tg6-0u-5QA.label" = "Detection and Setting";
+
+/* Class = "NSTextFieldCell"; title = "Official website address:"; ObjectID = "ti6-0N-9KN"; */
+"ti6-0N-9KN.title" = "Official website address:";
+
+/* Class = "NSTextFieldCell"; title = "Key blacklist apps setting"; ObjectID = "tqA-tS-kUD"; */
+"tqA-tS-kUD.title" = "Key blacklist apps setting";
+
+/* Class = "NSButtonCell"; title = "Auto Start at Login"; ObjectID = "tqG-Ls-G0h"; */
+"tqG-Ls-G0h.title" = "Auto Start at Login";
+
+/* Class = "NSButtonCell"; title = "Simulate normal mouse rightmouse drawing"; ObjectID = "trd-RV-aUf"; */
+"trd-RV-aUf.title" = "Simulate normal mouse rightmouse drawing";
+
+/* Class = "NSMenu"; title = "trackSpeedSmoothScrollMenu"; ObjectID = "twX-kd-JFd"; */
+"twX-kd-JFd.title" = "trackSpeedSmoothScrollMenu";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "u0j-C8-PKx"; */
+"u0j-C8-PKx.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "uEZ-Ff-Uh8"; */
+"uEZ-Ff-Uh8.title" = "2";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "uGS-fU-g4t"; */
+"uGS-fU-g4t.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "4Finger_LeftFinger_SwipeRight"; ObjectID = "uJ1-iW-53I"; */
+"uJ1-iW-53I.title" = "4Finger_LeftFinger_SwipeRight";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "uMk-g8-xP4"; */
+"uMk-g8-xP4.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "uNZ-IN-T8f"; */
+"uNZ-IN-T8f.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "9"; ObjectID = "uUX-bd-4un"; */
+"uUX-bd-4un.title" = "9";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "uXf-BT-Pby"; */
+"uXf-BT-Pby.title" = "MiddleMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "WeChat technical customer service"; ObjectID = "uf3-5M-Udg"; */
+"uf3-5M-Udg.title" = "WeChat technical customer service";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "ugB-4V-3eT"; */
+"ugB-4V-3eT.title" = "LeftMouse Click";
+
+/* Class = "NSMenuItem"; title = "Four Fingers"; ObjectID = "ujh-kc-3Ln"; */
+"ujh-kc-3Ln.title" = "Four Fingers";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "ulc-e7-Zx7"; */
+"ulc-e7-Zx7.title" = "MiddleMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "uvc-Xg-vA8"; */
+"uvc-Xg-vA8.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Holding 7Key"; ObjectID = "v6D-zJ-lKj"; */
+"v6D-zJ-lKj.title" = "Holding 7Key";
+
+/* Class = "NSMenuItem"; title = "3Finger_ForceClick"; ObjectID = "vAH-0f-dxG"; */
+"vAH-0f-dxG.title" = "3Finger_ForceClick";
+
+/* Class = "NSMenuItem"; title = "3Finger_TipTap_Right"; ObjectID = "vFp-65-CjE"; */
+"vFp-65-CjE.title" = "3Finger_TipTap_Right";
+
+/* Class = "NSButtonCell"; title = "Trackpad"; ObjectID = "vHZ-lL-OO8"; */
+"vHZ-lL-OO8.title" = "Trackpad";
+
+/* Class = "NSTableColumn"; headerCell.title = "Gesture"; ObjectID = "vIP-mK-jXh"; */
+"vIP-mK-jXh.headerCell.title" = "Gesture";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "vKY-oz-KKK"; */
+"vKY-oz-KKK.title" = "Check Grammar With Spelling";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "vKi-XR-jWy"; */
+"vKi-XR-jWy.title" = "MiddleMouse Click";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "vgP-X4-e69"; */
+"vgP-X4-e69.headerCell.title" = "Note";
+
+/* Class = "NSMenuItem"; title = "1Finger_Tap_Left"; ObjectID = "vii-d2-Iik"; */
+"vii-d2-Iik.title" = "1Finger_Tap_Left";
+
+/* Class = "NSMenu"; title = "Holding MiddleMouse"; ObjectID = "vt1-KV-UMx"; */
+"vt1-KV-UMx.title" = "Holding MiddleMouse";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "w5r-LL-t5J"; */
+"w5r-LL-t5J.headerCell.title" = "Note";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "w6B-9Z-TPN"; */
+"w6B-9Z-TPN.title" = "Spelling and Grammar";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "wAE-iZ-wXT"; */
+"wAE-iZ-wXT.title" = "Help";
+
+/* Class = "NSMenu"; title = "Top Middle Side"; ObjectID = "wIC-EV-XdW"; */
+"wIC-EV-XdW.title" = "Top Middle Side";
+
+/* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "wIu-Xf-hh4"; */
+"wIu-Xf-hh4.title" = "Fast";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "wJk-YO-ZG3"; */
+"wJk-YO-ZG3.title" = "3";
+
+/* Class = "NSMenuItem"; title = "1Finger_Click_Bottom_Right"; ObjectID = "wUL-K6-M1r"; */
+"wUL-K6-M1r.title" = "1Finger_Click_Bottom_Right";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "wVI-UL-BcW"; */
+"wVI-UL-BcW.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "2Finger_DoubleTap"; ObjectID = "wa8-eV-Nc6"; */
+"wa8-eV-Nc6.title" = "2Finger_DoubleTap";
+
+/* Class = "NSMenuItem"; title = "3Finger_Swipe_Up"; ObjectID = "wah-4S-y1O"; */
+"wah-4S-y1O.title" = "3Finger_Swipe_Up";
+
+/* Class = "NSMenuItem"; title = "Key Combination"; ObjectID = "whD-hv-RhZ"; */
+"whD-hv-RhZ.title" = "Key Combination";
+
+/* Class = "NSMenu"; title = "Two Stroke"; ObjectID = "wo7-gh-bQ9"; */
+"wo7-gh-bQ9.title" = "Two Stroke";
+
+/* Class = "NSMenu"; title = "Kern"; ObjectID = "wrg-ee-Cub"; */
+"wrg-ee-Cub.title" = "Kern";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wxb-x9-JRu"; */
+"wxb-x9-JRu.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "wyZ-3A-7z4"; */
+"wyZ-3A-7z4.title" = "Box";
+
+/* Class = "NSTabViewItem"; label = "MagicMouseTabView"; ObjectID = "x8F-TG-Jdj"; */
+"x8F-TG-Jdj.label" = "MagicMouseTabView";
+
+/* Class = "NSMenuItem"; title = "3Finger_LeftFinger_SwipeDown"; ObjectID = "x9q-Pq-dvC"; */
+"x9q-Pq-dvC.title" = "3Finger_LeftFinger_SwipeDown";
+
+/* Class = "NSButtonCell"; title = "Horizontally reversal of the scroll wheel"; ObjectID = "xA4-sm-MBL"; */
+"xA4-sm-MBL.title" = "Horizontally reversal of the scroll wheel";
+
+/* Class = "NSMenuItem"; title = "Kern"; ObjectID = "xBA-pa-L5O"; */
+"xBA-pa-L5O.title" = "Kern";
+
+/* Class = "NSMenuItem"; title = "2Finger_RightFinger_SwipeRight"; ObjectID = "xBH-Uq-eVz"; */
+"xBH-Uq-eVz.title" = "2Finger_RightFinger_SwipeRight";
+
+/* Class = "NSMenu"; title = "Two Stroke"; ObjectID = "xGe-gE-LNd"; */
+"xGe-gE-LNd.title" = "Two Stroke";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "xHJ-aX-sVK"; */
+"xHJ-aX-sVK.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "xHO-Vc-jko"; */
+"xHO-Vc-jko.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "xRU-Ad-Az6"; */
+"xRU-Ad-Az6.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "Holding RightMouse"; ObjectID = "xcY-iX-x1k"; */
+"xcY-iX-x1k.title" = "Holding RightMouse";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "xiq-ah-KTf"; */
+"xiq-ah-KTf.title" = "MiddleMouse Click";
+
+/* Class = "NSMenuItem"; title = "1Finger_Click_Bottom_Middle"; ObjectID = "xv7-kl-90h"; */
+"xv7-kl-90h.title" = "1Finger_Click_Bottom_Middle";
+
+/* Class = "NSTableColumn"; headerCell.title = "Note"; ObjectID = "y0a-Xh-1Up"; */
+"y0a-Xh-1Up.headerCell.title" = "Note";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "y2F-gr-2mt"; */
+"y2F-gr-2mt.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "2Finger_RightFinger_SwipeRight"; ObjectID = "y2z-v9-3je"; */
+"y2z-v9-3je.title" = "2Finger_RightFinger_SwipeRight";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "y3k-us-FsN"; */
+"y3k-us-FsN.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Customize"; ObjectID = "y9z-42-AdM"; */
+"y9z-42-AdM.title" = "Customize";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yMc-xF-qne"; */
+"yMc-xF-qne.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Bottom Right Side"; ObjectID = "yVo-MQ-IaJ"; */
+"yVo-MQ-IaJ.title" = "Bottom Right Side";
+
+/* Class = "NSMenuItem"; title = "2Finger_Swipe_Up_From Bottom"; ObjectID = "yim-g6-oDl"; */
+"yim-g6-oDl.title" = "2Finger_Swipe_Up_From Bottom";
+
+/* Class = "NSMenuItem"; title = "Scroll Left"; ObjectID = "yls-f3-hl0"; */
+"yls-f3-hl0.title" = "Scroll Left";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "yq7-go-H0e"; */
+"yq7-go-H0e.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Free"; ObjectID = "yr5-rk-UPU"; */
+"yr5-rk-UPU.title" = "Free";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "yra-Sk-PUx"; */
+"yra-Sk-PUx.title" = "Open…";
+
+/* Class = "NSTextFieldCell"; title = "Screenshots, long screenshots, screen recording, pin\nannotation, the most powerful five-in-one screenshot recording tool"; ObjectID = "yrm-yJ-NIf"; */
+"yrm-yJ-NIf.title" = "Screenshots, long screenshots, screen recording, pin\nannotation, the most powerful five-in-one screenshot recording tool";
+
+/* Class = "NSMenu"; title = "Letter"; ObjectID = "ysA-ge-zmb"; */
+"ysA-ge-zmb.title" = "Letter";
+
+/* Class = "NSButtonCell"; title = "Import New"; ObjectID = "ytL-ga-DcZ"; */
+"ytL-ga-DcZ.title" = "Import New";
+
+/* Class = "NSMenuItem"; title = "LeftMouse Click"; ObjectID = "ytv-jq-Kn7"; */
+"ytv-jq-Kn7.title" = "LeftMouse Click";
+
+/* Class = "NSTextFieldCell"; title = "Trackpad Drawing Function"; ObjectID = "yyE-fl-Rli"; */
+"yyE-fl-Rli.title" = "Trackpad Drawing Function";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "z5P-cR-fJW"; */
+"z5P-cR-fJW.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "3Finger_TipTap_Middle"; ObjectID = "zG5-1o-xM0"; */
+"zG5-1o-xM0.title" = "3Finger_TipTap_Middle";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "zMG-cs-HXf"; */
+"zMG-cs-HXf.title" = "Smart Copy/Paste";
+
+/* Class = "NSMenuItem"; title = "MiddleMouse Click"; ObjectID = "zW2-Ed-e5O"; */
+"zW2-Ed-e5O.title" = "MiddleMouse Click";
+
+/* Class = "NSButtonCell"; title = "Simulate normal mouse rightmouse drawing"; ObjectID = "zWO-gX-0vV"; */
+"zWO-gX-0vV.title" = "Simulate normal mouse rightmouse drawing";
+
+/* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "zX7-y0-MOg"; */
+"zX7-y0-MOg.title" = "\tRight to Left";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "zkc-7P-aqV"; */
+"zkc-7P-aqV.title" = "Cut";
+
+/* Class = "NSMenuItem"; title = "4Finger_TipTap_Right"; ObjectID = "zm2-hn-q6g"; */
+"zm2-hn-q6g.title" = "4Finger_TipTap_Right";
+
+/* Class = "NSMenuItem"; title = "2Finger_Swipe_Left"; ObjectID = "zn8-Q7-EQQ"; */
+"zn8-Q7-EQQ.title" = "2Finger_Swipe_Left";
+
+/* Class = "NSMenuItem"; title = "2Finger_TipTap_Near_Left"; ObjectID = "zri-X4-aP2"; */
+"zri-X4-aP2.title" = "2Finger_TipTap_Near_Left";
+
+/* Class = "NSMenuItem"; title = "RightMouse Click"; ObjectID = "zzi-Ma-Tgf"; */
+"zzi-Ma-Tgf.title" = "RightMouse Click";
+
+/* Class = "NSMenuItem"; title = "3Finger_LeftFinger_SwipeRight"; ObjectID = "zzk-lf-KHM"; */
+"zzk-lf-KHM.title" = "3Finger_LeftFinger_SwipeRight";

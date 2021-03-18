@@ -1,0 +1,442 @@
+{
+  "always selection rules" : [
+    {
+      "enabled" : true,
+      "hidden" : false,
+      "path" : "~\/Downloads\/"
+    },
+    {
+      "enabled" : true,
+      "hidden" : false,
+      "path" : "~\/Desktop\/"
+    },
+    {
+      "enabled" : true,
+      "hidden" : true,
+      "path" : "~\/Library\/Containers\/com.apple.mail\/Data\/Library\/Mail Downloads\/"
+    },
+    {
+      "enabled" : true,
+      "hidden" : true,
+      "path" : "~\/Library\/Mail Downloads\/"
+    }
+  ],
+  "preference values" : {
+    "mixedPreferences" : {
+      "extendLicenseDiscount": 0,
+      "achievementIntroShown" : 0,
+      "userSeenDifferencesTip" : 0,
+      "canOpenPhotosWithoutPermission" : 0,
+      "gridModeOfScanResults" : 0,
+      "showingAchievementNotificationsEnabled" : 1,
+      "soundsEnabled" : 1,
+      "didRegisterServices" : 0,
+      "suppressPhotosCleaningScreen" : 0,
+      "suppressOriginalSelectionWarning" : 0,
+      "didShowSimilarsTipForTheFirstTime" : 0,
+      "canOpenITunesWithoutPermission" : 0,
+      "detailedScanResultsWindowSize" : "{1152, 675}",
+      "schedulePeriodOption" : {
+        "kind" : "default"
+      }
+    },
+    "cleaningRules" : {
+      "isFakeRemove" : 0,
+      "removeEmptyDirectories" : 0,
+      "shouldTryToReplaceRemovedDuplicatesWithHardLinkToOriginal" : 0,
+      "cleaningOption" : {
+        "kind" : "move_to_trash"
+      }
+    },
+    "analyticsSendingEnabled" : 1,
+    "loggingEventsEnabled" : 0,
+    "developerMode" : 0,
+    "autoselectionRules" : {
+      "allowSelectionOfMembersOfInvalidMediaLibraries" : 0,
+      "selectRandomAmongEqual" : 0,
+      "allowAutoselectionWithinHardlinkedGroups" : 0
+    },
+    "scanRules" : {
+      "similarImagesMatchAllowed" : 1,
+      "similarAudioMetadataThreshold" : 0.1,
+      "directoriesMatchEnabled" : 1,
+      "similarAudioMatchAllowed" : 1,
+      "maximumSizeFractionToSacrificeOfAutomaticSizeThresholdEvaluation" : 0.03,
+      "pathExtensionsOfImagesToExcludeFromSimilarMatch" : [
+        "psd",
+        "psb"
+      ],
+      "exactAudioContentMatchEnabled" : 1,
+      "shouldDetectMediaLibraries" : 1,
+      "nodeNameRegExpByMembershipMode" : {
+        "Regular" : [
+
+        ],
+        "Transparent" : [
+         "\\.git",
+         "\\.svn",
+          "\\.Trash",
+          "\\.DS_Store",
+          "credits.?",
+          "infoplist.?",
+          "web-inf.?",
+          "backups\\.backupdb"
+        ],
+        "Untouchable" : [
+          "licence.?",
+          "license.?",
+          "node_modules",
+          "bower_components"
+        ]
+      },
+      "rawImageMatchThreshold" : 3,
+      "preciseProprtionMatchThreshold" : 0.01,
+      "applicationsMatchEnabled" : 1,
+      "minTestedVersionByNodeTypeIdentifier" : {
+        "PhotosLibrary" : "474",
+        "ITunesLibrary" : "12.0.1.26"
+      },
+      "sizeThresholdOption" : {
+        "kind" : "automatic"
+      },
+      "maxTestedVersionByNodeTypeIdentifier" : {
+      },
+      "similarsDetectionEnabled" : 1,
+      "similarAudioDurationThreshold" : 3,
+      "exactMatchEnabled" : 1,
+      "similarImageSizeThreshold" : {
+        "width" : 512,
+        "height" : 512
+      },
+      "limitOfCandidatesForPreciseImageMatch" : 50,
+      "preciseImageMatchThreshold" : 1,
+      "isPreciseImageMatchEnabled" : 1
+    }
+  },
+  "smart selection rules" : [
+    {
+      "identifier" : "NonSoftwareAndOriginal",
+      "name" : "Instagram",
+      "isEnabled" : true,
+      "addedInVersion" : "2.3b"
+    }
+  ],
+  "never selection rules" : [
+    {
+      "enabled" : true,
+      "hidden" : false,
+      "path" : "~\/Documents\/"
+    }
+  ],
+  "ignored nodes" : [
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/net",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/tmp",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/var",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/cores",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/private",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/opt",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/dev",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/sbin",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/bin",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/etc",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/usr",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/Developer",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/System",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "~\/Library",
+      "forceWhitelistedPaths" : [
+        "~\/Library\/Containers\/com.apple.mail\/Data\/Library\/Mail Downloads\/",
+        "~\/Library\/Mail Downloads\/",
+        "~\/Library\/Mobile Documents\/"
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    },
+    {
+      "editable" : false,
+      "enabled" : true,
+      "path" : "\/Library",
+      "forceWhitelistedPaths" : [
+
+      ],
+      "hidden" : true,
+      "membershipMode" : "Untouchable"
+    }
+  ],
+  "ignored extension" : [
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "a",
+        "so",
+        "h",
+        "pch",
+        "c"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "hpp",
+        "h++",
+        "cpp",
+        "c++",
+        "m"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "swift",
+        "java",
+        "class",
+        "idea",
+        "py"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "rb",
+        "php",
+        "css",
+        "js",
+        "json"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "jar",
+        "lib",
+        "dylib",
+        "dll",
+        "ocx"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "pth",
+        "db",
+        "rpl",
+        "hds"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "framework",
+        "build",
+        "plist",
+        "info"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "def",
+        "properties",
+        "proofingtool"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "bup",
+        "ar",
+        "tmp",
+        "hg"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "vsd",
+        "xsd",
+        "xslt",
+        "xsl"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "lproj",
+        "entitlements",
+        "xcconfig"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "sparsebundle",
+        "dsym"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+    },
+    {
+      "editable" : true,
+      "enabled" : true,
+      "pathExtensions" : [
+        "cer",
+        "crt"
+      ],
+      "hidden" : false,
+      "membershipMode" : "Regular"
+     }
+  ]
+}

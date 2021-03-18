@@ -1,0 +1,30 @@
+-- Script by MailMate
+
+on url_encode(theText)
+	return do shell script "printf " & quoted form of theText & " | xxd -u -plain | sed 's/\\(..\\)/%\\1/g' | tr -d '\\n'"
+end url_encode
+
+on create_mailto(_subject, _body, _attachments, _email, _name)
+
+	set _to to _email
+	if (_name is not "") then
+		set _to to _name & " <" & _email & ">"
+	end if
+	set _mailto to "mailto:?to=" & url_encode(_to) & "&subject=" & url_encode(_subject) & "&body=" & url_encode(_body)
+
+	repeat with _attachment in _attachments
+		set _filePath to POSIX path of _attachment
+		set _mailto to _mailto & "&attachment-url=file://" & url_encode(_filePath)
+	end repeat
+
+	return _mailto
+
+end create_mailto
+
+on send_email_with_attachment(ename, eemail, esubject, ebody, eattachment)
+	set _mailto to create_mailto(esubject, ebody, eattachment, eemail, ename)
+	tell application "MailMate"
+		open location _mailto with trust
+		activate
+	end tell
+end send_email_with_attachment

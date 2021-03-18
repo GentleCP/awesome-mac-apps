@@ -1,0 +1,39 @@
+
+/* Class = "NSTextFieldCell"; title = "2.You can also enter it manually by pressing the + button .the URL must start with http"; ObjectID = "0d5-Zu-NHN"; */
+"0d5-Zu-NHN.title" = "2.You can also enter it manually by pressing the + button.the URL must start with http";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "7Lc-Ay-Sn1"; */
+"7Lc-Ay-Sn1.title" = "+";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "DAU-vW-wAb"; */
+"DAU-vW-wAb.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EkH-OO-dB9"; */
+"EkH-OO-dB9.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "IjG-hO-aUv"; */
+"IjG-hO-aUv.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Path or URL"; ObjectID = "L6F-WU-rkW"; */
+"L6F-WU-rkW.headerCell.title" = "Path or URL";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "P4g-ch-eAE"; */
+"P4g-ch-eAE.title" = "-";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Yd9-B0-TEh"; */
+"Yd9-B0-TEh.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "1.Drag the App, file, folder, and URL into the box above"; ObjectID = "eID-2N-fHF"; */
+"eID-2N-fHF.title" = "1.Drag the App, file, folder, and URL into the box above";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "l0o-IH-ZT5"; */
+"l0o-IH-ZT5.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "sis-Kr-F4d"; */
+"sis-Kr-F4d.headerCell.title" = "Type";
+
+/* Class = "NSButtonCell"; title = "Select"; ObjectID = "tGK-nE-pPo"; */
+"tGK-nE-pPo.title" = "Select";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zBN-tT-hsM"; */
+"zBN-tT-hsM.title" = "Text Cell";

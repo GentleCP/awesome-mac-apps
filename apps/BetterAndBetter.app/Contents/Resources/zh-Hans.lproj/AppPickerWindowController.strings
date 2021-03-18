@@ -1,0 +1,39 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Select"; ObjectID = "1Jw-0j-WSp"; */
+"1Jw-0j-WSp.headerCell.title" = "选择";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application Name"; ObjectID = "1xX-gX-NfD"; */
+"1xX-gX-NfD.headerCell.title" = "程序名称";
+
+/* Class = "NSTextFieldCell"; title = "Select Blacklist Apps"; ObjectID = "99y-L5-81c"; */
+"99y-L5-81c.title" = "选择黑名单Apps";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ClB-Xx-HPK"; */
+"ClB-Xx-HPK.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Gxe-MI-oFk"; */
+"Gxe-MI-oFk.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Hdt-AI-EhJ"; */
+"Hdt-AI-EhJ.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "NDn-VV-wyU"; */
+"NDn-VV-wyU.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "WWb-Y3-Kfq"; */
+"WWb-Y3-Kfq.title" = "+";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "b80-vw-EhN"; */
+"b80-vw-EhN.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "gy8-QK-WI6"; */
+"gy8-QK-WI6.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "o3z-Wb-uMG"; */
+"o3z-Wb-uMG.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Icon"; ObjectID = "yfB-YS-VDq"; */
+"yfB-YS-VDq.headerCell.title" = "图标";

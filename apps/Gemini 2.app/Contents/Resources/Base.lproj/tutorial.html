@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <!--<link rel="stylesheet" href="css/tutorial.css">-->
+    <!--<script src="js/snabbt.min.js"></script>-->
+    <!--<script src="js/tutorial.js"></script>-->
+    <style>
+        ::selection {
+            background: transparent;
+        }
+
+        body {
+            margin: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            font-family: -apple-system, "SF UI Text", "Helvetica Neue", sans-serif;
+        }
+
+        .window {
+            width: 660px;
+            height: 396px;
+            overflow: hidden;
+            position: relative;
+
+            /* for browser only */
+
+            /*position: absolute;
+            left: 50%;
+            top: 50%;
+            -webkit-transform: translateX(-50%) translateY(-50%);
+            transform: translateX(-50%) translateY(-50%);
+            background-image: linear-gradient(#AAAAB1, #6A6B79);
+            box-shadow: 0 10px 12px 0 rgba(0,0,0,0.26);
+            border-radius: 5px;*/
+
+        }
+
+        .slide {
+            position: relative;
+            height: 100%;
+        }
+
+        .gemini-logo {
+            position: absolute;
+            top: 97px;
+            left: 345px;
+        }
+
+        .gemini-app {
+            position: absolute;
+            left: 0;
+            top: 40px;
+        }
+
+        .intro-text {
+            position: absolute;
+            left: 350px;
+            top: 190px;
+            width: 270px;
+            color: #FFFFFF;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 1.55;
+            cursor: default;
+        }
+
+        .nowrap {
+            white-space: nowrap;
+        }
+
+        .next {
+            position: absolute;
+            right: 37px;
+            bottom: 18px;
+            padding-right: 12px;
+            font-size: 13px;
+            color: #CDE2FF;
+            cursor: default;
+            -webkit-transition: .2s all ease-in-out;
+            transition: .2s all ease-in-out;
+        }
+
+        .next.disabled {
+            opacity: .1;
+        }
+
+        .next.-dark {
+            color: #149DF6;
+        }
+
+        .next img {
+            position: absolute;
+            left: 100%;
+            top: 50%;
+            margin-top: -6px;
+        }
+
+        .next .next-arrow-dark {
+            opacity: 0;
+        }
+
+        .next .next-arrow-light {
+            opacity: 1;
+        }
+
+        .next.-dark .next-arrow-light {
+            opacity: 0;
+        }
+
+        .next.-dark .next-arrow-dark {
+            opacity: 1;
+        }
+
+        .pagination {
+            position: absolute;
+            bottom: 18px;
+            left: 290px;
+            right: 290px;
+            text-align: center;
+            font-size: 13px;
+            color: #B8B8C7;
+        }
+
+        .stacked-photos {
+            position: absolute;
+            top: 0;
+            left: 42px;
+            -webkit-transform: translateX(671px) translateZ(0);
+            transform: translateX(671px) translateZ(0);
+        }
+
+        .stacked-photos-cover {
+            position: relative;
+            border: 0 solid rgba(0, 0, 0, 0.11);
+            box-shadow: 0 10px 12px 0 rgba(0, 0, 0, 0.26);
+            border-radius: 0 0 5px 5px;
+        }
+
+        .stacked-photos-shadow {
+            position: absolute;
+            background-image: linear-gradient(#FFFFFF, #E4E7EB);
+            border: 0 solid rgba(0, 0, 0, .11);
+            box-shadow: 0 10px 12px 0 rgba(0, 0, 0, .26), inset 0 1px 1px 0 rgba(255, 255, 255, .29);
+            border-radius: 5px;
+        }
+
+        .stacked-photos-shadow-1 {
+            width: 550px;
+            height: 138px;
+            top: 40px;
+            left: 15px;
+            opacity: .69;
+            -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
+        }
+
+        .stacked-photos-shadow-2 {
+            width: 522px;
+            height: 131px;
+            top: 52px;
+            left: 28px;
+            opacity: .6;
+            -webkit-transform: translateY(-15px);
+            transform: translateY(-15px);
+        }
+
+        .stacked-photos-shadow-3 {
+            width: 496px;
+            height: 124px;
+            top: 64px;
+            left: 40px;
+            opacity: .5;
+            -webkit-transform: translateY(-20px);
+            transform: translateY(-20px);
+        }
+
+        .stacked-photos-shadow-4 {
+            width: 471px;
+            height: 118px;
+            top: 74px;
+            left: 55px;
+            opacity: .4;
+            -webkit-transform: translateY(-25px);
+            transform: translateY(-25px);
+        }
+
+        .stacked-photos-shadow-5 {
+            width: 447px;
+            height: 112px;
+            top: 84px;
+            left: 65px;
+            opacity: .3;
+            -webkit-transform: translateY(-30px);
+            transform: translateY(-30px);
+        }
+
+        .stacked-photos-shadow-6 {
+            width: 425px;
+            height: 106px;
+            top: 93px;
+            left: 76px;
+            opacity: .2;
+            -webkit-transform: translateY(-35px);
+            transform: translateY(-35px);
+        }
+
+        .title {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            text-align: center;
+            color: #EEF0F2;
+            font-size: 42px;
+            font-weight: 200;
+            font-family: -apple-system, "SF UI Display", "Helvetica Neue", sans-serif;
+            cursor: default;
+        }
+
+        .title.-hidden {
+            opacity: 0;
+        }
+
+        .sub-title {
+            position: absolute;
+            top: 63px;
+            left: 30px;
+            right: 30px;
+            color: #fff;
+            font-size: 15px;
+            line-height: 23px;
+            text-align: center;
+            font-weight: 400;
+            cursor: default;
+        }
+
+        .text-content {
+            position: absolute;
+            top: 218px;
+            left: 0;
+            right: 0;
+        }
+
+        .text-content.-slide-2 {
+            -webkit-transform: translateX(730px) translateZ(0);
+            transform: translateX(730px) translateZ(0);
+        }
+
+        .text-content.-slide-3 {
+            opacity: 0;
+            -webkit-transform: translateY(-23px);
+            transform: translateY(-23px);
+        }
+
+        .text-content.-slide-4 {
+            -webkit-transform: translateX(730px);
+            transform: translateX(730px);
+        }
+
+        .text-content.-slide-4 .title,
+        .text-content.-slide-5 .title {
+            color: #2A2A2A;
+        }
+
+        .text-content.-slide-4 .sub-title,
+        .text-content.-slide-5 .sub-title {
+            color: #685D5D;
+        }
+
+        .text-content.-slide-5 {
+            opacity: 0;
+        }
+
+        .single-photo {
+            position: absolute;
+            border: 0 solid rgba(0, 0, 0, .11);
+            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .26), 0 10px 12px 0 rgba(0, 0, 0, .24);
+            border-radius: 5px;
+        }
+
+        .single-photo.-photo-1 {
+            -webkit-transform: translateX(190px) translateY(-264px) rotate(21deg);
+            transform: translateX(190px) translateY(-264px) rotate(21deg);
+        }
+
+        .single-photo.-photo-2 {
+            -webkit-transform: translateX(215px) translateY(-274px) rotate(-32deg);
+            transform: translateX(215px) translateY(-274px) rotate(-32deg);
+        }
+
+        .single-photo.-photo-3 {
+            -webkit-transform: translateX(231px) translateY(-259px) rotate(-21deg);
+            transform: translateX(231px) translateY(-259px) rotate(-21deg);
+        }
+
+        .circle {
+            position: absolute;
+            -webkit-transform: translateX(730px) translateY(-50px);
+            transform: translateX(730px) translateY(-50px);
+            width: 695px;
+            height: 695px;
+            border-radius: 50%;
+            background: #fff;
+        }
+
+        .bg-white {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: -webkit-linear-gradient(#fff, #E4E7EB);
+            background: linear-gradient(#fff, #E4E7EB);
+            opacity: 0;
+        }
+
+        .icon-photos {
+            position: absolute;
+            left: 134px;
+            top: 38px;
+            -webkit-transform: translateX(700px);
+            transform: translateX(700px);
+        }
+
+        .icon-itunes {
+            position: absolute;
+            left: 379px;
+            top: 47px;
+            -webkit-transform: translateX(700px) rotate(-180deg);
+            transform: translateX(700px) rotate(-180deg);
+        }
+
+        .icon-autoselect {
+            position: absolute;
+            left: 256px;
+            top: 49px;
+            opacity: 0;
+        }
+
+        .icon-ai {
+            position: absolute;
+            opacity: 0;
+        }
+
+        .icon-ai img {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        .icon-ai-1 {
+            left: 34px;
+            top: 56px;
+        }
+        .icon-ai-2 {
+            left: 116px;
+            top: 55px;
+        }
+        .icon-ai-3 {
+            left: 187px;
+            top: 55px;
+        }
+        .icon-ai-4 {
+            left: 433px;
+            top: 55px;
+        }
+        .icon-ai-5 {
+            left: 505px;
+            top: 55px;
+        }
+        .icon-ai-6 {
+            left: 574px;
+            top: 58px;
+        }
+        .icon-ai-7 {
+            left: 109px;
+            top: 136px;
+        }
+        .icon-ai-8 {
+            left: 184px;
+            top: 131px;
+        }
+        .icon-ai-9 {
+            left: 423px;
+            top: 134px;
+        }
+        .icon-ai-10 {
+            left: 508px;
+            top: 134px;
+        }
+    </style>
+    <script>
+        /*! snabbt.js v0.5.8 built: 2015-09-23  (c)2015 Daniel Lundin @license MIT */
+        !function(a,b){var c=b();"object"==typeof exports?module.exports=c:"function"==typeof define&&define.amd?define([],function(){return a.returnExportsGlobal=c}):a.snabbt=c}(this,function(){var a=[],b=[],c=[],d="transform",e=window.getComputedStyle(document.documentElement,""),f=(Array.prototype.slice.call(e).join("").match(/-(moz|webkit|ms)-/)||""===e.OLink&&["","o"])[1];"webkit"===f&&(d="webkitTransform");var g=function(a,b,c){var d=a;if(void 0!==d.length){for(var e={chainers:[],then:function(a){return console.log("DeprecationWarning: then() is renamed to snabbt()"),this.snabbt(a)},snabbt:function(a){var b=this.chainers.length;return this.chainers.forEach(function(c,d){c.snabbt(h(a,d,b))}),e},setValue:function(a){return this.chainers.forEach(function(b){b.setValue(a)}),e},finish:function(){return this.chainers.forEach(function(a){a.finish()}),e},rollback:function(){return this.chainers.forEach(function(a){a.rollback()}),e}},f=0,g=d.length;g>f;++f)e.chainers.push("string"==typeof b?i(d[f],b,h(c,f,g)):i(d[f],h(b,f,g),c));return e}return"string"==typeof b?i(d,b,h(c,0,1)):i(d,h(b,0,1),c)},h=function(a,b,c){if(!a)return a;var d=U(a);T(a.delay)&&(d.delay=a.delay(b,c)),T(a.callback)&&(console.log("DeprecationWarning: callback is renamed to complete"),d.complete=function(){a.callback.call(this,b,c)});var e=T(a.allDone),f=T(a.complete);(f||e)&&(d.complete=function(){f&&a.complete.call(this,b,c),e&&b==c-1&&a.allDone()}),T(a.valueFeeder)&&(d.valueFeeder=function(d,e){return a.valueFeeder(d,e,b,c)}),T(a.easing)&&(d.easing=function(d){return a.easing(d,b,c)});var g=["position","rotation","skew","rotationPost","scale","scalePost","width","height","opacity","fromPosition","fromRotation","fromSkew","fromRotationPost","fromScale","fromScalePost","fromWidth","fromHeight","fromOpacity","transformOrigin","duration","delay"];return g.forEach(function(e){T(a[e])&&(d[e]=a[e](b,c))}),d},i=function(a,c,d){function e(c){return r.tick(c),r.updateElement(a),r.isStopped()?void 0:r.completed()?void(f.loop>1&&!r.isStopped()?(f.loop-=1,r.restart(),s(e)):(f.complete&&f.complete.call(a),t.length&&(f=t.pop(),i=p(f,l,!0),l=p(f,U(l)),f=q(i,l,f),r=u(f),b.push([a,r]),r.tick(c),s(e)))):s(e)}if("attention"===c)return j(a,d);if("stop"===c)return k(a);var f=c;m();var g=o(a),i=g;i=p(f,i,!0);var l=U(g);l=p(f,l);var n=q(i,l,f),r=u(n);b.push([a,r]),r.updateElement(a,!0);var t=[],v={snabbt:function(a){return t.unshift(h(a,0,1)),v},then:function(a){return console.log("DeprecationWarning: then() is renamed to snabbt()"),this.snabbt(a)}};return s(e),f.manual?r:v},j=function(a,c){function d(b){f.tick(b),f.updateElement(a),f.completed()?(c.callback&&c.callback(a),c.loop&&c.loop>1&&(c.loop--,f.restart(),s(d))):s(d)}var e=p(c,N({}));c.movement=e;var f=v(c);b.push([a,f]),s(d)},k=function(a){for(var c=0,d=b.length;d>c;++c){var e=b[c],f=e[0],g=e[1];f===a&&g.stop()}},l=function(a,b){for(var c=0,d=a.length;d>c;++c){var e=a[c],f=e[0],g=e[1];if(f===b){var h=g.getCurrentState();return g.stop(),h}}},m=function(){c=c.filter(function(a){return n(a[0]).body})},n=function(a){for(var b=a;b.parentNode;)b=b.parentNode;return b},o=function(a){var d=l(b,a);return d?d:l(c,a)},p=function(a,b,c){b||(b=N({position:[0,0,0],rotation:[0,0,0],rotationPost:[0,0,0],scale:[1,1],scalePost:[1,1],skew:[0,0]}));var d="position",e="rotation",f="skew",g="rotationPost",h="scale",i="scalePost",j="width",k="height",l="opacity";return c&&(d="fromPosition",e="fromRotation",f="fromSkew",g="fromRotationPost",h="fromScale",i="fromScalePost",j="fromWidth",k="fromHeight",l="fromOpacity"),b.position=Q(a[d],b.position),b.rotation=Q(a[e],b.rotation),b.rotationPost=Q(a[g],b.rotationPost),b.skew=Q(a[f],b.skew),b.scale=Q(a[h],b.scale),b.scalePost=Q(a[i],b.scalePost),b.opacity=a[l],b.width=a[j],b.height=a[k],b},q=function(a,b,c){return c.startState=a,c.endState=b,c},r=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.msRequestAnimationFrame||function(a){return setTimeout(a,1e3/60)},s=function(b){0===a.length&&r(t),a.push(b)},t=function(d){for(var e=a.length,f=0;e>f;++f)a[f](d);a.splice(0,e);var g=b.filter(function(a){return a[1].completed()});c=c.filter(function(a){for(var b=0,c=g.length;c>b;++b)if(a[0]===g[b][0])return!1;return!0}),c=c.concat(g),b=b.filter(function(a){return!a[1].completed()}),0!==a.length&&r(t)},u=function(a){{var b=a.startState,c=a.endState,d=Q(a.duration,500),e=Q(a.delay,0),f=a.perspective,g=C(Q(a.easing,"linear"),a),h=0===d?c.clone():b.clone();a.transformOrigin}h.transformOrigin=a.transformOrigin;var i,j,k=0,l=0,m=!1,n=!1,o=a.manual,p=0,q=e/d;return j=a.valueFeeder?P(a.valueFeeder,b,c,h):O(b,c,h),{stop:function(){m=!0},isStopped:function(){return m},finish:function(a){o=!1;var b=d*p;k=l-b,i=a,g.resetFrom(p)},rollback:function(a){o=!1,j.setReverse();var b=d*(1-p);k=l-b,i=a,g.resetFrom(p)},restart:function(){k=void 0,g.resetFrom(0)},tick:function(a){if(!m){if(o)return l=a,void this.updateCurrentTransform();if(k||(k=a),a-k>e){n=!0,l=a-e;var b=Math.min(Math.max(0,l-k),d);g.tick(b/d),this.updateCurrentTransform(),this.completed()&&i&&i()}}},getCurrentState:function(){return h},setValue:function(a){n=!0,p=Math.min(Math.max(a,1e-4),1+q)},updateCurrentTransform:function(){var a=g.getValue();if(o){var b=Math.max(1e-5,p-q);g.isSpring?a=b:(g.tick(b,!0),a=g.getValue())}j.tween(a)},completed:function(){return m?!0:0===k?!1:g.completed()},updateElement:function(a,b){if(n||b){var c=j.asMatrix(),d=j.getProperties();R(a,c,f),S(a,d)}}}},v=function(a){var b=a.movement;a.initialVelocity=.1,a.equilibriumPosition=0;var c=A(a),d=!1,e=b.position,f=b.rotation,g=b.rotationPost,h=b.scale,i=b.scalePost,j=b.skew,k=N({position:e?[0,0,0]:void 0,rotation:f?[0,0,0]:void 0,rotationPost:g?[0,0,0]:void 0,scale:h?[0,0]:void 0,skew:j?[0,0]:void 0});return{stop:function(){d=!0},isStopped:function(){return d},tick:function(){d||c.equilibrium||(c.tick(),this.updateMovement())},updateMovement:function(){var a=c.getValue();e&&(k.position[0]=b.position[0]*a,k.position[1]=b.position[1]*a,k.position[2]=b.position[2]*a),f&&(k.rotation[0]=b.rotation[0]*a,k.rotation[1]=b.rotation[1]*a,k.rotation[2]=b.rotation[2]*a),g&&(k.rotationPost[0]=b.rotationPost[0]*a,k.rotationPost[1]=b.rotationPost[1]*a,k.rotationPost[2]=b.rotationPost[2]*a),h&&(k.scale[0]=1+b.scale[0]*a,k.scale[1]=1+b.scale[1]*a),i&&(k.scalePost[0]=1+b.scalePost[0]*a,k.scalePost[1]=1+b.scalePost[1]*a),j&&(k.skew[0]=b.skew[0]*a,k.skew[1]=b.skew[1]*a)},updateElement:function(a){R(a,k.asMatrix()),S(a,k.getProperties())},getCurrentState:function(){return k},completed:function(){return c.equilibrium||d},restart:function(){c=A(a)}}},w=function(a){return a},x=function(a){return(Math.cos(a*Math.PI+Math.PI)+1)/2},y=function(a){return a*a},z=function(a){return-Math.pow(a-1,2)+1},A=function(a){var b=Q(a.startPosition,0),c=Q(a.equilibriumPosition,1),d=Q(a.initialVelocity,0),e=Q(a.springConstant,.8),f=Q(a.springDeceleration,.9),g=Q(a.springMass,10),h=!1;return{isSpring:!0,tick:function(a,i){if(0!==a&&!i&&!h){var j=-(b-c)*e,k=j/g;d+=k,b+=d,d*=f,Math.abs(b-c)<.001&&Math.abs(d)<.001&&(h=!0)}},resetFrom:function(a){console.log("resetting spring from "+a),b=a,d=0},getValue:function(){return h?c:b},completed:function(){return h}}},B={linear:w,ease:x,easeIn:y,easeOut:z},C=function(a,b){if("spring"==a)return A(b);var c=a;T(a)||(c=B[a]);var d,e=c,f=0;return{tick:function(a){f=e(a),d=a},resetFrom:function(){d=0},getValue:function(){return f},completed:function(){return d>=1?d:!1}}},D=function(a,b,c,d){a[0]=1,a[1]=0,a[2]=0,a[3]=0,a[4]=0,a[5]=1,a[6]=0,a[7]=0,a[8]=0,a[9]=0,a[10]=1,a[11]=0,a[12]=b,a[13]=c,a[14]=d,a[15]=1},E=function(a,b){a[0]=1,a[1]=0,a[2]=0,a[3]=0,a[4]=0,a[5]=Math.cos(b),a[6]=-Math.sin(b),a[7]=0,a[8]=0,a[9]=Math.sin(b),a[10]=Math.cos(b),a[11]=0,a[12]=0,a[13]=0,a[14]=0,a[15]=1},F=function(a,b){a[0]=Math.cos(b),a[1]=0,a[2]=Math.sin(b),a[3]=0,a[4]=0,a[5]=1,a[6]=0,a[7]=0,a[8]=-Math.sin(b),a[9]=0,a[10]=Math.cos(b),a[11]=0,a[12]=0,a[13]=0,a[14]=0,a[15]=1},G=function(a,b){a[0]=Math.cos(b),a[1]=-Math.sin(b),a[2]=0,a[3]=0,a[4]=Math.sin(b),a[5]=Math.cos(b),a[6]=0,a[7]=0,a[8]=0,a[9]=0,a[10]=1,a[11]=0,a[12]=0,a[13]=0,a[14]=0,a[15]=1},H=function(a,b,c){a[0]=1,a[1]=Math.tan(b),a[2]=0,a[3]=0,a[4]=Math.tan(c),a[5]=1,a[6]=0,a[7]=0,a[8]=0,a[9]=0,a[10]=1,a[11]=0,a[12]=0,a[13]=0,a[14]=0,a[15]=1},I=function(a,b,c){a[0]=b,a[1]=0,a[2]=0,a[3]=0,a[4]=0,a[5]=c,a[6]=0,a[7]=0,a[8]=0,a[9]=0,a[10]=1,a[11]=0,a[12]=0,a[13]=0,a[14]=0,a[15]=1},J=function(a){a[0]=1,a[1]=0,a[2]=0,a[3]=0,a[4]=0,a[5]=1,a[6]=0,a[7]=0,a[8]=0,a[9]=0,a[10]=1,a[11]=0,a[12]=0,a[13]=0,a[14]=0,a[15]=1},K=function(a,b){b[0]=a[0],b[1]=a[1],b[2]=a[2],b[3]=a[3],b[4]=a[4],b[5]=a[5],b[6]=a[6],b[7]=a[7],b[8]=a[8],b[9]=a[9],b[10]=a[10],b[11]=a[11],b[12]=a[12],b[13]=a[13],b[14]=a[14],b[15]=a[15]},L=function(){var a=new Float32Array(16),b=new Float32Array(16),c=new Float32Array(16);return J(a),{data:a,asCSS:function(){for(var b="matrix3d(",c=0;15>c;++c)b+=Math.abs(a[c])<1e-4?"0,":a[c].toFixed(10)+",";return b+=Math.abs(a[15])<1e-4?"0)":a[15].toFixed(10)+")"},clear:function(){J(a)},translate:function(d,e,f){return K(a,b),D(c,d,e,f),M(b,c,a),this},rotateX:function(d){return K(a,b),E(c,d),M(b,c,a),this},rotateY:function(d){return K(a,b),F(c,d),M(b,c,a),this},rotateZ:function(d){return K(a,b),G(c,d),M(b,c,a),this},scale:function(d,e){return K(a,b),I(c,d,e),M(b,c,a),this},skew:function(d,e){return K(a,b),H(c,d,e),M(b,c,a),this}}},M=function(a,b,c){return c[0]=a[0]*b[0]+a[1]*b[4]+a[2]*b[8]+a[3]*b[12],c[1]=a[0]*b[1]+a[1]*b[5]+a[2]*b[9]+a[3]*b[13],c[2]=a[0]*b[2]+a[1]*b[6]+a[2]*b[10]+a[3]*b[14],c[3]=a[0]*b[3]+a[1]*b[7]+a[2]*b[11]+a[3]*b[15],c[4]=a[4]*b[0]+a[5]*b[4]+a[6]*b[8]+a[7]*b[12],c[5]=a[4]*b[1]+a[5]*b[5]+a[6]*b[9]+a[7]*b[13],c[6]=a[4]*b[2]+a[5]*b[6]+a[6]*b[10]+a[7]*b[14],c[7]=a[4]*b[3]+a[5]*b[7]+a[6]*b[11]+a[7]*b[15],c[8]=a[8]*b[0]+a[9]*b[4]+a[10]*b[8]+a[11]*b[12],c[9]=a[8]*b[1]+a[9]*b[5]+a[10]*b[9]+a[11]*b[13],c[10]=a[8]*b[2]+a[9]*b[6]+a[10]*b[10]+a[11]*b[14],c[11]=a[8]*b[3]+a[9]*b[7]+a[10]*b[11]+a[11]*b[15],c[12]=a[12]*b[0]+a[13]*b[4]+a[14]*b[8]+a[15]*b[12],c[13]=a[12]*b[1]+a[13]*b[5]+a[14]*b[9]+a[15]*b[13],c[14]=a[12]*b[2]+a[13]*b[6]+a[14]*b[10]+a[15]*b[14],c[15]=a[12]*b[3]+a[13]*b[7]+a[14]*b[11]+a[15]*b[15],c},N=function(a){var b=L(),c={opacity:void 0,width:void 0,height:void 0};return{position:a.position,rotation:a.rotation,rotationPost:a.rotationPost,skew:a.skew,scale:a.scale,scalePost:a.scalePost,opacity:a.opacity,width:a.width,height:a.height,clone:function(){return N({position:this.position?this.position.slice(0):void 0,rotation:this.rotation?this.rotation.slice(0):void 0,rotationPost:this.rotationPost?this.rotationPost.slice(0):void 0,skew:this.skew?this.skew.slice(0):void 0,scale:this.scale?this.scale.slice(0):void 0,scalePost:this.scalePost?this.scalePost.slice(0):void 0,height:this.height,width:this.width,opacity:this.opacity})},asMatrix:function(){var a=b;return a.clear(),this.transformOrigin&&a.translate(-this.transformOrigin[0],-this.transformOrigin[1],-this.transformOrigin[2]),this.scale&&a.scale(this.scale[0],this.scale[1]),this.skew&&a.skew(this.skew[0],this.skew[1]),this.rotation&&(a.rotateX(this.rotation[0]),a.rotateY(this.rotation[1]),a.rotateZ(this.rotation[2])),this.position&&a.translate(this.position[0],this.position[1],this.position[2]),this.rotationPost&&(a.rotateX(this.rotationPost[0]),a.rotateY(this.rotationPost[1]),a.rotateZ(this.rotationPost[2])),this.scalePost&&a.scale(this.scalePost[0],this.scalePost[1]),this.transformOrigin&&a.translate(this.transformOrigin[0],this.transformOrigin[1],this.transformOrigin[2]),a},getProperties:function(){return c.opacity=this.opacity,c.width=this.width+"px",c.height=this.height+"px",c}}},O=function(a,b,c){var d=a,e=b,f=c,g=void 0!==e.position,h=void 0!==e.rotation,i=void 0!==e.rotationPost,j=void 0!==e.scale,k=void 0!==e.scalePost,l=void 0!==e.skew,m=void 0!==e.width,n=void 0!==e.height,o=void 0!==e.opacity;return{tween:function(a){if(g){var b=e.position[0]-d.position[0],c=e.position[1]-d.position[1],p=e.position[2]-d.position[2];f.position[0]=d.position[0]+a*b,f.position[1]=d.position[1]+a*c,f.position[2]=d.position[2]+a*p}if(h){var q=e.rotation[0]-d.rotation[0],r=e.rotation[1]-d.rotation[1],s=e.rotation[2]-d.rotation[2];f.rotation[0]=d.rotation[0]+a*q,f.rotation[1]=d.rotation[1]+a*r,f.rotation[2]=d.rotation[2]+a*s}if(i){var t=e.rotationPost[0]-d.rotationPost[0],u=e.rotationPost[1]-d.rotationPost[1],v=e.rotationPost[2]-d.rotationPost[2];f.rotationPost[0]=d.rotationPost[0]+a*t,f.rotationPost[1]=d.rotationPost[1]+a*u,f.rotationPost[2]=d.rotationPost[2]+a*v}if(l){var w=e.skew[0]-d.skew[0],x=e.skew[1]-d.skew[1];f.skew[0]=d.skew[0]+a*w,f.skew[1]=d.skew[1]+a*x}if(j){var y=e.scale[0]-d.scale[0],z=e.scale[1]-d.scale[1];f.scale[0]=d.scale[0]+a*y,f.scale[1]=d.scale[1]+a*z}if(k){var A=e.scalePost[0]-d.scalePost[0],B=e.scalePost[1]-d.scalePost[1];f.scalePost[0]=d.scalePost[0]+a*A,f.scalePost[1]=d.scalePost[1]+a*B}if(m){var C=e.width-d.width;f.width=d.width+a*C}if(n){var D=e.height-d.height;f.height=d.height+a*D}if(o){var E=e.opacity-d.opacity;f.opacity=d.opacity+a*E}},asMatrix:function(){return f.asMatrix()},getProperties:function(){return f.getProperties()},setReverse:function(){var a=d;d=e,e=a}}},P=function(a,b,c,d){var e=a(0,L()),f=b,g=c,h=d,i=!1;return{tween:function(b){i&&(b=1-b),e.clear(),e=a(b,e);var c=g.width-f.width,d=g.height-f.height,j=g.opacity-f.opacity;void 0!==g.width&&(h.width=f.width+b*c),void 0!==g.height&&(h.height=f.height+b*d),void 0!==g.opacity&&(h.opacity=f.opacity+b*j)},asMatrix:function(){return e},getProperties:function(){return h.getProperties()},setReverse:function(){i=!0}}},Q=function(a,b){return"undefined"==typeof a?b:a},R=function(a,b,c){var e="";c&&(e="perspective("+c+"px) ");var f=b.asCSS();a.style[d]=e+f},S=function(a,b){for(var c in b)a.style[c]=b[c]},T=function(a){return"function"==typeof a},U=function(a){if(!a)return a;var b={};for(var c in a)b[c]=a[c];return b};return window.jQuery&&!function(a){a.fn.snabbt=function(a,b){return g(this.get(),a,b)}}(jQuery),g.createMatrix=L,g.setElementTransform=R,g});
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var currentStep = 0;
+            var isAnimating = false;
+            var forceNext = false;
+            var next = document.querySelector('#next'),
+                pagination = document.querySelector('#pagination'),
+                paginationProgress = document.querySelector('#pagination-current'),
+                geminiLogo = document.querySelector('#gemini-logo'),
+                geminiApp = document.querySelector('#gemini-app'),
+                textIntro = document.querySelector('#text-intro'),
+                stackedPhotos = document.querySelector('#stacked-photos'),
+                stackedPhotosShadows = document.querySelectorAll('[data-stacked-photo-shadow]'),
+                textContentSlide_2 = document.querySelector('#text-content-slide-2'),
+                slide_2_title = document.querySelector('#slide-2-title'),
+                slide_2_titleDynamic = document.querySelector('#slide-2-title-dynamic'),
+                slideCover = document.querySelector('[data-stacked-photo-cover]'),
+                textContentSlide_3 = document.querySelector('#text-content-slide-3'),
+                singlePhoto = document.querySelectorAll('[data-single-photo]'),
+                circle = document.querySelector('#circle'),
+                bgWhite = document.querySelector('#bg-white'),
+                textContentSlide_4 = document.querySelector('#text-content-slide-4'),
+                iconPhotos = document.querySelector('#icon-photos'),
+                iconItunes = document.querySelector('#icon-itunes'),
+                textContentSlide_5 = document.querySelector('#text-content-slide-5'),
+                iconAutoSelect = document.querySelector('#icon-autoselect'),
+                iconsAI = document.querySelectorAll('[data-icon-ai]'),
+                iconsAISelected = document.querySelectorAll('[data-icon-ai-selected]');
+
+            next.addEventListener('click', function(event) {
+                if (!isAnimating) {
+                    switchToStep(currentStep += 1);
+                } else {
+                    /*forceNext = true;*/
+                }
+            });
+
+            switchToStep(0);
+
+            /*function forceNextStep() {
+                if (forceNext) {
+                    forceNext = false;
+                    switchToStep(currentStep + 1);
+                }
+            }*/
+
+            function switchToStep(index) {
+                if (currentStep < 0 || currentStep > 5) return;
+                isAnimating = true;
+                currentStep = index;
+                next.classList.add('disabled');
+                switch (index) {
+                case 0:
+                    (function iconAnimation(index) {
+                        var animationTimeout = setTimeout(function() {
+                            geminiApp.src = 'img/animation/' + pad(index, 3) + '.png';
+                            if (index < 88) {
+                                index += 1;
+                                iconAnimation(index);
+                            } else {
+                                isAnimating = false;
+                                clearTimeout(animationTimeout);
+                                next.classList.remove('disabled');
+                                /*forceNextStep();*/
+                            }
+                        }, 25);
+                    })(0);
+                    break;
+                case 1:
+                    snabbt(geminiApp, {
+                        fromPosition: [0, 0, 0],
+                        position: [-600, 0, 0],
+                        fromScale: [1, 1],
+                        scale: [.68, .68],
+                        duration: 700,
+                        easing: 'ease'
+                    });
+                    snabbt(geminiLogo, {
+                        fromPosition: [0, 0, 0],
+                        position: [-650, 0, 0],
+                        duration: 700,
+                        easing: 'ease'
+                    });
+                    snabbt(textIntro, {
+                        fromPosition: [0, 0, 0],
+                        position: [-650, 0, 0],
+                        duration: 700,
+                        easing: 'ease'
+                    });
+                    snabbt(stackedPhotos, {
+                        delay: 300,
+                        fromPosition: [671, 0, 0],
+                        position: [0, 0, 0],
+                        duration: 800,
+                        easing: 'ease'
+                    });
+                    snabbt(textContentSlide_2, {
+                        delay: 400,
+                        fromPosition: [730, 0, 0],
+                        position: [0, 0, 0],
+                        duration: 800,
+                        easing: 'ease'
+                    });
+                    snabbt(stackedPhotosShadows, {
+                        delay: 600,
+                        duration: 800,
+                        fromPosition: function(i) {
+                            return [0, -10 - 5 * (5 - i), 0];
+                        },
+                        position: [0, 0, 0],
+                        easing: 'ease',
+                        allDone: function() {
+                            isAnimating = false;
+                            next.classList.remove('disabled');
+                            /*forceNextStep();*/
+                        }
+                    });
+                    break;
+                case 2:
+                    snabbt(slide_2_title, {
+                        duration: 400,
+                        fromOpacity: 1,
+                        opacity: 0,
+                        easing: 'ease',
+                        allDone: function() {
+                            snabbt(slide_2_titleDynamic, {
+                                duration: 400,
+                                fromOpacity: 0,
+                                opacity: 1,
+                                easing: 'ease',
+                                allDone: function() {
+                                    setTimeout(function() {
+                                        snabbt(slideCover, {
+                                            duration: 900,
+                                            position: [0, -200, 0],
+                                            easing: 'ease'
+                                        });
+                                        snabbt(stackedPhotos, {
+                                            delay: 300,
+                                            duration: 700,
+                                            fromOpacity: 1,
+                                            opacity: 0,
+                                            easing: 'ease'
+                                        });
+                                        snabbt(textContentSlide_2, {
+                                            duration: 400,
+                                            fromOpacity: 1,
+                                            opacity: 0,
+                                            easing: 'ease'
+                                        });
+                                        snabbt(textContentSlide_3, {
+                                            delay: 900,
+                                            duration: 700,
+                                            fromOpacity: 0,
+                                            opacity: 1,
+                                            fromPosition: [0, -10, 0],
+                                            position: [0, 0, 0]
+                                        });
+                                        snabbt(stackedPhotosShadows, {
+                                            duration: 900,
+                                            position: function(i) {
+                                                return [0, -200 + 15 * (5 - i), 0];
+                                            },
+                                            easing: 'ease',
+                                            allDone: function() {
+                                                snabbt(singlePhoto, {
+                                                    duration: function(i) {
+                                                        if (i == 0) {
+                                                            return 1000;
+                                                        } else if (i == 1) {
+                                                            return 800;
+                                                        } else {
+                                                            return 1000;
+                                                        }
+                                                    },
+                                                    fromPosition: function(i) {
+                                                        if (i == 0) {
+                                                            return [190, -264, 0];
+                                                        } else if (i == 1) {
+                                                            return [215, -274, 0];
+                                                        } else {
+                                                            return [231, -259, 0];
+                                                        }
+                                                    },
+                                                    position: function(i) {
+                                                        if (i == 0) {
+                                                            return [-58, 40, 0];
+                                                        } else if (i == 1) {
+                                                            return [212, 40, 0];
+                                                        } else {
+                                                            return [482, 40, 0];
+                                                        }
+                                                    },
+                                                    fromRotation: function(i) {
+                                                        if (i == 0) {
+                                                            return [0, 0, -21 * Math.PI / 180];
+                                                        } else if (i == 1) {
+                                                            return [0, 0, 32 * Math.PI / 180];
+                                                        } else {
+                                                            return [0, 0, 21 * Math.PI / 180];
+                                                        }
+                                                    },
+                                                    rotation: function(i) {
+                                                        if (i == 0) {
+                                                            return [0, 0, 4 * Math.PI / 180];
+                                                        } else if (i == 1) {
+                                                            return [0, 0, -4 * Math.PI / 180];
+                                                        } else {
+                                                            return [0, 0, 4 * Math.PI / 180];
+                                                        }
+                                                    },
+                                                    easing: 'ease',
+                                                    allDone: function() {
+                                                        isAnimating = false;
+                                                        next.classList.remove('disabled');
+                                                        /*forceNextStep();*/
+                                                    }
+                                                });
+                                            }
+                                        });
+                                    }, 200);
+                                }
+                            });
+                        }
+                    });
+                    break;
+                case 3:
+                    next.classList.add('-dark');
+                    snabbt(singlePhoto, {
+                        duration: 930,
+                        position: function(i) {
+                            if (i == 0) {
+                                return [-470, 40, 0];
+                            } else if (i == 1) {
+                                return [-470, 40, 0];
+                            } else {
+                                return [-470, 40, 0];
+                            }
+                        },
+                        rotation: function(i) {
+                            if (i == 0) {
+                                return [0, 0, 21 * Math.PI / 180];
+                            } else if (i == 1) {
+                                return [0, 0, -32 * Math.PI / 180];
+                            } else {
+                                return [0, 0, -21 * Math.PI / 180];
+                            }
+                        },
+                        delay: function(i) {
+                            if (i == 0) {
+                                return 260;
+                            } else if (i == 1) {
+                                return 130;
+                            } else {
+                                return 0;
+                            }
+                        },
+                        easing: 'ease'
+                    });
+                    snabbt(circle, {
+                        duration: 900,
+                        fromPosition: [730, -50, 0],
+                        position: [-60, -185, 0],
+                        delay: 40,
+                        fromWidth: 695,
+                        fromHeight: 695,
+                        width: 780,
+                        height: 780,
+                        easing: 'ease'
+                    });
+                    snabbt(textContentSlide_3, {
+                        position: [-710, 0, 0],
+                        duration: 900,
+                        easing: 'ease'
+                    });
+                    snabbt(textContentSlide_4, {
+                        delay: 220,
+                        fromPosition: [730, 0, 0],
+                        position: [0, 0, 0],
+                        duration: 900,
+                        easing: 'ease'
+                    });
+                    snabbt(bgWhite, {
+                        delay: 840,
+                        duration: 560,
+                        fromOpacity: 0,
+                        opacity: 1,
+                        easing: 'ease'
+                    });
+                    snabbt(iconPhotos, {
+                        delay: 220,
+                        duration: 920,
+                        fromPosition: [700, 0, 0],
+                        position: [0, 0, 0],
+                        easing: 'ease'
+                    });
+                    snabbt(iconItunes, {
+                        delay: 220,
+                        duration: 920,
+                        fromPosition: [700, 0, 0],
+                        position: [0, 0, 0],
+                        fromRotation: [0, 0, -180 * Math.PI / 180],
+                        rotation: [0, 0, 0],
+                        easing: 'ease',
+                        allDone: function() {
+                            isAnimating = false;
+                            next.classList.remove('disabled');
+                            /*forceNextStep();*/
+                        }
+                    });
+                    break;
+                case 4:
+                    snabbt(textContentSlide_4, {
+                        position: [0, -20, 0],
+                        duration: 560,
+                        fromOpacity: 1,
+                        opacity: 0,
+                        easing: 'easeOut',
+                        allDone: function() {
+                            snabbt(textContentSlide_5, {
+                                fromPosition: [0, -20, 0],
+                                position: [0, 0, 0],
+                                duration: 560,
+                                fromOpacity: 0,
+                                opacity: 1,
+                                easing: 'ease'
+                            });
+                        }
+                    });
+                    snabbt(iconPhotos, {
+                        duration: 500,
+                        position: [70, 0, 0],
+                        fromOpacity: 1,
+                        opacity: 0,
+                        scale: [.6, .6],
+                        easing: 'easeOut'
+                    });
+                    snabbt(iconItunes, {
+                        duration: 500,
+                        position: [-70, 0, 0],
+                        fromOpacity: 1,
+                        opacity: 0,
+                        scale: [.6, .6],
+                        rotation: [0, 0, 90 * Math.PI / 180],
+                        easing: 'easeOut'
+                    });
+                    snabbt(iconAutoSelect, {
+                        delay: 400,
+                        duration: 300,
+                        fromOpacity: 0,
+                        opacity: 1,
+                        fromScale: [.6, .6],
+                        scale: [1, 1],
+                        easing: 'spring',
+                        springConstant: .3,
+                        springDeceleration: .8
+                    });
+                    snabbt(iconsAI, {
+                        fromOpacity: 0,
+                        opacity: 1,
+                        duration: 900,
+                        delay: function(i) {
+                            var min = 700;
+                            switch (i) {
+                            case 0:
+                                return min + 50;
+                                break;
+                            case 1:
+                                return min + 300;
+                                break;
+                            case 2:
+                                return min + 250;
+                                break;
+                            case 3:
+                                return min + 150;
+                                break;
+                            case 4:
+                                return min + 50;
+                                break;
+                            case 5:
+                                return min + 150;
+                                break;
+                            case 6:
+                                return min + 100;
+                                break;
+                            case 7:
+                                return min + 150;
+                                break;
+                            case 8:
+                                return min + 200;
+                                break;
+                            case 9:
+                                return min + 310;
+                                break;
+                            }
+                        },
+                        easing: 'ease'
+                    });
+                    snabbt(iconsAISelected, {
+                        duration: 900,
+                        fromOpacity: 0,
+                        opacity: 1,
+                        delay: function(i) {
+                            if (i == 0) {
+                                return 1900;
+                            } else {
+                                return 2100;
+                            }
+                        },
+                        easing: 'ease',
+                        allDone: function() {
+                            isAnimating = false;
+                            next.classList.remove('disabled');
+                            /*forceNextStep();*/
+                        }
+                    });
+                    break;
+                case 5:
+                    snabbt(textContentSlide_5, {
+                        duration: 500,
+                        fromOpacity: 1,
+                        opacity: 0,
+                        position: [0, -30, 0],
+                        easing: 'easeOut'
+                    });
+                    snabbt(iconAutoSelect, {
+                        duration: 500,
+                        position: [0, -60, 0],
+                        scale: [.6, .6],
+                        fromOpacity: 1,
+                        opacity: 0,
+                        easing: 'ease'
+                    });
+                    snabbt(iconsAI, {
+                        duration: 500,
+                        fromOpacity: 1,
+                        opacity: 0,
+                        position: function(i) {
+                            var left = [0, 1, 2, 6, 7];
+                            if (left.indexOf(i) != -1) {
+                                return [40, -35, 0];
+                            } else {
+                                return [-40, -35, 0];
+                            }
+                        },
+                        rotation: function(i) {
+                            var left = [0, 1, 2, 6, 7];
+                            if (left.indexOf(i) != -1) {
+                                return [0, 0, 6 * Math.PI / 180];
+                            } else {
+                                return [0, 0, -6 * Math.PI / 180];
+                            }
+                        },
+                        easing: 'ease',
+                        allDone: function() {
+                            isAnimating = false;
+                            next.classList.remove('disabled');
+                            _appHandleNext();
+                        }
+                    });
+                    break;
+                }
+
+                updatePagination();
+
+                function updatePagination() {
+                    if (currentStep <= 4) {
+                        paginationProgress.textContent = currentStep + 1;
+                    } else {
+                        pagination.style.display = 'none';
+                    }
+                }
+            }
+
+            // icon animation
+            function pad(number, size) {
+                var s = String(number);
+                while (s.length < (size || 2)) {s = "0" + s;}
+                return s;
+            }
+
+            // app
+            function _appHandleNext() {
+                if (window.webkit) {
+                    window.webkit.messageHandlers.next.postMessage({body:''});
+                }
+            }
+        });
+    </script>
+</head>
+<body>
+<div class="window">
+    <div class="slide">
+        <img src="img/logo.png" width="180" alt="Gemini" class="gemini-logo" id="gemini-logo">
+        <div class="intro-text" id="text-intro">Wipe duplicates off the face of your<br>Mac with Gemini&nbsp;2. It’s fast, precise,<br>and adapts to the way <i>you</i> use it.</div>
+        <div class="stacked-photos" id="stacked-photos">
+            <div class="stacked-photos-shadow stacked-photos-shadow-6" data-stacked-photo-shadow></div>
+            <div class="stacked-photos-shadow stacked-photos-shadow-5" data-stacked-photo-shadow></div>
+            <div class="stacked-photos-shadow stacked-photos-shadow-4" data-stacked-photo-shadow></div>
+            <div class="stacked-photos-shadow stacked-photos-shadow-3" data-stacked-photo-shadow></div>
+            <div class="stacked-photos-shadow stacked-photos-shadow-2" data-stacked-photo-shadow></div>
+            <div class="stacked-photos-shadow stacked-photos-shadow-1" data-stacked-photo-shadow></div>
+            <img class="stacked-photos-cover" src="img/cover.jpg" width="578" alt="" data-stacked-photo-cover>
+        </div>
+        <img src="img/animation/000.png" width="380" class="gemini-app" id="gemini-app" alt="">
+        <div class="text-content -slide-2" id="text-content-slide-2">
+            <div class="title" id="slide-2-title">Detects Duplicates</div>
+            <div class="title -hidden" id="slide-2-title-dynamic">Now, It Even...</div>
+            <div class="sub-title">Locate duplicates, even if they’re stashed in a folder far, far away.<br>Gemini’s new algorithm is laser accurate at detecting useless copies.</div>
+        </div>
+        <div class="text-content -slide-3" id="text-content-slide-3">
+            <div class="title">Searches for Similars</div>
+            <div class="sub-title">Identical or not, copies are a waste of space. Now, Gemini&nbsp;2<br>searches for files that look alike — and puts them into spotlight.</div>
+        </div>
+        <img src="img/photo-1.jpg" width="246" class="single-photo -photo-1" data-single-photo alt="">
+        <img src="img/photo-2.jpg" width="246" class="single-photo -photo-2" data-single-photo alt="">
+        <img src="img/photo-3.jpg" width="246" class="single-photo -photo-3" data-single-photo alt="">
+        <div class="circle" id="circle"></div>
+        <div class="bg-white" id="bg-white"></div>
+        <div class="text-content -slide-4" id="text-content-slide-4">
+            <div class="title">Scans Photos & iTunes</div>
+            <div class="sub-title">Most of your duplicates are <i>probably</i> music files and pics. Gemini 2 finds<br>them in their natural habitat: your iTunes and Photos libraries.</div>
+        </div>
+        <img src="img/photos.png" width="168" class="icon-photos" id="icon-photos" alt="">
+        <img src="img/itunes.png" width="147" class="icon-itunes" id="icon-itunes" alt="">
+        <div class="text-content -slide-5" id="text-content-slide-5">
+            <div class="title">And Learns from You</div>
+            <div class="sub-title">As you use Gemini 2, it learns to select and delete<br>duplicates the way <i>you</i> do. Almost like it’s human.</div>
+        </div>
+        <img src="img/autoselect.png" width="160" class="icon-autoselect" id="icon-autoselect" alt="">
+        <div data-icon-ai class="icon-ai icon-ai-1">
+            <img src="img/icons/1.png" width="58" alt="">
+            <img src="img/icons/1-selected.png" width="58" data-icon-ai-selected alt="" style="opacity: 0;">
+        </div>
+        <img src="img/icons/2.png" width="40" data-icon-ai class="icon-ai icon-ai-2" alt="">
+        <img src="img/icons/3.png" width="39" data-icon-ai class="icon-ai icon-ai-3" alt="">
+        <img src="img/icons/4.png" width="39" data-icon-ai class="icon-ai icon-ai-4" alt="">
+        <img src="img/icons/5.png" width="41" data-icon-ai class="icon-ai icon-ai-5" alt="">
+        <img src="img/icons/6.png" width="52" data-icon-ai class="icon-ai icon-ai-6" alt="">
+        <img src="img/icons/7.png" width="52" data-icon-ai class="icon-ai icon-ai-7" alt="">
+        <img src="img/icons/8.png" width="41" data-icon-ai class="icon-ai icon-ai-8" alt="">
+        <div data-icon-ai class="icon-ai icon-ai-9">
+            <img src="img/icons/9.png" width="58" alt="">
+            <img src="img/icons/9-selected.png" width="58" data-icon-ai-selected alt="" style="opacity: 0;">
+        </div>
+        <img src="img/icons/10.png" width="39" data-icon-ai class="icon-ai icon-ai-10" alt="">
+    </div>
+    <div class="next disabled" id="next">
+        Next
+        <img src="img/next.png" class="next-arrow-light" width="7" alt="Next">
+        <img src="img/next-dark.png" class="next-arrow-dark" width="7" alt="Next">
+    </div>
+    <div class="pagination" id="pagination">
+        <span id="pagination-current">1</span> of <span>5</span>
+    </div>
+</div>
+</body>
+</html>

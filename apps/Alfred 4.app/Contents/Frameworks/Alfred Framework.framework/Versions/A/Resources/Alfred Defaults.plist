@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>workflows.sortLastModified</key>
+	<false/>
+	<key>workflows.onlyShowEnabled</key>
+	<false/>
+	<key>workflows.showCreator</key>
+	<true/>
+	<key>workflows.showHotkeys</key>
+	<false/>
+	<key>workflows.showCategories</key>
+	<false/>
+	<key>workflows.showLastModified</key>
+	<false/>
+	<key>appearance.screen</key>
+	<integer>0</integer>
+	<key>hideWorkflowExtensionsOnExport</key>
+	<true/>
+</dict>
+</plist>
